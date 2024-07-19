@@ -1,0 +1,7733 @@
+[
+    {
+        "Name": "Đặng Hà Phương",
+        "ID": 270564,
+        "Van": 9,
+        "Anh": 9.6,
+        "Toan": 9,
+        "Tong": 27.6,
+        "Rank": 1
+    },
+    {
+        "Name": "Trần Đức Tài",
+        "ID": 270633,
+        "Van": 8.75,
+        "Anh": 9,
+        "Toan": 8.75,
+        "Tong": 26.5,
+        "Rank": 2
+    },
+    {
+        "Name": "Phạm Minh Đức",
+        "ID": 270191,
+        "Van": 8.25,
+        "Anh": 9.2,
+        "Toan": 9,
+        "Tong": 26.45,
+        "Rank": 3
+    },
+    {
+        "Name": "Đặng Trần Minh Châu",
+        "ID": 270098,
+        "Van": 9.25,
+        "Anh": 9.4,
+        "Toan": 7.75,
+        "Tong": 26.4,
+        "Rank": 4
+    },
+    {
+        "Name": "Phan Triệu Gia Như",
+        "ID": 270535,
+        "Van": 8.75,
+        "Anh": 9.8,
+        "Toan": 7.75,
+        "Tong": 26.3,
+        "Rank": 5
+    },
+    {
+        "Name": "Hoàng Đức Tuấn",
+        "ID": 270795,
+        "Van": 8.75,
+        "Anh": 8.6,
+        "Toan": 8.5,
+        "Tong": 25.85,
+        "Rank": 6
+    },
+    {
+        "Name": "Phan Hoàng Linh",
+        "ID": 270375,
+        "Van": 9.25,
+        "Anh": 9.2,
+        "Toan": 7.25,
+        "Tong": 25.7,
+        "Rank": 7
+    },
+    {
+        "Name": "Nguyễn Lê Ngọc Anh",
+        "ID": 270023,
+        "Van": 9.5,
+        "Anh": 7.6,
+        "Toan": 8.5,
+        "Tong": 25.6,
+        "Rank": 8
+    },
+    {
+        "Name": "Thái Duy Phúc",
+        "ID": 270560,
+        "Van": 8.5,
+        "Anh": 8.8,
+        "Toan": 8.25,
+        "Tong": 25.55,
+        "Rank": 9
+    },
+    {
+        "Name": "Nguyễn Thị Huệ",
+        "ID": 270285,
+        "Van": 9,
+        "Anh": 9,
+        "Toan": 7.5,
+        "Tong": 25.5,
+        "Rank": 10
+    },
+    {
+        "Name": "Hoàng Thị Diệp Phương",
+        "ID": 270565,
+        "Van": 8.5,
+        "Anh": 8.6,
+        "Toan": 8,
+        "Tong": 25.1,
+        "Rank": 11
+    },
+    {
+        "Name": "Trần Thị Kim Ngân",
+        "ID": 270480,
+        "Van": 8.5,
+        "Anh": 9,
+        "Toan": 7.5,
+        "Tong": 25,
+        "Rank": 12
+    },
+    {
+        "Name": "Nguyễn Quỳnh Chi",
+        "ID": 270102,
+        "Van": 9.5,
+        "Anh": 8,
+        "Toan": 7.25,
+        "Tong": 24.75,
+        "Rank": 13
+    },
+    {
+        "Name": "Nguyễn Thị Anh Thư",
+        "ID": 270698,
+        "Van": 9,
+        "Anh": 9,
+        "Toan": 6.67,
+        "Tong": 24.67,
+        "Rank": 14
+    },
+    {
+        "Name": "Hoàng Yến Nhi",
+        "ID": 270515,
+        "Van": 9.5,
+        "Anh": 7.6,
+        "Toan": 7.25,
+        "Tong": 24.35,
+        "Rank": 15
+    },
+    {
+        "Name": "Nguyễn Trường Giang",
+        "ID": 270203,
+        "Van": 8,
+        "Anh": 8,
+        "Toan": 8.25,
+        "Tong": 24.25,
+        "Rank": 16
+    },
+    {
+        "Name": "Trần Hiền Nhi",
+        "ID": 270525,
+        "Van": 9.25,
+        "Anh": 7.6,
+        "Toan": 7.25,
+        "Tong": 24.1,
+        "Rank": 17
+    },
+    {
+        "Name": "Thái Duy Hảo",
+        "ID": 270217,
+        "Van": 9,
+        "Anh": 6.8,
+        "Toan": 8.25,
+        "Tong": 24.05,
+        "Rank": 18
+    },
+    {
+        "Name": "Nguyễn Hoài Anh",
+        "ID": 270022,
+        "Van": 8.25,
+        "Anh": 7.2,
+        "Toan": 8.5,
+        "Tong": 23.95,
+        "Rank": 19
+    },
+    {
+        "Name": "Phan Thị Thủy Tiên",
+        "ID": 270717,
+        "Van": 9,
+        "Anh": 6.4,
+        "Toan": 8.5,
+        "Tong": 23.9,
+        "Rank": 20
+    },
+    {
+        "Name": "Nguyễn Minh Thư",
+        "ID": 270695,
+        "Van": 8.75,
+        "Anh": 7.8,
+        "Toan": 7.25,
+        "Tong": 23.8,
+        "Rank": 21
+    },
+    {
+        "Name": "Ngô Phúc Khánh",
+        "ID": 270335,
+        "Van": 8.5,
+        "Anh": 7,
+        "Toan": 8.25,
+        "Tong": 23.75,
+        "Rank": 22
+    },
+    {
+        "Name": "Hoàng Phi Hùng",
+        "ID": 270288,
+        "Van": 8.75,
+        "Anh": 7.2,
+        "Toan": 7.75,
+        "Tong": 23.7,
+        "Rank": 23
+    },
+    {
+        "Name": "Trần Văn Phúc",
+        "ID": 270561,
+        "Van": 8.25,
+        "Anh": 7.4,
+        "Toan": 8,
+        "Tong": 23.65,
+        "Rank": 24
+    },
+    {
+        "Name": "Nguyễn Xuân Đạt",
+        "ID": 270169,
+        "Van": 7.25,
+        "Anh": 7,
+        "Toan": 9.25,
+        "Tong": 23.5,
+        "Rank": 25
+    },
+    {
+        "Name": "Nguyễn Đức Văn",
+        "ID": 270808,
+        "Van": 7.75,
+        "Anh": 7,
+        "Toan": 8.75,
+        "Tong": 23.5,
+        "Rank": 26
+    },
+    {
+        "Name": "Phạm Trâm Anh",
+        "ID": 270042,
+        "Van": 8.75,
+        "Anh": 8.2,
+        "Toan": 6.5,
+        "Tong": 23.45,
+        "Rank": 27
+    },
+    {
+        "Name": "Nguyễn Phước Khang",
+        "ID": 270331,
+        "Van": 7.75,
+        "Anh": 7.2,
+        "Toan": 8.5,
+        "Tong": 23.45,
+        "Rank": 28
+    },
+    {
+        "Name": "Thái Thị Phương Linh",
+        "ID": 270381,
+        "Van": 9,
+        "Anh": 6.4,
+        "Toan": 8,
+        "Tong": 23.4,
+        "Rank": 29
+    },
+    {
+        "Name": "Nguyễn Khánh Phương",
+        "ID": 270566,
+        "Van": 9,
+        "Anh": 7.4,
+        "Toan": 7,
+        "Tong": 23.4,
+        "Rank": 30
+    },
+    {
+        "Name": "Vũ Thị Kim Anh",
+        "ID": 270057,
+        "Van": 8.5,
+        "Anh": 7.6,
+        "Toan": 7.25,
+        "Tong": 23.35,
+        "Rank": 31
+    },
+    {
+        "Name": "Nguyễn Thị Hồng Hạnh",
+        "ID": 270214,
+        "Van": 9,
+        "Anh": 7.6,
+        "Toan": 6.75,
+        "Tong": 23.35,
+        "Rank": 32
+    },
+    {
+        "Name": "Phan Thị Diệu Trang",
+        "ID": 270748,
+        "Van": 8.5,
+        "Anh": 7.2,
+        "Toan": 7.5,
+        "Tong": 23.2,
+        "Rank": 33
+    },
+    {
+        "Name": "Đinh Văn Toàn",
+        "ID": 270728,
+        "Van": 8,
+        "Anh": 6.6,
+        "Toan": 8.5,
+        "Tong": 23.1,
+        "Rank": 34
+    },
+    {
+        "Name": "Nguyễn Lê Hoàng Minh",
+        "ID": 270433,
+        "Van": 8,
+        "Anh": 7,
+        "Toan": 8,
+        "Tong": 23,
+        "Rank": 35
+    },
+    {
+        "Name": "Thái Hoàng Minh",
+        "ID": 270435,
+        "Van": 9,
+        "Anh": 6,
+        "Toan": 8,
+        "Tong": 23,
+        "Rank": 36
+    },
+    {
+        "Name": "Đặng Minh Diệp",
+        "ID": 270124,
+        "Van": 8.5,
+        "Anh": 6.2,
+        "Toan": 8.25,
+        "Tong": 22.95,
+        "Rank": 37
+    },
+    {
+        "Name": "Nguyễn Thị Trà My",
+        "ID": 270442,
+        "Van": 8.75,
+        "Anh": 6.2,
+        "Toan": 8,
+        "Tong": 22.95,
+        "Rank": 38
+    },
+    {
+        "Name": "Trần Thị Thúy",
+        "ID": 270689,
+        "Van": 9.25,
+        "Anh": 6.2,
+        "Toan": 7.5,
+        "Tong": 22.95,
+        "Rank": 39
+    },
+    {
+        "Name": "Nguyễn Thị Cẩm Thương",
+        "ID": 270705,
+        "Van": 9,
+        "Anh": 6.4,
+        "Toan": 7.5,
+        "Tong": 22.9,
+        "Rank": 40
+    },
+    {
+        "Name": "Vũ Hoàng Nhật Minh",
+        "ID": 270436,
+        "Van": 8.25,
+        "Anh": 6.2,
+        "Toan": 8.25,
+        "Tong": 22.7,
+        "Rank": 41
+    },
+    {
+        "Name": "Nguyễn Thị Ngân",
+        "ID": 270477,
+        "Van": 8.25,
+        "Anh": 6.2,
+        "Toan": 8.25,
+        "Tong": 22.7,
+        "Rank": 42
+    },
+    {
+        "Name": "Trần Văn Trường",
+        "ID": 270782,
+        "Van": 8.25,
+        "Anh": 6.2,
+        "Toan": 8.25,
+        "Tong": 22.7,
+        "Rank": 43
+    },
+    {
+        "Name": "Nguyễn Đức Dũng",
+        "ID": 270138,
+        "Van": 8.5,
+        "Anh": 5.6,
+        "Toan": 8.5,
+        "Tong": 22.6,
+        "Rank": 44
+    },
+    {
+        "Name": "Trịnh Minh Đạt",
+        "ID": 270173,
+        "Van": 8,
+        "Anh": 6.8,
+        "Toan": 7.75,
+        "Tong": 22.55,
+        "Rank": 45
+    },
+    {
+        "Name": "Hoàng Ngọc ánh",
+        "ID": 270061,
+        "Van": 8.5,
+        "Anh": 6,
+        "Toan": 8,
+        "Tong": 22.5,
+        "Rank": 46
+    },
+    {
+        "Name": "Phan Ngọc ánh",
+        "ID": 270066,
+        "Van": 8.75,
+        "Anh": 6.2,
+        "Toan": 7.5,
+        "Tong": 22.45,
+        "Rank": 47
+    },
+    {
+        "Name": "Đặng Trọng Thịnh",
+        "ID": 270678,
+        "Van": 8,
+        "Anh": 6.4,
+        "Toan": 8,
+        "Tong": 22.4,
+        "Rank": 48
+    },
+    {
+        "Name": "Lương Anh Công",
+        "ID": 270114,
+        "Van": 6.5,
+        "Anh": 8.6,
+        "Toan": 7.25,
+        "Tong": 22.35,
+        "Rank": 49
+    },
+    {
+        "Name": "Nguyễn Thị Dương",
+        "ID": 270151,
+        "Van": 9,
+        "Anh": 5.6,
+        "Toan": 7.75,
+        "Tong": 22.35,
+        "Rank": 50
+    },
+    {
+        "Name": "Lê Phú Phát",
+        "ID": 270540,
+        "Van": 8,
+        "Anh": 6.6,
+        "Toan": 7.75,
+        "Tong": 22.35,
+        "Rank": 51
+    },
+    {
+        "Name": "Lê Hoàng Tuyết Mai",
+        "ID": 270416,
+        "Van": 8.25,
+        "Anh": 6.8,
+        "Toan": 7.25,
+        "Tong": 22.3,
+        "Rank": 52
+    },
+    {
+        "Name": "Thái Hữu Duẫn",
+        "ID": 270126,
+        "Van": 8.75,
+        "Anh": 5,
+        "Toan": 8.5,
+        "Tong": 22.25,
+        "Rank": 53
+    },
+    {
+        "Name": "Nguyễn Quỳnh Trang",
+        "ID": 270737,
+        "Van": 9,
+        "Anh": 6,
+        "Toan": 7.25,
+        "Tong": 22.25,
+        "Rank": 54
+    },
+    {
+        "Name": "Dương Thảo Ngân",
+        "ID": 270476,
+        "Van": 9,
+        "Anh": 6.4,
+        "Toan": 6.75,
+        "Tong": 22.15,
+        "Rank": 55
+    },
+    {
+        "Name": "Nguyễn Thị Hồng Ngọc",
+        "ID": 270486,
+        "Van": 8.5,
+        "Anh": 6.4,
+        "Toan": 7.25,
+        "Tong": 22.15,
+        "Rank": 56
+    },
+    {
+        "Name": "Nguyễn Thị Bảo Khanh",
+        "ID": 270333,
+        "Van": 9,
+        "Anh": 6,
+        "Toan": 7,
+        "Tong": 22,
+        "Rank": 57
+    },
+    {
+        "Name": "Nguyễn Thị Tường Vi",
+        "ID": 270816,
+        "Van": 8.5,
+        "Anh": 6,
+        "Toan": 7.5,
+        "Tong": 22,
+        "Rank": 58
+    },
+    {
+        "Name": "Nguyễn Thị Thục Anh",
+        "ID": 270032,
+        "Van": 8.75,
+        "Anh": 6.2,
+        "Toan": 7,
+        "Tong": 21.95,
+        "Rank": 59
+    },
+    {
+        "Name": "Nguyễn Hoàng Dương",
+        "ID": 270149,
+        "Van": 9,
+        "Anh": 5.6,
+        "Toan": 7.25,
+        "Tong": 21.85,
+        "Rank": 60
+    },
+    {
+        "Name": "Đặng Minh Quân",
+        "ID": 270584,
+        "Van": 8.5,
+        "Anh": 5.8,
+        "Toan": 7.5,
+        "Tong": 21.8,
+        "Rank": 61
+    },
+    {
+        "Name": "Nguyễn Văn Hải Dương",
+        "ID": 270154,
+        "Van": 8,
+        "Anh": 6,
+        "Toan": 7.75,
+        "Tong": 21.75,
+        "Rank": 62
+    },
+    {
+        "Name": "Nguyễn Đăng Minh",
+        "ID": 270432,
+        "Van": 8.5,
+        "Anh": 6,
+        "Toan": 7.25,
+        "Tong": 21.75,
+        "Rank": 63
+    },
+    {
+        "Name": "Phan Thị Lan Trang",
+        "ID": 270751,
+        "Van": 8.5,
+        "Anh": 7,
+        "Toan": 6.25,
+        "Tong": 21.75,
+        "Rank": 64
+    },
+    {
+        "Name": "Vũ Khánh Toàn",
+        "ID": 270729,
+        "Van": 7.5,
+        "Anh": 6.2,
+        "Toan": 8,
+        "Tong": 21.7,
+        "Rank": 65
+    },
+    {
+        "Name": "Nguyễn Đức Bảo",
+        "ID": 270080,
+        "Van": 8.75,
+        "Anh": 5.4,
+        "Toan": 7.5,
+        "Tong": 21.65,
+        "Rank": 66
+    },
+    {
+        "Name": "Nguyễn Thị ánh Dương",
+        "ID": 270152,
+        "Van": 9,
+        "Anh": 6.4,
+        "Toan": 6.25,
+        "Tong": 21.65,
+        "Rank": 67
+    },
+    {
+        "Name": "Trần Bảo Khánh",
+        "ID": 270341,
+        "Van": 8.25,
+        "Anh": 5.4,
+        "Toan": 8,
+        "Tong": 21.65,
+        "Rank": 68
+    },
+    {
+        "Name": "Tô Thị Thúy Ngân",
+        "ID": 270479,
+        "Van": 8.5,
+        "Anh": 5.4,
+        "Toan": 7.75,
+        "Tong": 21.65,
+        "Rank": 69
+    },
+    {
+        "Name": "Trần Khả Tâm",
+        "ID": 270635,
+        "Van": 8.75,
+        "Anh": 5.4,
+        "Toan": 7.5,
+        "Tong": 21.65,
+        "Rank": 70
+    },
+    {
+        "Name": "Nguyễn Thị Mỹ Uyên",
+        "ID": 270804,
+        "Van": 9,
+        "Anh": 5.4,
+        "Toan": 7.25,
+        "Tong": 21.65,
+        "Rank": 71
+    },
+    {
+        "Name": "Trần Thu Huyền",
+        "ID": 270310,
+        "Van": 8.5,
+        "Anh": 5.6,
+        "Toan": 7.5,
+        "Tong": 21.6,
+        "Rank": 72
+    },
+    {
+        "Name": "Nguyễn Tiến Dũng",
+        "ID": 270140,
+        "Van": 7.25,
+        "Anh": 5.8,
+        "Toan": 8.5,
+        "Tong": 21.55,
+        "Rank": 73
+    },
+    {
+        "Name": "Nguyễn Thị Linh",
+        "ID": 270369,
+        "Van": 8.75,
+        "Anh": 5.4,
+        "Toan": 7.25,
+        "Tong": 21.4,
+        "Rank": 74
+    },
+    {
+        "Name": "Vũ Thị Khánh Linh",
+        "ID": 270391,
+        "Van": 7.25,
+        "Anh": 6.4,
+        "Toan": 7.75,
+        "Tong": 21.4,
+        "Rank": 75
+    },
+    {
+        "Name": "Nguyễn Thọ Thành",
+        "ID": 270651,
+        "Van": 8,
+        "Anh": 6.4,
+        "Toan": 7,
+        "Tong": 21.4,
+        "Rank": 76
+    },
+    {
+        "Name": "Thái Thị Dương",
+        "ID": 270155,
+        "Van": 9.25,
+        "Anh": 5.6,
+        "Toan": 6.5,
+        "Tong": 21.35,
+        "Rank": 77
+    },
+    {
+        "Name": "Lê Văn Bảo",
+        "ID": 270078,
+        "Van": 7.75,
+        "Anh": 5.8,
+        "Toan": 7.75,
+        "Tong": 21.3,
+        "Rank": 78
+    },
+    {
+        "Name": "Thái Thị Thành",
+        "ID": 270653,
+        "Van": 9.25,
+        "Anh": 4.8,
+        "Toan": 7.25,
+        "Tong": 21.3,
+        "Rank": 79
+    },
+    {
+        "Name": "Phan Thế Anh",
+        "ID": 270045,
+        "Van": 7,
+        "Anh": 7,
+        "Toan": 7.25,
+        "Tong": 21.25,
+        "Rank": 80
+    },
+    {
+        "Name": "Thái Thị Linh",
+        "ID": 270380,
+        "Van": 8.75,
+        "Anh": 5,
+        "Toan": 7.5,
+        "Tong": 21.25,
+        "Rank": 81
+    },
+    {
+        "Name": "Nguyễn Khánh Ngọc",
+        "ID": 270485,
+        "Van": 8.25,
+        "Anh": 6,
+        "Toan": 7,
+        "Tong": 21.25,
+        "Rank": 82
+    },
+    {
+        "Name": "Nguyễn Thị Ngọc Diễm",
+        "ID": 270123,
+        "Van": 8.25,
+        "Anh": 6.4,
+        "Toan": 6.5,
+        "Tong": 21.15,
+        "Rank": 83
+    },
+    {
+        "Name": "Vũ Đình Phong",
+        "ID": 270555,
+        "Van": 8.75,
+        "Anh": 4.4,
+        "Toan": 8,
+        "Tong": 21.15,
+        "Rank": 84
+    },
+    {
+        "Name": "Nguyễn Phương Thảo",
+        "ID": 270658,
+        "Van": 8.75,
+        "Anh": 6.6,
+        "Toan": 5.75,
+        "Tong": 21.1,
+        "Rank": 85
+    },
+    {
+        "Name": "Nguyễn ánh Trà",
+        "ID": 270731,
+        "Van": 8.5,
+        "Anh": 6.6,
+        "Toan": 6,
+        "Tong": 21.1,
+        "Rank": 86
+    },
+    {
+        "Name": "Nguyễn Thị Hoài Thương",
+        "ID": 270707,
+        "Van": 7.75,
+        "Anh": 7.8,
+        "Toan": 5.5,
+        "Tong": 21.05,
+        "Rank": 87
+    },
+    {
+        "Name": "Nguyễn Cảnh Khang",
+        "ID": 270330,
+        "Van": 7.25,
+        "Anh": 6,
+        "Toan": 7.75,
+        "Tong": 21,
+        "Rank": 88
+    },
+    {
+        "Name": "Lê Xuân Mạnh",
+        "ID": 270421,
+        "Van": 8.5,
+        "Anh": 5,
+        "Toan": 7.5,
+        "Tong": 21,
+        "Rank": 89
+    },
+    {
+        "Name": "Hoàng Thị Hằng",
+        "ID": 270219,
+        "Van": 8.5,
+        "Anh": 5.2,
+        "Toan": 7.25,
+        "Tong": 20.95,
+        "Rank": 90
+    },
+    {
+        "Name": "Nguyễn Vũ Lan Hương",
+        "ID": 270317,
+        "Van": 8.5,
+        "Anh": 5.2,
+        "Toan": 7.25,
+        "Tong": 20.95,
+        "Rank": 91
+    },
+    {
+        "Name": "Nguyễn Duy Anh Khoa",
+        "ID": 270344,
+        "Van": 8.25,
+        "Anh": 4.2,
+        "Toan": 8.5,
+        "Tong": 20.95,
+        "Rank": 92
+    },
+    {
+        "Name": "Nguyễn Quốc Khánh",
+        "ID": 270337,
+        "Van": 8.25,
+        "Anh": 4.6,
+        "Toan": 8,
+        "Tong": 20.85,
+        "Rank": 93
+    },
+    {
+        "Name": "Trần Văn Nam Khánh",
+        "ID": 270343,
+        "Van": 8,
+        "Anh": 4.8,
+        "Toan": 8,
+        "Tong": 20.8,
+        "Rank": 94
+    },
+    {
+        "Name": "Lê Đức Bảo Nam",
+        "ID": 270450,
+        "Van": 8,
+        "Anh": 5,
+        "Toan": 7.75,
+        "Tong": 20.75,
+        "Rank": 95
+    },
+    {
+        "Name": "Trần Danh Việt",
+        "ID": 270827,
+        "Van": 6.5,
+        "Anh": 5.2,
+        "Toan": 9,
+        "Tong": 20.7,
+        "Rank": 96
+    },
+    {
+        "Name": "Nguyễn Minh Đăng",
+        "ID": 270175,
+        "Van": 7.5,
+        "Anh": 6.4,
+        "Toan": 6.75,
+        "Tong": 20.65,
+        "Rank": 97
+    },
+    {
+        "Name": "Nguyễn Xuân Hoàng",
+        "ID": 270279,
+        "Van": 7,
+        "Anh": 6.4,
+        "Toan": 7.25,
+        "Tong": 20.65,
+        "Rank": 98
+    },
+    {
+        "Name": "Trịnh Thị Hương",
+        "ID": 270320,
+        "Van": 8.25,
+        "Anh": 5.6,
+        "Toan": 6.75,
+        "Tong": 20.6,
+        "Rank": 99
+    },
+    {
+        "Name": "Nguyễn Tuấn Kiệt",
+        "ID": 270354,
+        "Van": 8,
+        "Anh": 5.6,
+        "Toan": 7,
+        "Tong": 20.6,
+        "Rank": 100
+    },
+    {
+        "Name": "Phạm Thị Thùy Linh",
+        "ID": 270374,
+        "Van": 7.5,
+        "Anh": 6.6,
+        "Toan": 6.5,
+        "Tong": 20.6,
+        "Rank": 101
+    },
+    {
+        "Name": "Bùi Ngọc ánh",
+        "ID": 270060,
+        "Van": 8,
+        "Anh": 5.8,
+        "Toan": 6.75,
+        "Tong": 20.55,
+        "Rank": 102
+    },
+    {
+        "Name": "Phạm Quốc Khánh",
+        "ID": 270340,
+        "Van": 8.25,
+        "Anh": 3.8,
+        "Toan": 8.5,
+        "Tong": 20.55,
+        "Rank": 103
+    },
+    {
+        "Name": "Nguyễn Đức Nhân",
+        "ID": 270502,
+        "Van": 8.75,
+        "Anh": 5.8,
+        "Toan": 6,
+        "Tong": 20.55,
+        "Rank": 104
+    },
+    {
+        "Name": "Phan Thị Mai Trâm",
+        "ID": 270762,
+        "Van": 7.75,
+        "Anh": 5.8,
+        "Toan": 7,
+        "Tong": 20.55,
+        "Rank": 105
+    },
+    {
+        "Name": "Nguyễn Trọng Bảo Diệp",
+        "ID": 270125,
+        "Van": 8,
+        "Anh": 5,
+        "Toan": 7.5,
+        "Tong": 20.5,
+        "Rank": 106
+    },
+    {
+        "Name": "Nguyễn Bảo Ngọc",
+        "ID": 270484,
+        "Van": 8.5,
+        "Anh": 5,
+        "Toan": 7,
+        "Tong": 20.5,
+        "Rank": 107
+    },
+    {
+        "Name": "Nguyễn Thị Yến Nhi",
+        "ID": 270524,
+        "Van": 8.5,
+        "Anh": 6,
+        "Toan": 6,
+        "Tong": 20.5,
+        "Rank": 108
+    },
+    {
+        "Name": "Nguyễn Khắc Trung",
+        "ID": 270777,
+        "Van": 8.25,
+        "Anh": 5,
+        "Toan": 7.25,
+        "Tong": 20.5,
+        "Rank": 109
+    },
+    {
+        "Name": "Phan Đình Lực",
+        "ID": 270403,
+        "Van": 7.25,
+        "Anh": 6.2,
+        "Toan": 7,
+        "Tong": 20.45,
+        "Rank": 110
+    },
+    {
+        "Name": "Phan Đức Phương",
+        "ID": 270572,
+        "Van": 8,
+        "Anh": 4.2,
+        "Toan": 8.25,
+        "Tong": 20.45,
+        "Rank": 111
+    },
+    {
+        "Name": "Nguyễn Viết Bách",
+        "ID": 270074,
+        "Van": 5.5,
+        "Anh": 7.4,
+        "Toan": 7.5,
+        "Tong": 20.4,
+        "Rank": 112
+    },
+    {
+        "Name": "Trần Danh Đạo",
+        "ID": 270163,
+        "Van": 7.75,
+        "Anh": 5.4,
+        "Toan": 7.25,
+        "Tong": 20.4,
+        "Rank": 113
+    },
+    {
+        "Name": "Phan Thị Ngọc ánh",
+        "ID": 270070,
+        "Van": 8,
+        "Anh": 5.6,
+        "Toan": 6.75,
+        "Tong": 20.35,
+        "Rank": 114
+    },
+    {
+        "Name": "Nguyễn Duy Ngọc Hùng",
+        "ID": 270290,
+        "Van": 8.5,
+        "Anh": 4.6,
+        "Toan": 7.25,
+        "Tong": 20.35,
+        "Rank": 115
+    },
+    {
+        "Name": "Trần Thị Ngọc Khánh",
+        "ID": 270342,
+        "Van": 8.5,
+        "Anh": 4.6,
+        "Toan": 7.25,
+        "Tong": 20.35,
+        "Rank": 116
+    },
+    {
+        "Name": "Trần Thái Vân Anh",
+        "ID": 270053,
+        "Van": 7.5,
+        "Anh": 5.8,
+        "Toan": 7,
+        "Tong": 20.3,
+        "Rank": 117
+    },
+    {
+        "Name": "Trần Thị Cẩm",
+        "ID": 270095,
+        "Van": 8,
+        "Anh": 5.8,
+        "Toan": 6.5,
+        "Tong": 20.3,
+        "Rank": 118
+    },
+    {
+        "Name": "Đặng Tiến Dũng",
+        "ID": 270132,
+        "Van": 8,
+        "Anh": 3.8,
+        "Toan": 8.5,
+        "Tong": 20.3,
+        "Rank": 119
+    },
+    {
+        "Name": "Nguyễn Xuân Thế",
+        "ID": 270675,
+        "Van": 7.5,
+        "Anh": 5.8,
+        "Toan": 7,
+        "Tong": 20.3,
+        "Rank": 120
+    },
+    {
+        "Name": "Nguyễn Thị Hiền",
+        "ID": 270236,
+        "Van": 8.75,
+        "Anh": 5,
+        "Toan": 6.5,
+        "Tong": 20.25,
+        "Rank": 121
+    },
+    {
+        "Name": "Hoàng Thu Huyền",
+        "ID": 270300,
+        "Van": 8.75,
+        "Anh": 5,
+        "Toan": 6.5,
+        "Tong": 20.25,
+        "Rank": 122
+    },
+    {
+        "Name": "Nguyễn Thị Thu Hường",
+        "ID": 270321,
+        "Van": 9,
+        "Anh": 4,
+        "Toan": 7.25,
+        "Tong": 20.25,
+        "Rank": 123
+    },
+    {
+        "Name": "Nguyễn Minh Thái",
+        "ID": 270642,
+        "Van": 7.5,
+        "Anh": 6,
+        "Toan": 6.75,
+        "Tong": 20.25,
+        "Rank": 124
+    },
+    {
+        "Name": "Phan Thị Cẩm Tú",
+        "ID": 270787,
+        "Van": 8.25,
+        "Anh": 4,
+        "Toan": 8,
+        "Tong": 20.25,
+        "Rank": 125
+    },
+    {
+        "Name": "Phan Bá Dũng",
+        "ID": 270143,
+        "Van": 6.75,
+        "Anh": 8.2,
+        "Toan": 5.25,
+        "Tong": 20.2,
+        "Rank": 126
+    },
+    {
+        "Name": "Nguyễn Văn Hoài",
+        "ID": 270269,
+        "Van": 8.5,
+        "Anh": 4.2,
+        "Toan": 7.5,
+        "Tong": 20.2,
+        "Rank": 127
+    },
+    {
+        "Name": "Vũ Thị Thắm",
+        "ID": 270666,
+        "Van": 8.75,
+        "Anh": 5.2,
+        "Toan": 6.25,
+        "Tong": 20.2,
+        "Rank": 128
+    },
+    {
+        "Name": "Phạm Minh Anh",
+        "ID": 270040,
+        "Van": 8,
+        "Anh": 5.4,
+        "Toan": 6.75,
+        "Tong": 20.15,
+        "Rank": 129
+    },
+    {
+        "Name": "Nguyễn Khánh Hòa",
+        "ID": 270264,
+        "Van": 8.75,
+        "Anh": 5.4,
+        "Toan": 6,
+        "Tong": 20.15,
+        "Rank": 130
+    },
+    {
+        "Name": "Trần Thượng Quang Huy",
+        "ID": 270298,
+        "Van": 7,
+        "Anh": 5.4,
+        "Toan": 7.75,
+        "Tong": 20.15,
+        "Rank": 131
+    },
+    {
+        "Name": "Thái Thị Hoài",
+        "ID": 270271,
+        "Van": 8.25,
+        "Anh": 4.6,
+        "Toan": 7.25,
+        "Tong": 20.1,
+        "Rank": 132
+    },
+    {
+        "Name": "Đinh Hữu Quỳnh",
+        "ID": 270607,
+        "Van": 8,
+        "Anh": 3.6,
+        "Toan": 8.5,
+        "Tong": 20.1,
+        "Rank": 133
+    },
+    {
+        "Name": "Trần Quang Đại",
+        "ID": 270159,
+        "Van": 8.75,
+        "Anh": 4,
+        "Toan": 7.25,
+        "Tong": 20,
+        "Rank": 134
+    },
+    {
+        "Name": "Lê Thị Cẩm Ly",
+        "ID": 270409,
+        "Van": 8,
+        "Anh": 5,
+        "Toan": 7,
+        "Tong": 20,
+        "Rank": 135
+    },
+    {
+        "Name": "Ngô Tuấn Minh",
+        "ID": 270431,
+        "Van": 8.5,
+        "Anh": 4,
+        "Toan": 7.5,
+        "Tong": 20,
+        "Rank": 136
+    },
+    {
+        "Name": "Nguyễn Thị Lê Na",
+        "ID": 270446,
+        "Van": 7.75,
+        "Anh": 5,
+        "Toan": 7.25,
+        "Tong": 20,
+        "Rank": 137
+    },
+    {
+        "Name": "Vũ Đình Nam",
+        "ID": 270464,
+        "Van": 7.5,
+        "Anh": 5,
+        "Toan": 7.5,
+        "Tong": 20,
+        "Rank": 138
+    },
+    {
+        "Name": "Nguyễn Duy Tiến",
+        "ID": 270720,
+        "Van": 8,
+        "Anh": 4,
+        "Toan": 8,
+        "Tong": 20,
+        "Rank": 139
+    },
+    {
+        "Name": "Nguyễn Huyền Trang",
+        "ID": 270736,
+        "Van": 7.5,
+        "Anh": 5,
+        "Toan": 7.5,
+        "Tong": 20,
+        "Rank": 140
+    },
+    {
+        "Name": "Nguyễn Quốc Hùng",
+        "ID": 270291,
+        "Van": 8.25,
+        "Anh": 3.2,
+        "Toan": 8.5,
+        "Tong": 19.95,
+        "Rank": 141
+    },
+    {
+        "Name": "Phan Hoàng Vinh",
+        "ID": 270833,
+        "Van": 7.25,
+        "Anh": 4.2,
+        "Toan": 8.5,
+        "Tong": 19.95,
+        "Rank": 142
+    },
+    {
+        "Name": "Ngô Đắc Dũng",
+        "ID": 270134,
+        "Van": 8.25,
+        "Anh": 4.4,
+        "Toan": 7.25,
+        "Tong": 19.9,
+        "Rank": 143
+    },
+    {
+        "Name": "Nguyễn Phúc Thuận",
+        "ID": 270683,
+        "Van": 8.25,
+        "Anh": 4.4,
+        "Toan": 7.25,
+        "Tong": 19.9,
+        "Rank": 144
+    },
+    {
+        "Name": "Phan Thị Thúy",
+        "ID": 270688,
+        "Van": 8.75,
+        "Anh": 4.4,
+        "Toan": 6.75,
+        "Tong": 19.9,
+        "Rank": 145
+    },
+    {
+        "Name": "Nguyễn Thị Tình",
+        "ID": 270726,
+        "Van": 8,
+        "Anh": 4.4,
+        "Toan": 7.5,
+        "Tong": 19.9,
+        "Rank": 146
+    },
+    {
+        "Name": "Nguyễn Anh Tuấn",
+        "ID": 270797,
+        "Van": 8,
+        "Anh": 5.4,
+        "Toan": 6.5,
+        "Tong": 19.9,
+        "Rank": 147
+    },
+    {
+        "Name": "Phan Huy Điền",
+        "ID": 270178,
+        "Van": 8.5,
+        "Anh": 4.6,
+        "Toan": 6.75,
+        "Tong": 19.85,
+        "Rank": 148
+    },
+    {
+        "Name": "Võ Huy Anh",
+        "ID": 270056,
+        "Van": 8,
+        "Anh": 4.8,
+        "Toan": 7,
+        "Tong": 19.8,
+        "Rank": 149
+    },
+    {
+        "Name": "Đinh Hữu Hiệp",
+        "ID": 270246,
+        "Van": 8,
+        "Anh": 4.8,
+        "Toan": 7,
+        "Tong": 19.8,
+        "Rank": 150
+    },
+    {
+        "Name": "Trần Việt Hoàng",
+        "ID": 270282,
+        "Van": 8.75,
+        "Anh": 3.8,
+        "Toan": 7.25,
+        "Tong": 19.8,
+        "Rank": 151
+    },
+    {
+        "Name": "Trần Thị Thanh Huyền",
+        "ID": 270309,
+        "Van": 7.75,
+        "Anh": 5.8,
+        "Toan": 6.25,
+        "Tong": 19.8,
+        "Rank": 152
+    },
+    {
+        "Name": "Nguyễn Chiến Thắng",
+        "ID": 270672,
+        "Van": 8.75,
+        "Anh": 3.8,
+        "Toan": 7.25,
+        "Tong": 19.8,
+        "Rank": 153
+    },
+    {
+        "Name": "Phan Văn Trường",
+        "ID": 270781,
+        "Van": 7.5,
+        "Anh": 5.8,
+        "Toan": 6.5,
+        "Tong": 19.8,
+        "Rank": 154
+    },
+    {
+        "Name": "Vũ Thị Trâm Anh",
+        "ID": 270058,
+        "Van": 8.75,
+        "Anh": 5,
+        "Toan": 6,
+        "Tong": 19.75,
+        "Rank": 155
+    },
+    {
+        "Name": "Nguyễn Khánh Ly",
+        "ID": 270411,
+        "Van": 8,
+        "Anh": 5,
+        "Toan": 6.75,
+        "Tong": 19.75,
+        "Rank": 156
+    },
+    {
+        "Name": "Nguyễn Thị Nga",
+        "ID": 270470,
+        "Van": 8.75,
+        "Anh": 4.2,
+        "Toan": 6.75,
+        "Tong": 19.7,
+        "Rank": 157
+    },
+    {
+        "Name": "Nguyễn Thị Bảo Như",
+        "ID": 270533,
+        "Van": 8,
+        "Anh": 7.2,
+        "Toan": 4.5,
+        "Tong": 19.7,
+        "Rank": 158
+    },
+    {
+        "Name": "Nguyễn Hồng Sơn",
+        "ID": 270626,
+        "Van": 7.25,
+        "Anh": 4.4,
+        "Toan": 8,
+        "Tong": 19.65,
+        "Rank": 159
+    },
+    {
+        "Name": "Nguyễn Thị Trang",
+        "ID": 270738,
+        "Van": 8,
+        "Anh": 5.4,
+        "Toan": 6.25,
+        "Tong": 19.65,
+        "Rank": 160
+    },
+    {
+        "Name": "Trần Thị Hải Yến",
+        "ID": 270862,
+        "Van": 8,
+        "Anh": 5.4,
+        "Toan": 6.25,
+        "Tong": 19.65,
+        "Rank": 161
+    },
+    {
+        "Name": "Nguyễn Thị Phương An",
+        "ID": 270005,
+        "Van": 5.5,
+        "Anh": 6.6,
+        "Toan": 7.5,
+        "Tong": 19.6,
+        "Rank": 162
+    },
+    {
+        "Name": "Thái Thị Hoài",
+        "ID": 270272,
+        "Van": 8.5,
+        "Anh": 3.6,
+        "Toan": 7.5,
+        "Tong": 19.6,
+        "Rank": 163
+    },
+    {
+        "Name": "Hoàng Phi Hùng",
+        "ID": 270287,
+        "Van": 9,
+        "Anh": 4.6,
+        "Toan": 6,
+        "Tong": 19.6,
+        "Rank": 164
+    },
+    {
+        "Name": "Trần Văn Hưởng",
+        "ID": 270325,
+        "Van": 8.5,
+        "Anh": 3.6,
+        "Toan": 7.5,
+        "Tong": 19.6,
+        "Rank": 165
+    },
+    {
+        "Name": "Hà Thùy Linh",
+        "ID": 270364,
+        "Van": 8.5,
+        "Anh": 3.6,
+        "Toan": 7.5,
+        "Tong": 19.6,
+        "Rank": 166
+    },
+    {
+        "Name": "Trương Khánh Linh",
+        "ID": 270388,
+        "Van": 8.5,
+        "Anh": 5.6,
+        "Toan": 5.5,
+        "Tong": 19.6,
+        "Rank": 167
+    },
+    {
+        "Name": "Phan Phương Thảo",
+        "ID": 270661,
+        "Van": 8.5,
+        "Anh": 4.6,
+        "Toan": 6.5,
+        "Tong": 19.6,
+        "Rank": 168
+    },
+    {
+        "Name": "Nguyễn Thị Khánh Chi",
+        "ID": 270103,
+        "Van": 8,
+        "Anh": 4.8,
+        "Toan": 6.75,
+        "Tong": 19.55,
+        "Rank": 169
+    },
+    {
+        "Name": "Thái Thị Hồng Chi",
+        "ID": 270107,
+        "Van": 8.25,
+        "Anh": 4.8,
+        "Toan": 6.5,
+        "Tong": 19.55,
+        "Rank": 170
+    },
+    {
+        "Name": "Nguyễn Duy Đức",
+        "ID": 270186,
+        "Van": 7.75,
+        "Anh": 3.8,
+        "Toan": 8,
+        "Tong": 19.55,
+        "Rank": 171
+    },
+    {
+        "Name": "Hoàng Thị Diễm My",
+        "ID": 270439,
+        "Van": 7.75,
+        "Anh": 4.8,
+        "Toan": 7,
+        "Tong": 19.55,
+        "Rank": 172
+    },
+    {
+        "Name": "Phan Thị Quỳnh Như",
+        "ID": 270534,
+        "Van": 8.25,
+        "Anh": 4.8,
+        "Toan": 6.5,
+        "Tong": 19.55,
+        "Rank": 173
+    },
+    {
+        "Name": "Nguyễn Hải Anh",
+        "ID": 270021,
+        "Van": 7.5,
+        "Anh": 5,
+        "Toan": 7,
+        "Tong": 19.5,
+        "Rank": 174
+    },
+    {
+        "Name": "Nguyễn Thái Minh Anh",
+        "ID": 270026,
+        "Van": 8.5,
+        "Anh": 4,
+        "Toan": 7,
+        "Tong": 19.5,
+        "Rank": 175
+    },
+    {
+        "Name": "Nguyễn Thị Quỳnh Nga",
+        "ID": 270472,
+        "Van": 8.5,
+        "Anh": 4,
+        "Toan": 7,
+        "Tong": 19.5,
+        "Rank": 176
+    },
+    {
+        "Name": "Nguyễn Bùi Văn Quang",
+        "ID": 270579,
+        "Van": 9,
+        "Anh": 4,
+        "Toan": 6.5,
+        "Tong": 19.5,
+        "Rank": 177
+    },
+    {
+        "Name": "Phan Lê Thị Hằng",
+        "ID": 270224,
+        "Van": 8.5,
+        "Anh": 5.2,
+        "Toan": 5.75,
+        "Tong": 19.45,
+        "Rank": 178
+    },
+    {
+        "Name": "Nguyễn Thị ánh Hồng",
+        "ID": 270283,
+        "Van": 8.25,
+        "Anh": 5.2,
+        "Toan": 6,
+        "Tong": 19.45,
+        "Rank": 179
+    },
+    {
+        "Name": "Phan Thị Khánh Linh",
+        "ID": 270377,
+        "Van": 8.25,
+        "Anh": 4.2,
+        "Toan": 7,
+        "Tong": 19.45,
+        "Rank": 180
+    },
+    {
+        "Name": "Phan Gia Minh",
+        "ID": 270434,
+        "Van": 7.25,
+        "Anh": 4.2,
+        "Toan": 8,
+        "Tong": 19.45,
+        "Rank": 181
+    },
+    {
+        "Name": "Thái Thị Thảo Phương",
+        "ID": 270574,
+        "Van": 8.25,
+        "Anh": 4.2,
+        "Toan": 7,
+        "Tong": 19.45,
+        "Rank": 182
+    },
+    {
+        "Name": "Nguyễn Duy Quang",
+        "ID": 270580,
+        "Van": 8.5,
+        "Anh": 3.2,
+        "Toan": 7.75,
+        "Tong": 19.45,
+        "Rank": 183
+    },
+    {
+        "Name": "Nguyễn Đăng Sáng",
+        "ID": 270622,
+        "Van": 7.75,
+        "Anh": 4.2,
+        "Toan": 7.5,
+        "Tong": 19.45,
+        "Rank": 184
+    },
+    {
+        "Name": "Đặng Hoàng Bá Thắng",
+        "ID": 270670,
+        "Van": 8,
+        "Anh": 5.2,
+        "Toan": 6.25,
+        "Tong": 19.45,
+        "Rank": 185
+    },
+    {
+        "Name": "Đinh Thảo Nhi",
+        "ID": 270513,
+        "Van": 7.5,
+        "Anh": 5.4,
+        "Toan": 6.5,
+        "Tong": 19.4,
+        "Rank": 186
+    },
+    {
+        "Name": "Nguyễn Thị Thành",
+        "ID": 270650,
+        "Van": 9,
+        "Anh": 3.4,
+        "Toan": 7,
+        "Tong": 19.4,
+        "Rank": 187
+    },
+    {
+        "Name": "Nguyễn Thị Quỳnh Chi",
+        "ID": 270104,
+        "Van": 7.5,
+        "Anh": 4.6,
+        "Toan": 7.25,
+        "Tong": 19.35,
+        "Rank": 188
+    },
+    {
+        "Name": "Nguyễn Xuân Thuyên",
+        "ID": 270690,
+        "Van": 7.75,
+        "Anh": 4.6,
+        "Toan": 7,
+        "Tong": 19.35,
+        "Rank": 189
+    },
+    {
+        "Name": "Ngô Văn Chí Trung",
+        "ID": 270775,
+        "Van": 8.75,
+        "Anh": 3.6,
+        "Toan": 7,
+        "Tong": 19.35,
+        "Rank": 190
+    },
+    {
+        "Name": "Nguyễn Thị Phương Anh",
+        "ID": 270028,
+        "Van": 8,
+        "Anh": 4.8,
+        "Toan": 6.5,
+        "Tong": 19.3,
+        "Rank": 191
+    },
+    {
+        "Name": "Phạm Tuấn Phong",
+        "ID": 270553,
+        "Van": 7.5,
+        "Anh": 3.8,
+        "Toan": 8,
+        "Tong": 19.3,
+        "Rank": 192
+    },
+    {
+        "Name": "Nguyễn Đức Kiên",
+        "ID": 270349,
+        "Van": 7.25,
+        "Anh": 5,
+        "Toan": 7,
+        "Tong": 19.25,
+        "Rank": 193
+    },
+    {
+        "Name": "Nguyễn Thùy Linh",
+        "ID": 270373,
+        "Van": 8.5,
+        "Anh": 4,
+        "Toan": 6.75,
+        "Tong": 19.25,
+        "Rank": 194
+    },
+    {
+        "Name": "Hoàng Anh Tuấn",
+        "ID": 270793,
+        "Van": 7.75,
+        "Anh": 4,
+        "Toan": 7.5,
+        "Tong": 19.25,
+        "Rank": 195
+    },
+    {
+        "Name": "Phan Nguyễn Mỹ An",
+        "ID": 270010,
+        "Van": 8.75,
+        "Anh": 6.2,
+        "Toan": 4.25,
+        "Tong": 19.2,
+        "Rank": 196
+    },
+    {
+        "Name": "Nguyễn Vũ Hiền Anh",
+        "ID": 270037,
+        "Van": 7.75,
+        "Anh": 4.2,
+        "Toan": 7.25,
+        "Tong": 19.2,
+        "Rank": 197
+    },
+    {
+        "Name": "Nguyễn Đồng Linh Đan",
+        "ID": 270161,
+        "Van": 8.25,
+        "Anh": 5.2,
+        "Toan": 5.75,
+        "Tong": 19.2,
+        "Rank": 198
+    },
+    {
+        "Name": "Phan Thị Thanh Phương",
+        "ID": 270573,
+        "Van": 8.75,
+        "Anh": 6.2,
+        "Toan": 4.25,
+        "Tong": 19.2,
+        "Rank": 199
+    },
+    {
+        "Name": "Nguyễn Thanh Thuỷ",
+        "ID": 270684,
+        "Van": 8.75,
+        "Anh": 4.2,
+        "Toan": 6.25,
+        "Tong": 19.2,
+        "Rank": 200
+    },
+    {
+        "Name": "Phan Văn Trí",
+        "ID": 270764,
+        "Van": 7.5,
+        "Anh": 4.2,
+        "Toan": 7.5,
+        "Tong": 19.2,
+        "Rank": 201
+    },
+    {
+        "Name": "Nguyễn Ngọc Quỳnh Anh",
+        "ID": 270025,
+        "Van": 6.75,
+        "Anh": 5.4,
+        "Toan": 7,
+        "Tong": 19.15,
+        "Rank": 202
+    },
+    {
+        "Name": "Vũ Hoài Băng",
+        "ID": 270087,
+        "Van": 8.25,
+        "Anh": 5.4,
+        "Toan": 5.5,
+        "Tong": 19.15,
+        "Rank": 203
+    },
+    {
+        "Name": "Trần Danh Đạt",
+        "ID": 270172,
+        "Van": 8.25,
+        "Anh": 4.4,
+        "Toan": 6.5,
+        "Tong": 19.15,
+        "Rank": 204
+    },
+    {
+        "Name": "Phan Thị Khánh Huyền",
+        "ID": 270307,
+        "Van": 8.75,
+        "Anh": 5.4,
+        "Toan": 5,
+        "Tong": 19.15,
+        "Rank": 205
+    },
+    {
+        "Name": "Đặng Văn Kiện",
+        "ID": 270353,
+        "Van": 8,
+        "Anh": 4.4,
+        "Toan": 6.75,
+        "Tong": 19.15,
+        "Rank": 206
+    },
+    {
+        "Name": "Phan Thị Nhật Anh",
+        "ID": 270047,
+        "Van": 8.75,
+        "Anh": 4.6,
+        "Toan": 5.75,
+        "Tong": 19.1,
+        "Rank": 207
+    },
+    {
+        "Name": "Hoàng Phạm Danh Bích",
+        "ID": 270090,
+        "Van": 6.25,
+        "Anh": 6.6,
+        "Toan": 6.25,
+        "Tong": 19.1,
+        "Rank": 208
+    },
+    {
+        "Name": "Đặng Thị ánh Tuyết",
+        "ID": 270800,
+        "Van": 8.75,
+        "Anh": 4.8,
+        "Toan": 5.5,
+        "Tong": 19.05,
+        "Rank": 209
+    },
+    {
+        "Name": "Trần Thị Thảo Uyên",
+        "ID": 270807,
+        "Van": 7.5,
+        "Anh": 4.8,
+        "Toan": 6.75,
+        "Tong": 19.05,
+        "Rank": 210
+    },
+    {
+        "Name": "Chu Thị An",
+        "ID": 270001,
+        "Van": 8,
+        "Anh": 4,
+        "Toan": 7,
+        "Tong": 19,
+        "Rank": 211
+    },
+    {
+        "Name": "Phạm Hoàng Anh",
+        "ID": 270038,
+        "Van": 8.75,
+        "Anh": 4,
+        "Toan": 6.25,
+        "Tong": 19,
+        "Rank": 212
+    },
+    {
+        "Name": "Hoàng Thị Hiền",
+        "ID": 270232,
+        "Van": 9,
+        "Anh": 5,
+        "Toan": 5,
+        "Tong": 19,
+        "Rank": 213
+    },
+    {
+        "Name": "Lưu Thị Ngọc",
+        "ID": 270483,
+        "Van": 8.5,
+        "Anh": 5,
+        "Toan": 5.5,
+        "Tong": 19,
+        "Rank": 214
+    },
+    {
+        "Name": "Trần Đặng Long Nhật",
+        "ID": 270511,
+        "Van": 7.25,
+        "Anh": 5,
+        "Toan": 6.75,
+        "Tong": 19,
+        "Rank": 215
+    },
+    {
+        "Name": "Thái Thùy Phương",
+        "ID": 270575,
+        "Van": 8.75,
+        "Anh": 5,
+        "Toan": 5.25,
+        "Tong": 19,
+        "Rank": 216
+    },
+    {
+        "Name": "Phan Linh Đan",
+        "ID": 270162,
+        "Van": 8.75,
+        "Anh": 3.2,
+        "Toan": 7,
+        "Tong": 18.95,
+        "Rank": 217
+    },
+    {
+        "Name": "Nguyễn Thị Yến Nhi",
+        "ID": 270521,
+        "Van": 8.5,
+        "Anh": 5.2,
+        "Toan": 5.25,
+        "Tong": 18.95,
+        "Rank": 218
+    },
+    {
+        "Name": "Nguyễn Thị Minh Phương",
+        "ID": 270571,
+        "Van": 7.5,
+        "Anh": 5.2,
+        "Toan": 6.25,
+        "Tong": 18.95,
+        "Rank": 219
+    },
+    {
+        "Name": "Phạm Thị Kiều An",
+        "ID": 270007,
+        "Van": 7.25,
+        "Anh": 4.4,
+        "Toan": 7.25,
+        "Tong": 18.9,
+        "Rank": 220
+    },
+    {
+        "Name": "Phạm Thị Quỳnh Chi",
+        "ID": 270105,
+        "Van": 8.25,
+        "Anh": 4.4,
+        "Toan": 6.25,
+        "Tong": 18.9,
+        "Rank": 221
+    },
+    {
+        "Name": "Bùi Thị Thu",
+        "ID": 270682,
+        "Van": 8.75,
+        "Anh": 4.4,
+        "Toan": 5.75,
+        "Tong": 18.9,
+        "Rank": 222
+    },
+    {
+        "Name": "Nguyễn Trường An",
+        "ID": 270006,
+        "Van": 5.75,
+        "Anh": 5.6,
+        "Toan": 7.5,
+        "Tong": 18.85,
+        "Rank": 223
+    },
+    {
+        "Name": "Nguyễn Đình Hiệp",
+        "ID": 270248,
+        "Van": 8.25,
+        "Anh": 4.6,
+        "Toan": 6,
+        "Tong": 18.85,
+        "Rank": 224
+    },
+    {
+        "Name": "Bùi Thị Linh",
+        "ID": 270360,
+        "Van": 8.5,
+        "Anh": 2.6,
+        "Toan": 7.75,
+        "Tong": 18.85,
+        "Rank": 225
+    },
+    {
+        "Name": "Chu Thị Thảo My",
+        "ID": 270438,
+        "Van": 7.75,
+        "Anh": 4.6,
+        "Toan": 6.5,
+        "Tong": 18.85,
+        "Rank": 226
+    },
+    {
+        "Name": "Lê Thị Xuân Sáng",
+        "ID": 270621,
+        "Van": 8.5,
+        "Anh": 5.6,
+        "Toan": 4.75,
+        "Tong": 18.85,
+        "Rank": 227
+    },
+    {
+        "Name": "Nguyễn Thị Thùy Trang",
+        "ID": 270744,
+        "Van": 8,
+        "Anh": 4.6,
+        "Toan": 6.25,
+        "Tong": 18.85,
+        "Rank": 228
+    },
+    {
+        "Name": "Phan Duy Anh Tuấn",
+        "ID": 270799,
+        "Van": 6.75,
+        "Anh": 4.6,
+        "Toan": 7.5,
+        "Tong": 18.85,
+        "Rank": 229
+    },
+    {
+        "Name": "Nguyễn Ngọc Thảo Vy",
+        "ID": 270840,
+        "Van": 7.75,
+        "Anh": 3.6,
+        "Toan": 7.5,
+        "Tong": 18.85,
+        "Rank": 230
+    },
+    {
+        "Name": "Nguyễn Thị Hằng",
+        "ID": 270221,
+        "Van": 8,
+        "Anh": 4.8,
+        "Toan": 6,
+        "Tong": 18.8,
+        "Rank": 231
+    },
+    {
+        "Name": "Nguyễn Thị Hiền",
+        "ID": 270234,
+        "Van": 7.5,
+        "Anh": 5.8,
+        "Toan": 5.5,
+        "Tong": 18.8,
+        "Rank": 232
+    },
+    {
+        "Name": "Nguyễn Thị Uyển Nhi",
+        "ID": 270520,
+        "Van": 8.5,
+        "Anh": 4.8,
+        "Toan": 5.5,
+        "Tong": 18.8,
+        "Rank": 233
+    },
+    {
+        "Name": "Trần Đăng Phong",
+        "ID": 270554,
+        "Van": 7.75,
+        "Anh": 3.8,
+        "Toan": 7.25,
+        "Tong": 18.8,
+        "Rank": 234
+    },
+    {
+        "Name": "Phan Đăng Quân",
+        "ID": 270591,
+        "Van": 7.5,
+        "Anh": 5.8,
+        "Toan": 5.5,
+        "Tong": 18.8,
+        "Rank": 235
+    },
+    {
+        "Name": "Hồ Thị Hiền",
+        "ID": 270233,
+        "Van": 7.5,
+        "Anh": 5,
+        "Toan": 6.25,
+        "Tong": 18.75,
+        "Rank": 236
+    },
+    {
+        "Name": "Nguyễn Thanh Phong",
+        "ID": 270551,
+        "Van": 6,
+        "Anh": 6,
+        "Toan": 6.75,
+        "Tong": 18.75,
+        "Rank": 237
+    },
+    {
+        "Name": "Bùi Thị Thủy",
+        "ID": 270685,
+        "Van": 9,
+        "Anh": 4,
+        "Toan": 5.75,
+        "Tong": 18.75,
+        "Rank": 238
+    },
+    {
+        "Name": "Hoàng Minh Thư",
+        "ID": 270692,
+        "Van": 8.5,
+        "Anh": 5,
+        "Toan": 5.25,
+        "Tong": 18.75,
+        "Rank": 239
+    },
+    {
+        "Name": "Nguyễn Thị Hương Trang",
+        "ID": 270741,
+        "Van": 8,
+        "Anh": 4,
+        "Toan": 6.75,
+        "Tong": 18.75,
+        "Rank": 240
+    },
+    {
+        "Name": "Nguyễn Thị Vân Trang",
+        "ID": 270745,
+        "Van": 8.5,
+        "Anh": 4,
+        "Toan": 6.25,
+        "Tong": 18.75,
+        "Rank": 241
+    },
+    {
+        "Name": "Nguyễn Đức Trung",
+        "ID": 270776,
+        "Van": 7.75,
+        "Anh": 5,
+        "Toan": 6,
+        "Tong": 18.75,
+        "Rank": 242
+    },
+    {
+        "Name": "Nguyễn Tố Uyên",
+        "ID": 270805,
+        "Van": 8,
+        "Anh": 4,
+        "Toan": 6.75,
+        "Tong": 18.75,
+        "Rank": 243
+    },
+    {
+        "Name": "Lưu Phương Anh",
+        "ID": 270018,
+        "Van": 8.5,
+        "Anh": 5.2,
+        "Toan": 5,
+        "Tong": 18.7,
+        "Rank": 244
+    },
+    {
+        "Name": "Doãn Văn Nhật",
+        "ID": 270506,
+        "Van": 6.75,
+        "Anh": 4.2,
+        "Toan": 7.75,
+        "Tong": 18.7,
+        "Rank": 245
+    },
+    {
+        "Name": "Nguyễn Thị Nhi",
+        "ID": 270518,
+        "Van": 7,
+        "Anh": 4.2,
+        "Toan": 7.5,
+        "Tong": 18.7,
+        "Rank": 246
+    },
+    {
+        "Name": "Phan Thị Hoài Thương",
+        "ID": 270712,
+        "Van": 7.25,
+        "Anh": 4.2,
+        "Toan": 7.25,
+        "Tong": 18.7,
+        "Rank": 247
+    },
+    {
+        "Name": "Bùi Thị Huyền Trang",
+        "ID": 270733,
+        "Van": 8.5,
+        "Anh": 4.2,
+        "Toan": 6,
+        "Tong": 18.7,
+        "Rank": 248
+    },
+    {
+        "Name": "Trần Hoàng Khánh Linh",
+        "ID": 270383,
+        "Van": 8.25,
+        "Anh": 3.4,
+        "Toan": 7,
+        "Tong": 18.65,
+        "Rank": 249
+    },
+    {
+        "Name": "Hồ Thị Trà My",
+        "ID": 270440,
+        "Van": 7.75,
+        "Anh": 4.4,
+        "Toan": 6.5,
+        "Tong": 18.65,
+        "Rank": 250
+    },
+    {
+        "Name": "Nguyễn Thị Diệu Vy",
+        "ID": 270841,
+        "Van": 8,
+        "Anh": 4.4,
+        "Toan": 6.25,
+        "Tong": 18.65,
+        "Rank": 251
+    },
+    {
+        "Name": "Dương Đình Dũng",
+        "ID": 270131,
+        "Van": 7.5,
+        "Anh": 3.6,
+        "Toan": 7.5,
+        "Tong": 18.6,
+        "Rank": 252
+    },
+    {
+        "Name": "Nguyễn Công Dũng",
+        "ID": 270136,
+        "Van": 7.25,
+        "Anh": 3.6,
+        "Toan": 7.75,
+        "Tong": 18.6,
+        "Rank": 253
+    },
+    {
+        "Name": "Đặng Trọng Đạt",
+        "ID": 270165,
+        "Van": 8.25,
+        "Anh": 3.6,
+        "Toan": 6.75,
+        "Tong": 18.6,
+        "Rank": 254
+    },
+    {
+        "Name": "Hoàng Thị Hoài Đức",
+        "ID": 270184,
+        "Van": 8,
+        "Anh": 5.6,
+        "Toan": 5,
+        "Tong": 18.6,
+        "Rank": 255
+    },
+    {
+        "Name": "Hoàng Xuân Phong",
+        "ID": 270548,
+        "Van": 7.75,
+        "Anh": 5.6,
+        "Toan": 5.25,
+        "Tong": 18.6,
+        "Rank": 256
+    },
+    {
+        "Name": "Phan Thị Băng Băng",
+        "ID": 270086,
+        "Van": 8,
+        "Anh": 3.8,
+        "Toan": 6.75,
+        "Tong": 18.55,
+        "Rank": 257
+    },
+    {
+        "Name": "Nguyễn Thảo My",
+        "ID": 270441,
+        "Van": 8.5,
+        "Anh": 3.8,
+        "Toan": 6.25,
+        "Tong": 18.55,
+        "Rank": 258
+    },
+    {
+        "Name": "Nguyễn Thị Mỹ",
+        "ID": 270444,
+        "Van": 8.5,
+        "Anh": 3.8,
+        "Toan": 6.25,
+        "Tong": 18.55,
+        "Rank": 259
+    },
+    {
+        "Name": "Nguyễn Quang Nam",
+        "ID": 270456,
+        "Van": 7.5,
+        "Anh": 3.8,
+        "Toan": 7.25,
+        "Tong": 18.55,
+        "Rank": 260
+    },
+    {
+        "Name": "Ngô Hoàng Nam",
+        "ID": 270452,
+        "Van": 7.75,
+        "Anh": 5.2,
+        "Toan": 5.58,
+        "Tong": 18.53,
+        "Rank": 261
+    },
+    {
+        "Name": "Nguyễn Thị Bảo An",
+        "ID": 270004,
+        "Van": 7.25,
+        "Anh": 4,
+        "Toan": 7.25,
+        "Tong": 18.5,
+        "Rank": 262
+    },
+    {
+        "Name": "Nguyễn Thị Dương Dung",
+        "ID": 270127,
+        "Van": 8,
+        "Anh": 5,
+        "Toan": 5.5,
+        "Tong": 18.5,
+        "Rank": 263
+    },
+    {
+        "Name": "Nguyễn Mai Linh",
+        "ID": 270368,
+        "Van": 8.5,
+        "Anh": 4,
+        "Toan": 6,
+        "Tong": 18.5,
+        "Rank": 264
+    },
+    {
+        "Name": "Nguyễn Thị Quỳnh Mai",
+        "ID": 270418,
+        "Van": 8.25,
+        "Anh": 5,
+        "Toan": 5.25,
+        "Tong": 18.5,
+        "Rank": 265
+    },
+    {
+        "Name": "Độ Thị Hoài Thương",
+        "ID": 270702,
+        "Van": 8.75,
+        "Anh": 6,
+        "Toan": 3.75,
+        "Tong": 18.5,
+        "Rank": 266
+    },
+    {
+        "Name": "Nguyễn Thị Quỳnh Trang",
+        "ID": 270742,
+        "Van": 8.25,
+        "Anh": 6,
+        "Toan": 4.25,
+        "Tong": 18.5,
+        "Rank": 267
+    },
+    {
+        "Name": "Phạm Văn Trường",
+        "ID": 270780,
+        "Van": 8.75,
+        "Anh": 3,
+        "Toan": 6.75,
+        "Tong": 18.5,
+        "Rank": 268
+    },
+    {
+        "Name": "Nguyễn Thị Trà Vy",
+        "ID": 270842,
+        "Van": 8.75,
+        "Anh": 4,
+        "Toan": 5.75,
+        "Tong": 18.5,
+        "Rank": 269
+    },
+    {
+        "Name": "Hồ Đình Huân",
+        "ID": 270284,
+        "Van": 7.75,
+        "Anh": 5.2,
+        "Toan": 5.5,
+        "Tong": 18.45,
+        "Rank": 270
+    },
+    {
+        "Name": "Nguyễn Thị Thanh Huyền",
+        "ID": 270304,
+        "Van": 7.75,
+        "Anh": 5.2,
+        "Toan": 5.5,
+        "Tong": 18.45,
+        "Rank": 271
+    },
+    {
+        "Name": "Phan Văn Kỷ",
+        "ID": 270355,
+        "Van": 8.75,
+        "Anh": 4.2,
+        "Toan": 5.5,
+        "Tong": 18.45,
+        "Rank": 272
+    },
+    {
+        "Name": "Đường Như Quỳnh",
+        "ID": 270608,
+        "Van": 7.75,
+        "Anh": 4.2,
+        "Toan": 6.5,
+        "Tong": 18.45,
+        "Rank": 273
+    },
+    {
+        "Name": "Nguyễn Tuấn Anh",
+        "ID": 270034,
+        "Van": 8.25,
+        "Anh": 3.4,
+        "Toan": 6.75,
+        "Tong": 18.4,
+        "Rank": 274
+    },
+    {
+        "Name": "Nguyễn Thị Quý",
+        "ID": 270599,
+        "Van": 8.75,
+        "Anh": 3.4,
+        "Toan": 6.25,
+        "Tong": 18.4,
+        "Rank": 275
+    },
+    {
+        "Name": "Lê Thi Vị",
+        "ID": 270821,
+        "Van": 8.75,
+        "Anh": 4.4,
+        "Toan": 5.25,
+        "Tong": 18.4,
+        "Rank": 276
+    },
+    {
+        "Name": "Thái Thị Lan",
+        "ID": 270357,
+        "Van": 8.5,
+        "Anh": 3.6,
+        "Toan": 6.25,
+        "Tong": 18.35,
+        "Rank": 277
+    },
+    {
+        "Name": "Trương Cẩm Tú",
+        "ID": 270790,
+        "Van": 8,
+        "Anh": 5.6,
+        "Toan": 4.75,
+        "Tong": 18.35,
+        "Rank": 278
+    },
+    {
+        "Name": "Nguyễn Văn Dũng",
+        "ID": 270141,
+        "Van": 8.25,
+        "Anh": 3.8,
+        "Toan": 6.25,
+        "Tong": 18.3,
+        "Rank": 279
+    },
+    {
+        "Name": "Phan Thị Hằng",
+        "ID": 270225,
+        "Van": 9,
+        "Anh": 4.8,
+        "Toan": 4.5,
+        "Tong": 18.3,
+        "Rank": 280
+    },
+    {
+        "Name": "Nguyễn Sỹ Tú",
+        "ID": 270784,
+        "Van": 9,
+        "Anh": 4.8,
+        "Toan": 4.5,
+        "Tong": 18.3,
+        "Rank": 281
+    },
+    {
+        "Name": "Nguyễn Thị Thu Huyền",
+        "ID": 270306,
+        "Van": 8,
+        "Anh": 5,
+        "Toan": 5.25,
+        "Tong": 18.25,
+        "Rank": 282
+    },
+    {
+        "Name": "Nguyễn Khắc Gia Hưng",
+        "ID": 270312,
+        "Van": 7.75,
+        "Anh": 5,
+        "Toan": 5.5,
+        "Tong": 18.25,
+        "Rank": 283
+    },
+    {
+        "Name": "Nguyễn Thị Trà Mi",
+        "ID": 270427,
+        "Van": 8,
+        "Anh": 4,
+        "Toan": 6.25,
+        "Tong": 18.25,
+        "Rank": 284
+    },
+    {
+        "Name": "Lê Đình Quý",
+        "ID": 270597,
+        "Van": 7.5,
+        "Anh": 4,
+        "Toan": 6.75,
+        "Tong": 18.25,
+        "Rank": 285
+    },
+    {
+        "Name": "Trần Danh Thái",
+        "ID": 270643,
+        "Van": 7.5,
+        "Anh": 5,
+        "Toan": 5.75,
+        "Tong": 18.25,
+        "Rank": 286
+    },
+    {
+        "Name": "Trần Quốc Bảo",
+        "ID": 270082,
+        "Van": 8.25,
+        "Anh": 4.2,
+        "Toan": 5.75,
+        "Tong": 18.2,
+        "Rank": 287
+    },
+    {
+        "Name": "Đặng Trọng Hiệp",
+        "ID": 270245,
+        "Van": 8.25,
+        "Anh": 5.2,
+        "Toan": 4.75,
+        "Tong": 18.2,
+        "Rank": 288
+    },
+    {
+        "Name": "Nguyễn Trà My",
+        "ID": 270443,
+        "Van": 7.5,
+        "Anh": 4.2,
+        "Toan": 6.5,
+        "Tong": 18.2,
+        "Rank": 289
+    },
+    {
+        "Name": "Phan Văn Thạch",
+        "ID": 270638,
+        "Van": 6.75,
+        "Anh": 5.2,
+        "Toan": 6.25,
+        "Tong": 18.2,
+        "Rank": 290
+    },
+    {
+        "Name": "Phan Thị Lê Trang",
+        "ID": 270752,
+        "Van": 7.25,
+        "Anh": 4.4,
+        "Toan": 6.5,
+        "Tong": 18.15,
+        "Rank": 291
+    },
+    {
+        "Name": "Nguyễn Thị Hải Yến",
+        "ID": 270854,
+        "Van": 7.75,
+        "Anh": 5.4,
+        "Toan": 5,
+        "Tong": 18.15,
+        "Rank": 292
+    },
+    {
+        "Name": "Nguyễn Ngọc Hoàng",
+        "ID": 270278,
+        "Van": 8,
+        "Anh": 3.6,
+        "Toan": 6.5,
+        "Tong": 18.1,
+        "Rank": 293
+    },
+    {
+        "Name": "Trương Như Quỳnh",
+        "ID": 270616,
+        "Van": 9,
+        "Anh": 4.6,
+        "Toan": 4.5,
+        "Tong": 18.1,
+        "Rank": 294
+    },
+    {
+        "Name": "Trần Thị Sen",
+        "ID": 270625,
+        "Van": 8.5,
+        "Anh": 4.6,
+        "Toan": 5,
+        "Tong": 18.1,
+        "Rank": 295
+    },
+    {
+        "Name": "Vũ Thị Huyền Nhi",
+        "ID": 270526,
+        "Van": 8.5,
+        "Anh": 3.8,
+        "Toan": 5.75,
+        "Tong": 18.05,
+        "Rank": 296
+    },
+    {
+        "Name": "Vũ Nguyễn Bảo Thy",
+        "ID": 270715,
+        "Van": 8.75,
+        "Anh": 3.8,
+        "Toan": 5.5,
+        "Tong": 18.05,
+        "Rank": 297
+    },
+    {
+        "Name": "Vũ Ngọc Bảng",
+        "ID": 270075,
+        "Van": 5.5,
+        "Anh": 5,
+        "Toan": 7.5,
+        "Tong": 18,
+        "Rank": 298
+    },
+    {
+        "Name": "Lê Xuân Hiệp",
+        "ID": 270247,
+        "Van": 8.25,
+        "Anh": 3,
+        "Toan": 6.75,
+        "Tong": 18,
+        "Rank": 299
+    },
+    {
+        "Name": "Đồng Văn Hùng",
+        "ID": 270286,
+        "Van": 8.5,
+        "Anh": 4,
+        "Toan": 5.5,
+        "Tong": 18,
+        "Rank": 300
+    },
+    {
+        "Name": "Lăng Thị Khánh Huyền",
+        "ID": 270301,
+        "Van": 8.25,
+        "Anh": 4,
+        "Toan": 5.75,
+        "Tong": 18,
+        "Rank": 301
+    },
+    {
+        "Name": "Trần Thị Hương",
+        "ID": 270319,
+        "Van": 8.75,
+        "Anh": 4,
+        "Toan": 5.25,
+        "Tong": 18,
+        "Rank": 302
+    },
+    {
+        "Name": "Phạm Tấn Tài",
+        "ID": 270632,
+        "Van": 8.25,
+        "Anh": 4,
+        "Toan": 5.75,
+        "Tong": 18,
+        "Rank": 303
+    },
+    {
+        "Name": "Phan Trần Phương Thảo",
+        "ID": 270662,
+        "Van": 8.5,
+        "Anh": 5.2,
+        "Toan": 4.25,
+        "Tong": 17.95,
+        "Rank": 304
+    },
+    {
+        "Name": "Nguyễn Thọ Tuấn Anh",
+        "ID": 270033,
+        "Van": 8,
+        "Anh": 3.4,
+        "Toan": 6.5,
+        "Tong": 17.9,
+        "Rank": 305
+    },
+    {
+        "Name": "Nguyễn Hà Linh",
+        "ID": 270367,
+        "Van": 8.25,
+        "Anh": 4.4,
+        "Toan": 5.25,
+        "Tong": 17.9,
+        "Rank": 306
+    },
+    {
+        "Name": "Phan Huyền Trang",
+        "ID": 270747,
+        "Van": 6.25,
+        "Anh": 4.4,
+        "Toan": 7.25,
+        "Tong": 17.9,
+        "Rank": 307
+    },
+    {
+        "Name": "Nguyễn Anh Tuấn",
+        "ID": 270796,
+        "Van": 7.5,
+        "Anh": 4.4,
+        "Toan": 6,
+        "Tong": 17.9,
+        "Rank": 308
+    },
+    {
+        "Name": "Ngô Công Vinh",
+        "ID": 270828,
+        "Van": 7.25,
+        "Anh": 5.4,
+        "Toan": 5.25,
+        "Tong": 17.9,
+        "Rank": 309
+    },
+    {
+        "Name": "Đặng Thị Minh Châu",
+        "ID": 270097,
+        "Van": 7.25,
+        "Anh": 4.6,
+        "Toan": 6,
+        "Tong": 17.85,
+        "Rank": 310
+    },
+    {
+        "Name": "Hoàng Thị Hoài Thanh",
+        "ID": 270645,
+        "Van": 8.75,
+        "Anh": 3.6,
+        "Toan": 5.5,
+        "Tong": 17.85,
+        "Rank": 311
+    },
+    {
+        "Name": "Vũ Văn Thuyết",
+        "ID": 270691,
+        "Van": 7.25,
+        "Anh": 4.6,
+        "Toan": 6,
+        "Tong": 17.85,
+        "Rank": 312
+    },
+    {
+        "Name": "Nguyễn Thị Anh Thư",
+        "ID": 270696,
+        "Van": 8,
+        "Anh": 5.6,
+        "Toan": 4.25,
+        "Tong": 17.85,
+        "Rank": 313
+    },
+    {
+        "Name": "Phan Văn Dũng",
+        "ID": 270144,
+        "Van": 8.5,
+        "Anh": 3.8,
+        "Toan": 5.5,
+        "Tong": 17.8,
+        "Rank": 314
+    },
+    {
+        "Name": "Trần Thị Thảo Nguyên",
+        "ID": 270497,
+        "Van": 6.5,
+        "Anh": 4.8,
+        "Toan": 6.5,
+        "Tong": 17.8,
+        "Rank": 315
+    },
+    {
+        "Name": "Phan Thị Quỳnh Trang",
+        "ID": 270753,
+        "Van": 6.5,
+        "Anh": 4.8,
+        "Toan": 6.5,
+        "Tong": 17.8,
+        "Rank": 316
+    },
+    {
+        "Name": "Nguyễn Văn Đức",
+        "ID": 270190,
+        "Van": 7.25,
+        "Anh": 4,
+        "Toan": 6.5,
+        "Tong": 17.75,
+        "Rank": 317
+    },
+    {
+        "Name": "Ngô Trần Cẩm Vân",
+        "ID": 270813,
+        "Van": 8.25,
+        "Anh": 4,
+        "Toan": 5.5,
+        "Tong": 17.75,
+        "Rank": 318
+    },
+    {
+        "Name": "Nguyễn Đình Dũng",
+        "ID": 270137,
+        "Van": 7.25,
+        "Anh": 4.2,
+        "Toan": 6.25,
+        "Tong": 17.7,
+        "Rank": 319
+    },
+    {
+        "Name": "Phan Thị Hoài",
+        "ID": 270270,
+        "Van": 9,
+        "Anh": 3.2,
+        "Toan": 5.5,
+        "Tong": 17.7,
+        "Rank": 320
+    },
+    {
+        "Name": "Vũ Thị Thục Linh",
+        "ID": 270392,
+        "Van": 8,
+        "Anh": 4.2,
+        "Toan": 5.5,
+        "Tong": 17.7,
+        "Rank": 321
+    },
+    {
+        "Name": "Cao Thị Minh Anh",
+        "ID": 270015,
+        "Van": 8.5,
+        "Anh": 4.4,
+        "Toan": 4.75,
+        "Tong": 17.65,
+        "Rank": 322
+    },
+    {
+        "Name": "Nguyễn Thị Quỳnh Anh",
+        "ID": 270030,
+        "Van": 7.75,
+        "Anh": 3.4,
+        "Toan": 6.5,
+        "Tong": 17.65,
+        "Rank": 323
+    },
+    {
+        "Name": "Cao Tấn Dũng",
+        "ID": 270130,
+        "Van": 7.5,
+        "Anh": 4.4,
+        "Toan": 5.75,
+        "Tong": 17.65,
+        "Rank": 324
+    },
+    {
+        "Name": "Phan Bá Hưng",
+        "ID": 270313,
+        "Van": 6.75,
+        "Anh": 4.4,
+        "Toan": 6.5,
+        "Tong": 17.65,
+        "Rank": 325
+    },
+    {
+        "Name": "Lê Thị Hà Linh",
+        "ID": 270365,
+        "Van": 8,
+        "Anh": 3.6,
+        "Toan": 6,
+        "Tong": 17.6,
+        "Rank": 326
+    },
+    {
+        "Name": "Nguyễn Thị Xuân Mai",
+        "ID": 270419,
+        "Van": 8.25,
+        "Anh": 2.6,
+        "Toan": 6.75,
+        "Tong": 17.6,
+        "Rank": 327
+    },
+    {
+        "Name": "Hồ Thị Thục Như",
+        "ID": 270530,
+        "Van": 8.25,
+        "Anh": 4.6,
+        "Toan": 4.75,
+        "Tong": 17.6,
+        "Rank": 328
+    },
+    {
+        "Name": "Nguyễn Thanh Quý",
+        "ID": 270598,
+        "Van": 7.5,
+        "Anh": 3.6,
+        "Toan": 6.5,
+        "Tong": 17.6,
+        "Rank": 329
+    },
+    {
+        "Name": "Thái Hoài Thương",
+        "ID": 270713,
+        "Van": 8.25,
+        "Anh": 3.6,
+        "Toan": 5.75,
+        "Tong": 17.6,
+        "Rank": 330
+    },
+    {
+        "Name": "Phạm Lê Vân Anh",
+        "ID": 270039,
+        "Van": 7,
+        "Anh": 3.8,
+        "Toan": 6.75,
+        "Tong": 17.55,
+        "Rank": 331
+    },
+    {
+        "Name": "Nguyễn Văn Huy",
+        "ID": 270295,
+        "Van": 8.25,
+        "Anh": 3.8,
+        "Toan": 5.5,
+        "Tong": 17.55,
+        "Rank": 332
+    },
+    {
+        "Name": "Phạm Thị Nhàn",
+        "ID": 270499,
+        "Van": 8.25,
+        "Anh": 3.8,
+        "Toan": 5.5,
+        "Tong": 17.55,
+        "Rank": 333
+    },
+    {
+        "Name": "Phan Thị Cẩm Tú",
+        "ID": 270786,
+        "Van": 8,
+        "Anh": 4.8,
+        "Toan": 4.75,
+        "Tong": 17.55,
+        "Rank": 334
+    },
+    {
+        "Name": "Đường Thúy Uyên",
+        "ID": 270803,
+        "Van": 8.5,
+        "Anh": 3.8,
+        "Toan": 5.25,
+        "Tong": 17.55,
+        "Rank": 335
+    },
+    {
+        "Name": "Hồ Trung Kiên",
+        "ID": 270348,
+        "Van": 8.25,
+        "Anh": 4,
+        "Toan": 5.25,
+        "Tong": 17.5,
+        "Rank": 336
+    },
+    {
+        "Name": "Thái Hữu Nam",
+        "ID": 270460,
+        "Van": 7,
+        "Anh": 3,
+        "Toan": 7.5,
+        "Tong": 17.5,
+        "Rank": 337
+    },
+    {
+        "Name": "Nguyễn Thị Quỳnh Nga",
+        "ID": 270471,
+        "Van": 7.5,
+        "Anh": 4.2,
+        "Toan": 5.75,
+        "Tong": 17.45,
+        "Rank": 338
+    },
+    {
+        "Name": "Phan Thị Quỳnh",
+        "ID": 270613,
+        "Van": 8,
+        "Anh": 3.2,
+        "Toan": 6.25,
+        "Tong": 17.45,
+        "Rank": 339
+    },
+    {
+        "Name": "Hoàng Văn Thưởng",
+        "ID": 270714,
+        "Van": 7.25,
+        "Anh": 4.2,
+        "Toan": 6,
+        "Tong": 17.45,
+        "Rank": 340
+    },
+    {
+        "Name": "Phan Thanh Trúc",
+        "ID": 270774,
+        "Van": 8.25,
+        "Anh": 4.2,
+        "Toan": 5,
+        "Tong": 17.45,
+        "Rank": 341
+    },
+    {
+        "Name": "Hoàng Anh Tuấn",
+        "ID": 270792,
+        "Van": 7.25,
+        "Anh": 3.2,
+        "Toan": 7,
+        "Tong": 17.45,
+        "Rank": 342
+    },
+    {
+        "Name": "Phạm Thế Cương",
+        "ID": 270117,
+        "Van": 6.75,
+        "Anh": 3.4,
+        "Toan": 7.25,
+        "Tong": 17.4,
+        "Rank": 343
+    },
+    {
+        "Name": "Nguyễn Công Tuấn Nam",
+        "ID": 270455,
+        "Van": 6.25,
+        "Anh": 3.4,
+        "Toan": 7.75,
+        "Tong": 17.4,
+        "Rank": 344
+    },
+    {
+        "Name": "Đặng Quang Thắng",
+        "ID": 270671,
+        "Van": 8.25,
+        "Anh": 4.4,
+        "Toan": 4.75,
+        "Tong": 17.4,
+        "Rank": 345
+    },
+    {
+        "Name": "Vũ Khắc Nam",
+        "ID": 270466,
+        "Van": 8,
+        "Anh": 2.6,
+        "Toan": 6.75,
+        "Tong": 17.35,
+        "Rank": 346
+    },
+    {
+        "Name": "Nguyễn Minh Phương",
+        "ID": 270568,
+        "Van": 7.75,
+        "Anh": 3.6,
+        "Toan": 6,
+        "Tong": 17.35,
+        "Rank": 347
+    },
+    {
+        "Name": "Nguyễn Đình Thăng",
+        "ID": 270668,
+        "Van": 7.5,
+        "Anh": 5.6,
+        "Toan": 4.25,
+        "Tong": 17.35,
+        "Rank": 348
+    },
+    {
+        "Name": "Đặng Trọng Hòa",
+        "ID": 270261,
+        "Van": 7.5,
+        "Anh": 2.8,
+        "Toan": 7,
+        "Tong": 17.3,
+        "Rank": 349
+    },
+    {
+        "Name": "Đặng Trung Kiên",
+        "ID": 270347,
+        "Van": 8.5,
+        "Anh": 4.8,
+        "Toan": 4,
+        "Tong": 17.3,
+        "Rank": 350
+    },
+    {
+        "Name": "Trương Thái Sơn",
+        "ID": 270628,
+        "Van": 8.25,
+        "Anh": 4.8,
+        "Toan": 4.25,
+        "Tong": 17.3,
+        "Rank": 351
+    },
+    {
+        "Name": "Lê Hồng Vân",
+        "ID": 270812,
+        "Van": 8.5,
+        "Anh": 3.8,
+        "Toan": 5,
+        "Tong": 17.3,
+        "Rank": 352
+    },
+    {
+        "Name": "Nguyễn Trà Vinh",
+        "ID": 270832,
+        "Van": 8,
+        "Anh": 3.8,
+        "Toan": 5.5,
+        "Tong": 17.3,
+        "Rank": 353
+    },
+    {
+        "Name": "Phạm Thị Thúy",
+        "ID": 270687,
+        "Van": 8,
+        "Anh": 3.6,
+        "Toan": 5.67,
+        "Tong": 17.27,
+        "Rank": 354
+    },
+    {
+        "Name": "Nguyễn Thị Ngọc ánh",
+        "ID": 270065,
+        "Van": 8,
+        "Anh": 5,
+        "Toan": 4.25,
+        "Tong": 17.25,
+        "Rank": 355
+    },
+    {
+        "Name": "Trần Thị Bích Hòa",
+        "ID": 270265,
+        "Van": 6.75,
+        "Anh": 5,
+        "Toan": 5.5,
+        "Tong": 17.25,
+        "Rank": 356
+    },
+    {
+        "Name": "Phạm Thị Vân Anh",
+        "ID": 270041,
+        "Van": 7.5,
+        "Anh": 3.2,
+        "Toan": 6.5,
+        "Tong": 17.2,
+        "Rank": 357
+    },
+    {
+        "Name": "Phan Vũ Duy Long",
+        "ID": 270398,
+        "Van": 7.75,
+        "Anh": 3.2,
+        "Toan": 6.25,
+        "Tong": 17.2,
+        "Rank": 358
+    },
+    {
+        "Name": "Phan Thị Khánh Ly",
+        "ID": 270413,
+        "Van": 8,
+        "Anh": 3.2,
+        "Toan": 6,
+        "Tong": 17.2,
+        "Rank": 359
+    },
+    {
+        "Name": "Đặng Quỳnh Như",
+        "ID": 270529,
+        "Van": 7.75,
+        "Anh": 5.2,
+        "Toan": 4.25,
+        "Tong": 17.2,
+        "Rank": 360
+    },
+    {
+        "Name": "Nguyễn Thị Phương Thảo",
+        "ID": 270660,
+        "Van": 8.5,
+        "Anh": 3.2,
+        "Toan": 5.5,
+        "Tong": 17.2,
+        "Rank": 361
+    },
+    {
+        "Name": "Nguyễn Thị Hoài Thương",
+        "ID": 270708,
+        "Van": 7.25,
+        "Anh": 5.2,
+        "Toan": 4.75,
+        "Tong": 17.2,
+        "Rank": 362
+    },
+    {
+        "Name": "Lê Hoàng Phước",
+        "ID": 270563,
+        "Van": 8.25,
+        "Anh": 2.4,
+        "Toan": 6.5,
+        "Tong": 17.15,
+        "Rank": 363
+    },
+    {
+        "Name": "Bùi Thị Giang",
+        "ID": 270201,
+        "Van": 7.5,
+        "Anh": 4.6,
+        "Toan": 5,
+        "Tong": 17.1,
+        "Rank": 364
+    },
+    {
+        "Name": "Vũ Thị Linh",
+        "ID": 270390,
+        "Van": 7.75,
+        "Anh": 4.6,
+        "Toan": 4.75,
+        "Tong": 17.1,
+        "Rank": 365
+    },
+    {
+        "Name": "Nguyễn Văn Nhật Nam",
+        "ID": 270457,
+        "Van": 8,
+        "Anh": 2.6,
+        "Toan": 6.5,
+        "Tong": 17.1,
+        "Rank": 366
+    },
+    {
+        "Name": "Trương Thị Thoa",
+        "ID": 270680,
+        "Van": 8.25,
+        "Anh": 3.6,
+        "Toan": 5.25,
+        "Tong": 17.1,
+        "Rank": 367
+    },
+    {
+        "Name": "Thái Văn Lưu Gia Anh",
+        "ID": 270051,
+        "Van": 7.25,
+        "Anh": 4.8,
+        "Toan": 5,
+        "Tong": 17.05,
+        "Rank": 368
+    },
+    {
+        "Name": "Phan Diễm Chi",
+        "ID": 270106,
+        "Van": 7,
+        "Anh": 3.8,
+        "Toan": 6.25,
+        "Tong": 17.05,
+        "Rank": 369
+    },
+    {
+        "Name": "Hồ Trung Hải",
+        "ID": 270210,
+        "Van": 6,
+        "Anh": 4.8,
+        "Toan": 6.25,
+        "Tong": 17.05,
+        "Rank": 370
+    },
+    {
+        "Name": "Nguyễn Thị Hiền Lương",
+        "ID": 270406,
+        "Van": 7.75,
+        "Anh": 3.8,
+        "Toan": 5.5,
+        "Tong": 17.05,
+        "Rank": 371
+    },
+    {
+        "Name": "Tô Thị Quỳnh Nga",
+        "ID": 270475,
+        "Van": 6.75,
+        "Anh": 3.8,
+        "Toan": 6.5,
+        "Tong": 17.05,
+        "Rank": 372
+    },
+    {
+        "Name": "Thái Thị Tường Vy",
+        "ID": 270845,
+        "Van": 7,
+        "Anh": 5.8,
+        "Toan": 4.25,
+        "Tong": 17.05,
+        "Rank": 373
+    },
+    {
+        "Name": "Nguyễn Hưng Thịnh",
+        "ID": 270679,
+        "Van": 8,
+        "Anh": 3,
+        "Toan": 6,
+        "Tong": 17,
+        "Rank": 374
+    },
+    {
+        "Name": "Nguyễn Đại Việt",
+        "ID": 270823,
+        "Van": 7,
+        "Anh": 4,
+        "Toan": 6,
+        "Tong": 17,
+        "Rank": 375
+    },
+    {
+        "Name": "Nguyễn Thị Hương",
+        "ID": 270315,
+        "Van": 8.25,
+        "Anh": 5.2,
+        "Toan": 3.5,
+        "Tong": 16.95,
+        "Rank": 376
+    },
+    {
+        "Name": "Trần Thị Thanh Hiền",
+        "ID": 270242,
+        "Van": 8.5,
+        "Anh": 4.4,
+        "Toan": 4,
+        "Tong": 16.9,
+        "Rank": 377
+    },
+    {
+        "Name": "Nguyễn Thị Thanh Huyền",
+        "ID": 270305,
+        "Van": 7.25,
+        "Anh": 4.4,
+        "Toan": 5.25,
+        "Tong": 16.9,
+        "Rank": 378
+    },
+    {
+        "Name": "Phan Thị Lam",
+        "ID": 270356,
+        "Van": 8.25,
+        "Anh": 3.4,
+        "Toan": 5.25,
+        "Tong": 16.9,
+        "Rank": 379
+    },
+    {
+        "Name": "Nguyễn Trần Nguyên",
+        "ID": 270494,
+        "Van": 8,
+        "Anh": 4.4,
+        "Toan": 4.5,
+        "Tong": 16.9,
+        "Rank": 380
+    },
+    {
+        "Name": "Trần Quang Thái",
+        "ID": 270644,
+        "Van": 8,
+        "Anh": 3.4,
+        "Toan": 5.5,
+        "Tong": 16.9,
+        "Rank": 381
+    },
+    {
+        "Name": "Hoàng Diệu Thảo",
+        "ID": 270655,
+        "Van": 8,
+        "Anh": 3.4,
+        "Toan": 5.5,
+        "Tong": 16.9,
+        "Rank": 382
+    },
+    {
+        "Name": "Nguyễn Thị Thu Trang",
+        "ID": 270743,
+        "Van": 7.5,
+        "Anh": 6.4,
+        "Toan": 3,
+        "Tong": 16.9,
+        "Rank": 383
+    },
+    {
+        "Name": "Phan Quốc Việt",
+        "ID": 270825,
+        "Van": 6,
+        "Anh": 4.4,
+        "Toan": 6.5,
+        "Tong": 16.9,
+        "Rank": 384
+    },
+    {
+        "Name": "Thái Thị Phương Anh",
+        "ID": 270050,
+        "Van": 8,
+        "Anh": 4.6,
+        "Toan": 4.25,
+        "Tong": 16.85,
+        "Rank": 385
+    },
+    {
+        "Name": "Trần Long Phát",
+        "ID": 270547,
+        "Van": 7.75,
+        "Anh": 3.6,
+        "Toan": 5.5,
+        "Tong": 16.85,
+        "Rank": 386
+    },
+    {
+        "Name": "Hồ Anh Quang",
+        "ID": 270578,
+        "Van": 7.5,
+        "Anh": 3.6,
+        "Toan": 5.75,
+        "Tong": 16.85,
+        "Rank": 387
+    },
+    {
+        "Name": "Vũ Thị Tuyết Xinh",
+        "ID": 270849,
+        "Van": 7.75,
+        "Anh": 2.6,
+        "Toan": 6.5,
+        "Tong": 16.85,
+        "Rank": 388
+    },
+    {
+        "Name": "Phạm Trung Kiên",
+        "ID": 270352,
+        "Van": 8,
+        "Anh": 3.8,
+        "Toan": 5,
+        "Tong": 16.8,
+        "Rank": 389
+    },
+    {
+        "Name": "Bùi Nguyễn Thảo My",
+        "ID": 270437,
+        "Van": 6.75,
+        "Anh": 4.8,
+        "Toan": 5.25,
+        "Tong": 16.8,
+        "Rank": 390
+    },
+    {
+        "Name": "Phan Thị Nga",
+        "ID": 270473,
+        "Van": 8,
+        "Anh": 3.8,
+        "Toan": 5,
+        "Tong": 16.8,
+        "Rank": 391
+    },
+    {
+        "Name": "Phan Thế Phát",
+        "ID": 270545,
+        "Van": 6.5,
+        "Anh": 4.8,
+        "Toan": 5.5,
+        "Tong": 16.8,
+        "Rank": 392
+    },
+    {
+        "Name": "Nguyễn Duy Phong",
+        "ID": 270549,
+        "Van": 5.75,
+        "Anh": 4.8,
+        "Toan": 6.25,
+        "Tong": 16.8,
+        "Rank": 393
+    },
+    {
+        "Name": "Nguyễn Thị Phương",
+        "ID": 270570,
+        "Van": 8.75,
+        "Anh": 3.8,
+        "Toan": 4.25,
+        "Tong": 16.8,
+        "Rank": 394
+    },
+    {
+        "Name": "Phan Thị Ngọc Trâm",
+        "ID": 270763,
+        "Van": 7.75,
+        "Anh": 3.8,
+        "Toan": 5.25,
+        "Tong": 16.8,
+        "Rank": 395
+    },
+    {
+        "Name": "Nguyễn Thị Yến Vy",
+        "ID": 270843,
+        "Van": 7.75,
+        "Anh": 3.8,
+        "Toan": 5.25,
+        "Tong": 16.8,
+        "Rank": 396
+    },
+    {
+        "Name": "Trương Công Chung",
+        "ID": 270112,
+        "Van": 7.25,
+        "Anh": 3,
+        "Toan": 6.5,
+        "Tong": 16.75,
+        "Rank": 397
+    },
+    {
+        "Name": "Thái Thị Huyền Dương",
+        "ID": 270156,
+        "Van": 9.25,
+        "Anh": 3,
+        "Toan": 4.5,
+        "Tong": 16.75,
+        "Rank": 398
+    },
+    {
+        "Name": "Phan Thị Hương Giang",
+        "ID": 270204,
+        "Van": 8.25,
+        "Anh": 4,
+        "Toan": 4.5,
+        "Tong": 16.75,
+        "Rank": 399
+    },
+    {
+        "Name": "Nguyễn Phúc Thắng",
+        "ID": 270673,
+        "Van": 8,
+        "Anh": 3,
+        "Toan": 5.75,
+        "Tong": 16.75,
+        "Rank": 400
+    },
+    {
+        "Name": "Võ Anh Tiến",
+        "ID": 270724,
+        "Van": 6.5,
+        "Anh": 4,
+        "Toan": 6.25,
+        "Tong": 16.75,
+        "Rank": 401
+    },
+    {
+        "Name": "Thái Duy Quân",
+        "ID": 270593,
+        "Van": 7,
+        "Anh": 5.4,
+        "Toan": 4.33,
+        "Tong": 16.73,
+        "Rank": 402
+    },
+    {
+        "Name": "Cao Khánh Linh",
+        "ID": 270361,
+        "Van": 8.25,
+        "Anh": 5.2,
+        "Toan": 3.25,
+        "Tong": 16.7,
+        "Rank": 403
+    },
+    {
+        "Name": "Vũ Thị Kim Oanh",
+        "ID": 270539,
+        "Van": 7.75,
+        "Anh": 3.2,
+        "Toan": 5.75,
+        "Tong": 16.7,
+        "Rank": 404
+    },
+    {
+        "Name": "Trần Thị Cần",
+        "ID": 270096,
+        "Van": 8.75,
+        "Anh": 4.4,
+        "Toan": 3.5,
+        "Tong": 16.65,
+        "Rank": 405
+    },
+    {
+        "Name": "Nguyễn Thành Công",
+        "ID": 270116,
+        "Van": 7.75,
+        "Anh": 3.4,
+        "Toan": 5.5,
+        "Tong": 16.65,
+        "Rank": 406
+    },
+    {
+        "Name": "Thái Thị Thu Hoài",
+        "ID": 270273,
+        "Van": 6.75,
+        "Anh": 3.4,
+        "Toan": 6.5,
+        "Tong": 16.65,
+        "Rank": 407
+    },
+    {
+        "Name": "Trần Quang Khải",
+        "ID": 270329,
+        "Van": 7.5,
+        "Anh": 3.4,
+        "Toan": 5.75,
+        "Tong": 16.65,
+        "Rank": 408
+    },
+    {
+        "Name": "Nguyễn Trọng Khánh",
+        "ID": 270338,
+        "Van": 6.75,
+        "Anh": 3.4,
+        "Toan": 6.5,
+        "Tong": 16.65,
+        "Rank": 409
+    },
+    {
+        "Name": "Nguyễn Thị Phương Linh",
+        "ID": 270371,
+        "Van": 7.75,
+        "Anh": 4.4,
+        "Toan": 4.5,
+        "Tong": 16.65,
+        "Rank": 410
+    },
+    {
+        "Name": "Đào Văn Minh",
+        "ID": 270428,
+        "Van": 6.25,
+        "Anh": 4.4,
+        "Toan": 6,
+        "Tong": 16.65,
+        "Rank": 411
+    },
+    {
+        "Name": "Thái Văn Nhật Anh",
+        "ID": 270052,
+        "Van": 7.75,
+        "Anh": 2.6,
+        "Toan": 6.25,
+        "Tong": 16.6,
+        "Rank": 412
+    },
+    {
+        "Name": "Hoàng Sỹ Biên",
+        "ID": 270091,
+        "Van": 7.5,
+        "Anh": 3.6,
+        "Toan": 5.5,
+        "Tong": 16.6,
+        "Rank": 413
+    },
+    {
+        "Name": "Vũ Thị Tùng Chi",
+        "ID": 270108,
+        "Van": 7.25,
+        "Anh": 4.6,
+        "Toan": 4.75,
+        "Tong": 16.6,
+        "Rank": 414
+    },
+    {
+        "Name": "Nguyễn Tiến Đạt",
+        "ID": 270168,
+        "Van": 7.5,
+        "Anh": 2.6,
+        "Toan": 6.5,
+        "Tong": 16.6,
+        "Rank": 415
+    },
+    {
+        "Name": "Nguyễn Thị Thu Hiền",
+        "ID": 270238,
+        "Van": 8.25,
+        "Anh": 3.6,
+        "Toan": 4.75,
+        "Tong": 16.6,
+        "Rank": 416
+    },
+    {
+        "Name": "Thái Thị Phượng",
+        "ID": 270577,
+        "Van": 7.75,
+        "Anh": 3.6,
+        "Toan": 5.25,
+        "Tong": 16.6,
+        "Rank": 417
+    },
+    {
+        "Name": "Trần Thị Tuyết Sương",
+        "ID": 270629,
+        "Van": 8.5,
+        "Anh": 3.6,
+        "Toan": 4.5,
+        "Tong": 16.6,
+        "Rank": 418
+    },
+    {
+        "Name": "Đặng Xuân Tài",
+        "ID": 270630,
+        "Van": 8.5,
+        "Anh": 2.6,
+        "Toan": 5.5,
+        "Tong": 16.6,
+        "Rank": 419
+    },
+    {
+        "Name": "Trần Nguyễn Hải Yến",
+        "ID": 270861,
+        "Van": 8,
+        "Anh": 3.6,
+        "Toan": 5,
+        "Tong": 16.6,
+        "Rank": 420
+    },
+    {
+        "Name": "Nguyễn Thị Anh Thư",
+        "ID": 270697,
+        "Van": 9,
+        "Anh": 3,
+        "Toan": 4.58,
+        "Tong": 16.58,
+        "Rank": 421
+    },
+    {
+        "Name": "Thái Thị Phương Uyên",
+        "ID": 270806,
+        "Van": 7.75,
+        "Anh": 2.8,
+        "Toan": 6,
+        "Tong": 16.55,
+        "Rank": 422
+    },
+    {
+        "Name": "Dương Đạt Đàm",
+        "ID": 270160,
+        "Van": 7.75,
+        "Anh": 3,
+        "Toan": 5.75,
+        "Tong": 16.5,
+        "Rank": 423
+    },
+    {
+        "Name": "Hồ Thành Đạt",
+        "ID": 270166,
+        "Van": 8.25,
+        "Anh": 2,
+        "Toan": 6.25,
+        "Tong": 16.5,
+        "Rank": 424
+    },
+    {
+        "Name": "Phạm Văn Hải",
+        "ID": 270212,
+        "Van": 8.5,
+        "Anh": 4,
+        "Toan": 4,
+        "Tong": 16.5,
+        "Rank": 425
+    },
+    {
+        "Name": "Chu Hoài Linh",
+        "ID": 270362,
+        "Van": 6.75,
+        "Anh": 5,
+        "Toan": 4.75,
+        "Tong": 16.5,
+        "Rank": 426
+    },
+    {
+        "Name": "Trần Văn Triều",
+        "ID": 270765,
+        "Van": 5,
+        "Anh": 5,
+        "Toan": 6.5,
+        "Tong": 16.5,
+        "Rank": 427
+    },
+    {
+        "Name": "Trương Thị Linh",
+        "ID": 270389,
+        "Van": 5.75,
+        "Anh": 4.2,
+        "Toan": 6.5,
+        "Tong": 16.45,
+        "Rank": 428
+    },
+    {
+        "Name": "Nguyễn Thế Nhẫn",
+        "ID": 270505,
+        "Van": 7.25,
+        "Anh": 4.2,
+        "Toan": 5,
+        "Tong": 16.45,
+        "Rank": 429
+    },
+    {
+        "Name": "Phạm Tiến Thành",
+        "ID": 270652,
+        "Van": 7.5,
+        "Anh": 2.2,
+        "Toan": 6.75,
+        "Tong": 16.45,
+        "Rank": 430
+    },
+    {
+        "Name": "Phan Hà Trang",
+        "ID": 270746,
+        "Van": 7.25,
+        "Anh": 4.2,
+        "Toan": 5,
+        "Tong": 16.45,
+        "Rank": 431
+    },
+    {
+        "Name": "Nguyễn Văn Tuấn Anh",
+        "ID": 270035,
+        "Van": 8,
+        "Anh": 3.4,
+        "Toan": 5,
+        "Tong": 16.4,
+        "Rank": 432
+    },
+    {
+        "Name": "Vương Việt Cường",
+        "ID": 270122,
+        "Van": 7.75,
+        "Anh": 3.4,
+        "Toan": 5.25,
+        "Tong": 16.4,
+        "Rank": 433
+    },
+    {
+        "Name": "Nguyễn Thị Quỳnh Hương",
+        "ID": 270316,
+        "Van": 8.5,
+        "Anh": 4.4,
+        "Toan": 3.5,
+        "Tong": 16.4,
+        "Rank": 434
+    },
+    {
+        "Name": "Lê Thị Liên",
+        "ID": 270359,
+        "Van": 8.75,
+        "Anh": 2.4,
+        "Toan": 5.25,
+        "Tong": 16.4,
+        "Rank": 435
+    },
+    {
+        "Name": "Phan Vũ Thảo Ly",
+        "ID": 270414,
+        "Van": 7.75,
+        "Anh": 3.4,
+        "Toan": 5.25,
+        "Tong": 16.4,
+        "Rank": 436
+    },
+    {
+        "Name": "Phan Thị Huyền Trang",
+        "ID": 270749,
+        "Van": 8,
+        "Anh": 3.4,
+        "Toan": 5,
+        "Tong": 16.4,
+        "Rank": 437
+    },
+    {
+        "Name": "Hồ Nguyễn Anh Xinh",
+        "ID": 270848,
+        "Van": 6.75,
+        "Anh": 3.4,
+        "Toan": 6.25,
+        "Tong": 16.4,
+        "Rank": 438
+    },
+    {
+        "Name": "Thái Thị Hải Yến",
+        "ID": 270859,
+        "Van": 7.75,
+        "Anh": 3.4,
+        "Toan": 5.25,
+        "Tong": 16.4,
+        "Rank": 439
+    },
+    {
+        "Name": "Trần Văn Cường",
+        "ID": 270120,
+        "Van": 8.5,
+        "Anh": 2.6,
+        "Toan": 5.25,
+        "Tong": 16.35,
+        "Rank": 440
+    },
+    {
+        "Name": "Đào Quang Đạt",
+        "ID": 270164,
+        "Van": 8.25,
+        "Anh": 3.6,
+        "Toan": 4.5,
+        "Tong": 16.35,
+        "Rank": 441
+    },
+    {
+        "Name": "Phan Trọng Hoàng",
+        "ID": 270280,
+        "Van": 7,
+        "Anh": 2.6,
+        "Toan": 6.75,
+        "Tong": 16.35,
+        "Rank": 442
+    },
+    {
+        "Name": "Phạm An Gia Phát",
+        "ID": 270544,
+        "Van": 5.75,
+        "Anh": 2.6,
+        "Toan": 8,
+        "Tong": 16.35,
+        "Rank": 443
+    },
+    {
+        "Name": "Nguyễn Thọ Phú",
+        "ID": 270559,
+        "Van": 7.5,
+        "Anh": 2.6,
+        "Toan": 6.25,
+        "Tong": 16.35,
+        "Rank": 444
+    },
+    {
+        "Name": "Phan Hải Yến",
+        "ID": 270856,
+        "Van": 6.75,
+        "Anh": 5.6,
+        "Toan": 4,
+        "Tong": 16.35,
+        "Rank": 445
+    },
+    {
+        "Name": "Phan Thị ánh",
+        "ID": 270068,
+        "Van": 7.75,
+        "Anh": 3.8,
+        "Toan": 4.75,
+        "Tong": 16.3,
+        "Rank": 446
+    },
+    {
+        "Name": "Nguyễn Thị Ngọc Hạnh",
+        "ID": 270215,
+        "Van": 8,
+        "Anh": 3.8,
+        "Toan": 4.5,
+        "Tong": 16.3,
+        "Rank": 447
+    },
+    {
+        "Name": "Trần Thị Thảo Linh",
+        "ID": 270386,
+        "Van": 6.25,
+        "Anh": 4.8,
+        "Toan": 5.25,
+        "Tong": 16.3,
+        "Rank": 448
+    },
+    {
+        "Name": "Nguyễn Trần Thiện Luân",
+        "ID": 270401,
+        "Van": 7,
+        "Anh": 3.8,
+        "Toan": 5.5,
+        "Tong": 16.3,
+        "Rank": 449
+    },
+    {
+        "Name": "Dương Thị Nam",
+        "ID": 270448,
+        "Van": 7,
+        "Anh": 2.8,
+        "Toan": 6.5,
+        "Tong": 16.3,
+        "Rank": 450
+    },
+    {
+        "Name": "Trần Thị ánh",
+        "ID": 270073,
+        "Van": 7.75,
+        "Anh": 4,
+        "Toan": 4.5,
+        "Tong": 16.25,
+        "Rank": 451
+    },
+    {
+        "Name": "Võ Thị Thanh Chung",
+        "ID": 270113,
+        "Van": 8,
+        "Anh": 4,
+        "Toan": 4.25,
+        "Tong": 16.25,
+        "Rank": 452
+    },
+    {
+        "Name": "Hà Thị Huyền",
+        "ID": 270299,
+        "Van": 7.75,
+        "Anh": 4,
+        "Toan": 4.5,
+        "Tong": 16.25,
+        "Rank": 453
+    },
+    {
+        "Name": "Nguyễn Thị Phương Nhi",
+        "ID": 270519,
+        "Van": 8,
+        "Anh": 3,
+        "Toan": 5.25,
+        "Tong": 16.25,
+        "Rank": 454
+    },
+    {
+        "Name": "Nguyễn Thị Quỳnh Anh",
+        "ID": 270031,
+        "Van": 7.75,
+        "Anh": 3.2,
+        "Toan": 5.25,
+        "Tong": 16.2,
+        "Rank": 455
+    },
+    {
+        "Name": "Đào Thị Duyên",
+        "ID": 270147,
+        "Van": 8.5,
+        "Anh": 3.2,
+        "Toan": 4.5,
+        "Tong": 16.2,
+        "Rank": 456
+    },
+    {
+        "Name": "Phan Thị Thanh Huyền",
+        "ID": 270308,
+        "Van": 7.5,
+        "Anh": 3.2,
+        "Toan": 5.5,
+        "Tong": 16.2,
+        "Rank": 457
+    },
+    {
+        "Name": "Phạm Thế Thiệu",
+        "ID": 270677,
+        "Van": 5,
+        "Anh": 5.2,
+        "Toan": 6,
+        "Tong": 16.2,
+        "Rank": 458
+    },
+    {
+        "Name": "Lê Thị Anh Thư",
+        "ID": 270694,
+        "Van": 8,
+        "Anh": 4.2,
+        "Toan": 4,
+        "Tong": 16.2,
+        "Rank": 459
+    },
+    {
+        "Name": "Nguyễn Ngọc Hân",
+        "ID": 270228,
+        "Van": 8.75,
+        "Anh": 3.4,
+        "Toan": 4,
+        "Tong": 16.15,
+        "Rank": 460
+    },
+    {
+        "Name": "Hoàng Thị Phương Thảo",
+        "ID": 270656,
+        "Van": 8,
+        "Anh": 4.4,
+        "Toan": 3.75,
+        "Tong": 16.15,
+        "Rank": 461
+    },
+    {
+        "Name": "Nguyễn Thanh Thảo",
+        "ID": 270659,
+        "Van": 8.25,
+        "Anh": 3.4,
+        "Toan": 4.5,
+        "Tong": 16.15,
+        "Rank": 462
+    },
+    {
+        "Name": "Phạm Văn Đăng",
+        "ID": 270176,
+        "Van": 8,
+        "Anh": 3.6,
+        "Toan": 4.5,
+        "Tong": 16.1,
+        "Rank": 463
+    },
+    {
+        "Name": "Thái Duy Huy",
+        "ID": 270296,
+        "Van": 7.75,
+        "Anh": 3.6,
+        "Toan": 4.75,
+        "Tong": 16.1,
+        "Rank": 464
+    },
+    {
+        "Name": "Trần Thị Thanh Thảo",
+        "ID": 270663,
+        "Van": 9.25,
+        "Anh": 2.6,
+        "Toan": 4.25,
+        "Tong": 16.1,
+        "Rank": 465
+    },
+    {
+        "Name": "Nguyễn Thị Trúc",
+        "ID": 270772,
+        "Van": 7.25,
+        "Anh": 3.6,
+        "Toan": 5.25,
+        "Tong": 16.1,
+        "Rank": 466
+    },
+    {
+        "Name": "Nguyễn Linh Chi",
+        "ID": 270101,
+        "Van": 7.5,
+        "Anh": 2.8,
+        "Toan": 5.75,
+        "Tong": 16.05,
+        "Rank": 467
+    },
+    {
+        "Name": "Phạm Thành Đạt",
+        "ID": 270170,
+        "Van": 7,
+        "Anh": 3.8,
+        "Toan": 5.25,
+        "Tong": 16.05,
+        "Rank": 468
+    },
+    {
+        "Name": "Ngô Hải Đăng",
+        "ID": 270174,
+        "Van": 8,
+        "Anh": 2.8,
+        "Toan": 5.25,
+        "Tong": 16.05,
+        "Rank": 469
+    },
+    {
+        "Name": "Trần Văn Hà",
+        "ID": 270209,
+        "Van": 6,
+        "Anh": 3.8,
+        "Toan": 6.25,
+        "Tong": 16.05,
+        "Rank": 470
+    },
+    {
+        "Name": "Lê Thị Hồng Hạnh",
+        "ID": 270213,
+        "Van": 8.75,
+        "Anh": 2.8,
+        "Toan": 4.5,
+        "Tong": 16.05,
+        "Rank": 471
+    },
+    {
+        "Name": "Nguyễn Đức Long",
+        "ID": 270396,
+        "Van": 6.5,
+        "Anh": 2.8,
+        "Toan": 6.75,
+        "Tong": 16.05,
+        "Rank": 472
+    },
+    {
+        "Name": "Hồ Thành Tiến",
+        "ID": 270718,
+        "Van": 8,
+        "Anh": 3.8,
+        "Toan": 4.25,
+        "Tong": 16.05,
+        "Rank": 473
+    },
+    {
+        "Name": "Phan Văn Vinh",
+        "ID": 270834,
+        "Van": 7,
+        "Anh": 2.8,
+        "Toan": 6.25,
+        "Tong": 16.05,
+        "Rank": 474
+    },
+    {
+        "Name": "Nguyễn Trọng Đức",
+        "ID": 270189,
+        "Van": 7.75,
+        "Anh": 3,
+        "Toan": 5.25,
+        "Tong": 16,
+        "Rank": 475
+    },
+    {
+        "Name": "Nguyễn Thị Hiền",
+        "ID": 270237,
+        "Van": 8.25,
+        "Anh": 2,
+        "Toan": 5.75,
+        "Tong": 16,
+        "Rank": 476
+    },
+    {
+        "Name": "Nguyễn Thị Khánh Ly",
+        "ID": 270412,
+        "Van": 8.5,
+        "Anh": 2,
+        "Toan": 5.5,
+        "Tong": 16,
+        "Rank": 477
+    },
+    {
+        "Name": "Hoàng Danh Nam",
+        "ID": 270449,
+        "Van": 6.5,
+        "Anh": 4,
+        "Toan": 5.5,
+        "Tong": 16,
+        "Rank": 478
+    },
+    {
+        "Name": "Bùi Thị Quỳnh Nga",
+        "ID": 270468,
+        "Van": 7.75,
+        "Anh": 4,
+        "Toan": 4.25,
+        "Tong": 16,
+        "Rank": 479
+    },
+    {
+        "Name": "Nguyễn Thị Huyền Trang",
+        "ID": 270740,
+        "Van": 8.25,
+        "Anh": 3,
+        "Toan": 4.75,
+        "Tong": 16,
+        "Rank": 480
+    },
+    {
+        "Name": "Văn Võ Trọng",
+        "ID": 270769,
+        "Van": 6.25,
+        "Anh": 4,
+        "Toan": 5.75,
+        "Tong": 16,
+        "Rank": 481
+    },
+    {
+        "Name": "Bùi Vân Anh",
+        "ID": 270014,
+        "Van": 8,
+        "Anh": 4.2,
+        "Toan": 3.75,
+        "Tong": 15.95,
+        "Rank": 482
+    },
+    {
+        "Name": "Nguyễn Thị Minh Anh",
+        "ID": 270027,
+        "Van": 8,
+        "Anh": 2.2,
+        "Toan": 5.75,
+        "Tong": 15.95,
+        "Rank": 483
+    },
+    {
+        "Name": "Dương Thị Hà",
+        "ID": 270205,
+        "Van": 8.75,
+        "Anh": 2.2,
+        "Toan": 5,
+        "Tong": 15.95,
+        "Rank": 484
+    },
+    {
+        "Name": "Nguyễn Thị Huyền",
+        "ID": 270303,
+        "Van": 7,
+        "Anh": 4.2,
+        "Toan": 4.75,
+        "Tong": 15.95,
+        "Rank": 485
+    },
+    {
+        "Name": "Hoàng Ngọc Trâm",
+        "ID": 270760,
+        "Van": 7.75,
+        "Anh": 2.2,
+        "Toan": 6,
+        "Tong": 15.95,
+        "Rank": 486
+    },
+    {
+        "Name": "Vũ Thị Hải Yến",
+        "ID": 270864,
+        "Van": 6.75,
+        "Anh": 4.2,
+        "Toan": 5,
+        "Tong": 15.95,
+        "Rank": 487
+    },
+    {
+        "Name": "Nguyễn Lại Hải Phương",
+        "ID": 270567,
+        "Van": 7.25,
+        "Anh": 4.4,
+        "Toan": 4.25,
+        "Tong": 15.9,
+        "Rank": 488
+    },
+    {
+        "Name": "Phạm Văn Tân",
+        "ID": 270637,
+        "Van": 7,
+        "Anh": 3.4,
+        "Toan": 5.5,
+        "Tong": 15.9,
+        "Rank": 489
+    },
+    {
+        "Name": "Nguyễn Quyết Tiến",
+        "ID": 270721,
+        "Van": 8,
+        "Anh": 3.4,
+        "Toan": 4.5,
+        "Tong": 15.9,
+        "Rank": 490
+    },
+    {
+        "Name": "Nguyễn Trọng Cầm",
+        "ID": 270094,
+        "Van": 8,
+        "Anh": 4.6,
+        "Toan": 3.25,
+        "Tong": 15.85,
+        "Rank": 491
+    },
+    {
+        "Name": "Nguyễn Đăng Đại",
+        "ID": 270157,
+        "Van": 8.75,
+        "Anh": 2.6,
+        "Toan": 4.5,
+        "Tong": 15.85,
+        "Rank": 492
+    },
+    {
+        "Name": "Trần Thị Hà",
+        "ID": 270208,
+        "Van": 7.25,
+        "Anh": 3.6,
+        "Toan": 5,
+        "Tong": 15.85,
+        "Rank": 493
+    },
+    {
+        "Name": "Lê Thị Thanh Hải",
+        "ID": 270211,
+        "Van": 8,
+        "Anh": 2.6,
+        "Toan": 5.25,
+        "Tong": 15.85,
+        "Rank": 494
+    },
+    {
+        "Name": "Vương Thảo Linh",
+        "ID": 270393,
+        "Van": 7.75,
+        "Anh": 3.6,
+        "Toan": 4.5,
+        "Tong": 15.85,
+        "Rank": 495
+    },
+    {
+        "Name": "Nguyễn Thị Khánh Ngọc",
+        "ID": 270487,
+        "Van": 8,
+        "Anh": 3.6,
+        "Toan": 4.25,
+        "Tong": 15.85,
+        "Rank": 496
+    },
+    {
+        "Name": "Nguyễn Phi Thành",
+        "ID": 270649,
+        "Van": 8.75,
+        "Anh": 3.6,
+        "Toan": 3.5,
+        "Tong": 15.85,
+        "Rank": 497
+    },
+    {
+        "Name": "Dương Danh Thắng",
+        "ID": 270669,
+        "Van": 7.25,
+        "Anh": 2.8,
+        "Toan": 5.75,
+        "Tong": 15.8,
+        "Rank": 498
+    },
+    {
+        "Name": "Phan Thị ánh Tuyết",
+        "ID": 270801,
+        "Van": 7.75,
+        "Anh": 3.8,
+        "Toan": 4.25,
+        "Tong": 15.8,
+        "Rank": 499
+    },
+    {
+        "Name": "Nguyễn Tiến Đình",
+        "ID": 270179,
+        "Van": 6.75,
+        "Anh": 4,
+        "Toan": 5,
+        "Tong": 15.75,
+        "Rank": 500
+    },
+    {
+        "Name": "Nguyễn Văn Quang",
+        "ID": 270581,
+        "Van": 7.25,
+        "Anh": 3,
+        "Toan": 5.5,
+        "Tong": 15.75,
+        "Rank": 501
+    },
+    {
+        "Name": "Nguyễn Như Quỳnh",
+        "ID": 270610,
+        "Van": 8.25,
+        "Anh": 4,
+        "Toan": 3.5,
+        "Tong": 15.75,
+        "Rank": 502
+    },
+    {
+        "Name": "Nguyễn Văn Huỳnh",
+        "ID": 270311,
+        "Van": 8,
+        "Anh": 2.2,
+        "Toan": 5.5,
+        "Tong": 15.7,
+        "Rank": 503
+    },
+    {
+        "Name": "Hoàng Anh Quân",
+        "ID": 270586,
+        "Van": 8.25,
+        "Anh": 2.2,
+        "Toan": 5.25,
+        "Tong": 15.7,
+        "Rank": 504
+    },
+    {
+        "Name": "Nguyễn Hữu Thành",
+        "ID": 270648,
+        "Van": 7.75,
+        "Anh": 3.2,
+        "Toan": 4.75,
+        "Tong": 15.7,
+        "Rank": 505
+    },
+    {
+        "Name": "Trần Thị Khánh Vi",
+        "ID": 270818,
+        "Van": 6.5,
+        "Anh": 3.2,
+        "Toan": 6,
+        "Tong": 15.7,
+        "Rank": 506
+    },
+    {
+        "Name": "Trần Văn Anh",
+        "ID": 270054,
+        "Van": 7.25,
+        "Anh": 3.4,
+        "Toan": 5,
+        "Tong": 15.65,
+        "Rank": 507
+    },
+    {
+        "Name": "Trần Văn Cường",
+        "ID": 270121,
+        "Van": 7,
+        "Anh": 3.4,
+        "Toan": 5.25,
+        "Tong": 15.65,
+        "Rank": 508
+    },
+    {
+        "Name": "Ngô Trí Dũng",
+        "ID": 270135,
+        "Van": 7,
+        "Anh": 3.4,
+        "Toan": 5.25,
+        "Tong": 15.65,
+        "Rank": 509
+    },
+    {
+        "Name": "Cao Thi Quỳnh",
+        "ID": 270606,
+        "Van": 8.25,
+        "Anh": 3.4,
+        "Toan": 4,
+        "Tong": 15.65,
+        "Rank": 510
+    },
+    {
+        "Name": "Phan Hoàng Tiến",
+        "ID": 270722,
+        "Van": 6.75,
+        "Anh": 3.4,
+        "Toan": 5.5,
+        "Tong": 15.65,
+        "Rank": 511
+    },
+    {
+        "Name": "Đinh Thị Thanh Trúc",
+        "ID": 270770,
+        "Van": 9,
+        "Anh": 3.4,
+        "Toan": 3.25,
+        "Tong": 15.65,
+        "Rank": 512
+    },
+    {
+        "Name": "Phan Thị Quỳnh Anh",
+        "ID": 270048,
+        "Van": 7.75,
+        "Anh": 2.6,
+        "Toan": 5.25,
+        "Tong": 15.6,
+        "Rank": 513
+    },
+    {
+        "Name": "Nguyễn Thị Thùy Dung",
+        "ID": 270129,
+        "Van": 6.5,
+        "Anh": 4.6,
+        "Toan": 4.5,
+        "Tong": 15.6,
+        "Rank": 514
+    },
+    {
+        "Name": "Phạm Thị Thanh Hương",
+        "ID": 270318,
+        "Van": 8.5,
+        "Anh": 4.6,
+        "Toan": 2.5,
+        "Tong": 15.6,
+        "Rank": 515
+    },
+    {
+        "Name": "Phan Văn Lục",
+        "ID": 270402,
+        "Van": 7,
+        "Anh": 3.6,
+        "Toan": 5,
+        "Tong": 15.6,
+        "Rank": 516
+    },
+    {
+        "Name": "Mai Khánh Ly",
+        "ID": 270410,
+        "Van": 7.5,
+        "Anh": 2.6,
+        "Toan": 5.5,
+        "Tong": 15.6,
+        "Rank": 517
+    },
+    {
+        "Name": "Nguyễn Quốc Nhân",
+        "ID": 270503,
+        "Van": 7,
+        "Anh": 3.6,
+        "Toan": 5,
+        "Tong": 15.6,
+        "Rank": 518
+    },
+    {
+        "Name": "Nguyễn Tấn Tài",
+        "ID": 270631,
+        "Van": 8.25,
+        "Anh": 3.6,
+        "Toan": 3.75,
+        "Tong": 15.6,
+        "Rank": 519
+    },
+    {
+        "Name": "Nguyễn Thị Thủy Tiên",
+        "ID": 270716,
+        "Van": 7,
+        "Anh": 4.6,
+        "Toan": 4,
+        "Tong": 15.6,
+        "Rank": 520
+    },
+    {
+        "Name": "Hoàng Anh Tuấn",
+        "ID": 270791,
+        "Van": 8,
+        "Anh": 2.6,
+        "Toan": 5,
+        "Tong": 15.6,
+        "Rank": 521
+    },
+    {
+        "Name": "Phan Huệ Diệu An",
+        "ID": 270009,
+        "Van": 7,
+        "Anh": 3.8,
+        "Toan": 4.75,
+        "Tong": 15.55,
+        "Rank": 522
+    },
+    {
+        "Name": "Phan Thị Hồng ánh",
+        "ID": 270069,
+        "Van": 7.5,
+        "Anh": 3.8,
+        "Toan": 4.25,
+        "Tong": 15.55,
+        "Rank": 523
+    },
+    {
+        "Name": "Dương Danh Bảo",
+        "ID": 270077,
+        "Van": 7,
+        "Anh": 3.8,
+        "Toan": 4.75,
+        "Tong": 15.55,
+        "Rank": 524
+    },
+    {
+        "Name": "Nguyễn Thị Thành Chung",
+        "ID": 270111,
+        "Van": 7.75,
+        "Anh": 3.8,
+        "Toan": 4,
+        "Tong": 15.55,
+        "Rank": 525
+    },
+    {
+        "Name": "Dương Hà Trang",
+        "ID": 270735,
+        "Van": 7.5,
+        "Anh": 3.8,
+        "Toan": 4.25,
+        "Tong": 15.55,
+        "Rank": 526
+    },
+    {
+        "Name": "Phan Thị Tuyết Nga",
+        "ID": 270474,
+        "Van": 7.5,
+        "Anh": 4,
+        "Toan": 4,
+        "Tong": 15.5,
+        "Rank": 527
+    },
+    {
+        "Name": "Hồ Trần Phương Thảo",
+        "ID": 270657,
+        "Van": 8.25,
+        "Anh": 4,
+        "Toan": 3.25,
+        "Tong": 15.5,
+        "Rank": 528
+    },
+    {
+        "Name": "Liếu Thị Hải Yến",
+        "ID": 270851,
+        "Van": 7,
+        "Anh": 4,
+        "Toan": 4.5,
+        "Tong": 15.5,
+        "Rank": 529
+    },
+    {
+        "Name": "Trần Bá Phi Hùng",
+        "ID": 270292,
+        "Van": 6.5,
+        "Anh": 3.2,
+        "Toan": 5.75,
+        "Tong": 15.45,
+        "Rank": 530
+    },
+    {
+        "Name": "Lê Thùy Linh",
+        "ID": 270366,
+        "Van": 8.5,
+        "Anh": 3.2,
+        "Toan": 3.75,
+        "Tong": 15.45,
+        "Rank": 531
+    },
+    {
+        "Name": "Trịnh Thị Ngọc Sang",
+        "ID": 270620,
+        "Van": 7,
+        "Anh": 3.2,
+        "Toan": 5.25,
+        "Tong": 15.45,
+        "Rank": 532
+    },
+    {
+        "Name": "Nguyễn Cao Bá Thăng",
+        "ID": 270667,
+        "Van": 7.5,
+        "Anh": 3.2,
+        "Toan": 4.75,
+        "Tong": 15.45,
+        "Rank": 533
+    },
+    {
+        "Name": "Ngô Thị Hiền Lương",
+        "ID": 270405,
+        "Van": 6.75,
+        "Anh": 3.4,
+        "Toan": 5.25,
+        "Tong": 15.4,
+        "Rank": 534
+    },
+    {
+        "Name": "Phan Thị Nhàn",
+        "ID": 270500,
+        "Van": 8.5,
+        "Anh": 3.4,
+        "Toan": 3.5,
+        "Tong": 15.4,
+        "Rank": 535
+    },
+    {
+        "Name": "Nguyễn Duy Minh Quân",
+        "ID": 270590,
+        "Van": 6.5,
+        "Anh": 4.4,
+        "Toan": 4.5,
+        "Tong": 15.4,
+        "Rank": 536
+    },
+    {
+        "Name": "Trần Đình Quân",
+        "ID": 270594,
+        "Van": 7.5,
+        "Anh": 3.4,
+        "Toan": 4.5,
+        "Tong": 15.4,
+        "Rank": 537
+    },
+    {
+        "Name": "Nguyễn Thị Cẩm Tú",
+        "ID": 270785,
+        "Van": 8.25,
+        "Anh": 3.4,
+        "Toan": 3.75,
+        "Tong": 15.4,
+        "Rank": 538
+    },
+    {
+        "Name": "Thái Hữu Đức",
+        "ID": 270195,
+        "Van": 6,
+        "Anh": 3.6,
+        "Toan": 5.75,
+        "Tong": 15.35,
+        "Rank": 539
+    },
+    {
+        "Name": "Nguyễn Đăng Khoa",
+        "ID": 270345,
+        "Van": 4.5,
+        "Anh": 3.6,
+        "Toan": 7.25,
+        "Tong": 15.35,
+        "Rank": 540
+    },
+    {
+        "Name": "Thái Văn Nam",
+        "ID": 270461,
+        "Van": 7.5,
+        "Anh": 2.6,
+        "Toan": 5.25,
+        "Tong": 15.35,
+        "Rank": 541
+    },
+    {
+        "Name": "Nguyễn Thị Phương",
+        "ID": 270569,
+        "Van": 8,
+        "Anh": 3.6,
+        "Toan": 3.75,
+        "Tong": 15.35,
+        "Rank": 542
+    },
+    {
+        "Name": "Nguyễn Đình Bảo",
+        "ID": 270079,
+        "Van": 3.75,
+        "Anh": 3.8,
+        "Toan": 7.75,
+        "Tong": 15.3,
+        "Rank": 543
+    },
+    {
+        "Name": "Nguyễn Thúy Hằng",
+        "ID": 270223,
+        "Van": 8.5,
+        "Anh": 3.8,
+        "Toan": 3,
+        "Tong": 15.3,
+        "Rank": 544
+    },
+    {
+        "Name": "Tô Quang Hiếu",
+        "ID": 270253,
+        "Van": 7.5,
+        "Anh": 2.8,
+        "Toan": 5,
+        "Tong": 15.3,
+        "Rank": 545
+    },
+    {
+        "Name": "Lê Tiến Thành",
+        "ID": 270647,
+        "Van": 7.25,
+        "Anh": 3.8,
+        "Toan": 4.25,
+        "Tong": 15.3,
+        "Rank": 546
+    },
+    {
+        "Name": "Phạm Tuấn Anh",
+        "ID": 270043,
+        "Van": 7.25,
+        "Anh": 4,
+        "Toan": 4,
+        "Tong": 15.25,
+        "Rank": 547
+    },
+    {
+        "Name": "Lê Xuân Bắc",
+        "ID": 270085,
+        "Van": 6.25,
+        "Anh": 4,
+        "Toan": 5,
+        "Tong": 15.25,
+        "Rank": 548
+    },
+    {
+        "Name": "Lang Văn Hùng",
+        "ID": 270289,
+        "Van": 8,
+        "Anh": 3,
+        "Toan": 4.25,
+        "Tong": 15.25,
+        "Rank": 549
+    },
+    {
+        "Name": "Trần Khánh Linh",
+        "ID": 270384,
+        "Van": 7.5,
+        "Anh": 5,
+        "Toan": 2.75,
+        "Tong": 15.25,
+        "Rank": 550
+    },
+    {
+        "Name": "Nguyễn Quang Mạnh",
+        "ID": 270425,
+        "Van": 6.25,
+        "Anh": 3,
+        "Toan": 6,
+        "Tong": 15.25,
+        "Rank": 551
+    },
+    {
+        "Name": "Nguyễn Thị Quỳnh Nguyên",
+        "ID": 270493,
+        "Van": 7.75,
+        "Anh": 3,
+        "Toan": 4.5,
+        "Tong": 15.25,
+        "Rank": 552
+    },
+    {
+        "Name": "Vũ Thị Tâm",
+        "ID": 270636,
+        "Van": 8.25,
+        "Anh": 3,
+        "Toan": 4,
+        "Tong": 15.25,
+        "Rank": 553
+    },
+    {
+        "Name": "Trần Gia Bảo",
+        "ID": 270081,
+        "Van": 6.08,
+        "Anh": 4.4,
+        "Toan": 4.75,
+        "Tong": 15.23,
+        "Rank": 554
+    },
+    {
+        "Name": "Nguyễn Thị Mỹ Dung",
+        "ID": 270128,
+        "Van": 7.5,
+        "Anh": 3.2,
+        "Toan": 4.5,
+        "Tong": 15.2,
+        "Rank": 555
+    },
+    {
+        "Name": "Trần Đăng Hoàng",
+        "ID": 270281,
+        "Van": 6.25,
+        "Anh": 4.2,
+        "Toan": 4.75,
+        "Tong": 15.2,
+        "Rank": 556
+    },
+    {
+        "Name": "Phạm Thị ánh Thương",
+        "ID": 270709,
+        "Van": 7.25,
+        "Anh": 4.2,
+        "Toan": 3.75,
+        "Tong": 15.2,
+        "Rank": 557
+    },
+    {
+        "Name": "Nguyễn Thị Trà",
+        "ID": 270732,
+        "Van": 7.25,
+        "Anh": 3.2,
+        "Toan": 4.75,
+        "Tong": 15.2,
+        "Rank": 558
+    },
+    {
+        "Name": "Nguyễn Thị Yến",
+        "ID": 270853,
+        "Van": 8,
+        "Anh": 3.2,
+        "Toan": 4,
+        "Tong": 15.2,
+        "Rank": 559
+    },
+    {
+        "Name": "Tô Thị Ngọc ánh",
+        "ID": 270072,
+        "Van": 8,
+        "Anh": 2.4,
+        "Toan": 4.75,
+        "Tong": 15.15,
+        "Rank": 560
+    },
+    {
+        "Name": "Nguyễn Thành Châu",
+        "ID": 270099,
+        "Van": 7,
+        "Anh": 4.4,
+        "Toan": 3.75,
+        "Tong": 15.15,
+        "Rank": 561
+    },
+    {
+        "Name": "Tô Thị Hiền",
+        "ID": 270240,
+        "Van": 7.75,
+        "Anh": 3.4,
+        "Toan": 4,
+        "Tong": 15.15,
+        "Rank": 562
+    },
+    {
+        "Name": "Đường Quang Khánh",
+        "ID": 270334,
+        "Van": 5.5,
+        "Anh": 5.4,
+        "Toan": 4.25,
+        "Tong": 15.15,
+        "Rank": 563
+    },
+    {
+        "Name": "Lương Đình Cường",
+        "ID": 270119,
+        "Van": 6,
+        "Anh": 2.6,
+        "Toan": 6.5,
+        "Tong": 15.1,
+        "Rank": 564
+    },
+    {
+        "Name": "Nguyễn Mỹ Anh",
+        "ID": 270024,
+        "Van": 7,
+        "Anh": 2.8,
+        "Toan": 5.25,
+        "Tong": 15.05,
+        "Rank": 565
+    },
+    {
+        "Name": "Vũ Thị Vân Anh",
+        "ID": 270059,
+        "Van": 8.25,
+        "Anh": 2.8,
+        "Toan": 4,
+        "Tong": 15.05,
+        "Rank": 566
+    },
+    {
+        "Name": "Nguyễn Thị ánh",
+        "ID": 270064,
+        "Van": 7,
+        "Anh": 3.8,
+        "Toan": 4.25,
+        "Tong": 15.05,
+        "Rank": 567
+    },
+    {
+        "Name": "Trần Thị Thuý Hằng",
+        "ID": 270227,
+        "Van": 8.5,
+        "Anh": 3.8,
+        "Toan": 2.75,
+        "Tong": 15.05,
+        "Rank": 568
+    },
+    {
+        "Name": "Đoàn Khánh Ly",
+        "ID": 270408,
+        "Van": 8,
+        "Anh": 4.8,
+        "Toan": 2.25,
+        "Tong": 15.05,
+        "Rank": 569
+    },
+    {
+        "Name": "Tô Thị Kim Oanh",
+        "ID": 270538,
+        "Van": 8,
+        "Anh": 2.8,
+        "Toan": 4.25,
+        "Tong": 15.05,
+        "Rank": 570
+    },
+    {
+        "Name": "Nguyễn Đăng Thái",
+        "ID": 270641,
+        "Van": 6.5,
+        "Anh": 3.8,
+        "Toan": 4.75,
+        "Tong": 15.05,
+        "Rank": 571
+    },
+    {
+        "Name": "Nguyễn Thị Trang",
+        "ID": 270739,
+        "Van": 6,
+        "Anh": 4.8,
+        "Toan": 4.25,
+        "Tong": 15.05,
+        "Rank": 572
+    },
+    {
+        "Name": "Trần Văn Dũng",
+        "ID": 270146,
+        "Van": 7.25,
+        "Anh": 3,
+        "Toan": 4.75,
+        "Tong": 15,
+        "Rank": 573
+    },
+    {
+        "Name": "Trần Quang Linh",
+        "ID": 270385,
+        "Van": 6.5,
+        "Anh": 3,
+        "Toan": 5.5,
+        "Tong": 15,
+        "Rank": 574
+    },
+    {
+        "Name": "Phan Thị Diễm Quỳnh",
+        "ID": 270614,
+        "Van": 7.75,
+        "Anh": 3,
+        "Toan": 4.25,
+        "Tong": 15,
+        "Rank": 575
+    },
+    {
+        "Name": "Nguyễn Ngọc Sơn",
+        "ID": 270627,
+        "Van": 6.25,
+        "Anh": 3,
+        "Toan": 5.75,
+        "Tong": 15,
+        "Rank": 576
+    },
+    {
+        "Name": "Nguyễn Võ Lan Anh",
+        "ID": 270036,
+        "Van": 7.25,
+        "Anh": 2.2,
+        "Toan": 5.5,
+        "Tong": 14.95,
+        "Rank": 577
+    },
+    {
+        "Name": "Ngô Đắc Công",
+        "ID": 270115,
+        "Van": 7.25,
+        "Anh": 2.2,
+        "Toan": 5.5,
+        "Tong": 14.95,
+        "Rank": 578
+    },
+    {
+        "Name": "Nguyễn Thị Thuỳ Linh",
+        "ID": 270372,
+        "Van": 7,
+        "Anh": 4.2,
+        "Toan": 3.75,
+        "Tong": 14.95,
+        "Rank": 579
+    },
+    {
+        "Name": "Nguyễn Duy Mạnh",
+        "ID": 270423,
+        "Van": 5.75,
+        "Anh": 3.2,
+        "Toan": 6,
+        "Tong": 14.95,
+        "Rank": 580
+    },
+    {
+        "Name": "Cao Gia Bảo",
+        "ID": 270076,
+        "Van": 6,
+        "Anh": 2.4,
+        "Toan": 6.5,
+        "Tong": 14.9,
+        "Rank": 581
+    },
+    {
+        "Name": "Phan Văn Quyền",
+        "ID": 270604,
+        "Van": 6.75,
+        "Anh": 4.4,
+        "Toan": 3.75,
+        "Tong": 14.9,
+        "Rank": 582
+    },
+    {
+        "Name": "Nguyễn Cảnh Vinh",
+        "ID": 270829,
+        "Van": 6.75,
+        "Anh": 3.4,
+        "Toan": 4.75,
+        "Tong": 14.9,
+        "Rank": 583
+    },
+    {
+        "Name": "Nguyễn Trung Kiên",
+        "ID": 270351,
+        "Van": 8,
+        "Anh": 1.6,
+        "Toan": 5.25,
+        "Tong": 14.85,
+        "Rank": 584
+    },
+    {
+        "Name": "Phan Văn Quyền",
+        "ID": 270605,
+        "Van": 7,
+        "Anh": 3.6,
+        "Toan": 4.25,
+        "Tong": 14.85,
+        "Rank": 585
+    },
+    {
+        "Name": "Phan Hoàng Dạ Thương",
+        "ID": 270710,
+        "Van": 8,
+        "Anh": 2.6,
+        "Toan": 4.25,
+        "Tong": 14.85,
+        "Rank": 586
+    },
+    {
+        "Name": "Nguyễn Đình Hiếu",
+        "ID": 270251,
+        "Van": 7.75,
+        "Anh": 2.8,
+        "Toan": 4.25,
+        "Tong": 14.8,
+        "Rank": 587
+    },
+    {
+        "Name": "Trần Văn Quang",
+        "ID": 270583,
+        "Van": 7.25,
+        "Anh": 3.8,
+        "Toan": 3.75,
+        "Tong": 14.8,
+        "Rank": 588
+    },
+    {
+        "Name": "Nguyễn Hồng Thắm",
+        "ID": 270664,
+        "Van": 8,
+        "Anh": 3.8,
+        "Toan": 3,
+        "Tong": 14.8,
+        "Rank": 589
+    },
+    {
+        "Name": "Ngô Thị Quỳnh Anh",
+        "ID": 270019,
+        "Van": 6.25,
+        "Anh": 4,
+        "Toan": 4.5,
+        "Tong": 14.75,
+        "Rank": 590
+    },
+    {
+        "Name": "Lê Trần Hữu Bằng",
+        "ID": 270088,
+        "Van": 5.25,
+        "Anh": 4,
+        "Toan": 5.5,
+        "Tong": 14.75,
+        "Rank": 591
+    },
+    {
+        "Name": "Ngô Văn Khánh",
+        "ID": 270336,
+        "Van": 6.75,
+        "Anh": 5,
+        "Toan": 3,
+        "Tong": 14.75,
+        "Rank": 592
+    },
+    {
+        "Name": "Phan Thị Khánh Linh",
+        "ID": 270378,
+        "Van": 8,
+        "Anh": 4,
+        "Toan": 2.75,
+        "Tong": 14.75,
+        "Rank": 593
+    },
+    {
+        "Name": "Thái Duy Phượng",
+        "ID": 270576,
+        "Van": 5.5,
+        "Anh": 4,
+        "Toan": 5.25,
+        "Tong": 14.75,
+        "Rank": 594
+    },
+    {
+        "Name": "Cù Minh Trang",
+        "ID": 270734,
+        "Van": 6.5,
+        "Anh": 3,
+        "Toan": 5.25,
+        "Tong": 14.75,
+        "Rank": 595
+    },
+    {
+        "Name": "Phan Phương Thanh",
+        "ID": 270646,
+        "Van": 8,
+        "Anh": 3.2,
+        "Toan": 3.5,
+        "Tong": 14.7,
+        "Rank": 596
+    },
+    {
+        "Name": "Lê Khắc Trường",
+        "ID": 270779,
+        "Van": 6.5,
+        "Anh": 3.2,
+        "Toan": 5,
+        "Tong": 14.7,
+        "Rank": 597
+    },
+    {
+        "Name": "Nguyễn Phương Mai",
+        "ID": 270417,
+        "Van": 6,
+        "Anh": 3.4,
+        "Toan": 5.25,
+        "Tong": 14.65,
+        "Rank": 598
+    },
+    {
+        "Name": "Nguyễn Thị Yến Nhi",
+        "ID": 270523,
+        "Van": 7.75,
+        "Anh": 4.4,
+        "Toan": 2.5,
+        "Tong": 14.65,
+        "Rank": 599
+    },
+    {
+        "Name": "Phan Minh Quân",
+        "ID": 270592,
+        "Van": 6.5,
+        "Anh": 4.4,
+        "Toan": 3.75,
+        "Tong": 14.65,
+        "Rank": 600
+    },
+    {
+        "Name": "Nguyễn Văn Dũng",
+        "ID": 270142,
+        "Van": 7,
+        "Anh": 2.6,
+        "Toan": 5,
+        "Tong": 14.6,
+        "Rank": 601
+    },
+    {
+        "Name": "Vũ Hồng Nhung",
+        "ID": 270528,
+        "Van": 6.75,
+        "Anh": 3.6,
+        "Toan": 4.25,
+        "Tong": 14.6,
+        "Rank": 602
+    },
+    {
+        "Name": "Nguyễn Anh Thương",
+        "ID": 270703,
+        "Van": 7.25,
+        "Anh": 3.6,
+        "Toan": 3.75,
+        "Tong": 14.6,
+        "Rank": 603
+    },
+    {
+        "Name": "Hoàng Công Anh Thái",
+        "ID": 270639,
+        "Van": 7.25,
+        "Anh": 3.8,
+        "Toan": 3.5,
+        "Tong": 14.55,
+        "Rank": 604
+    },
+    {
+        "Name": "Vi Thị Yến Yến",
+        "ID": 270863,
+        "Van": 6.75,
+        "Anh": 3.8,
+        "Toan": 4,
+        "Tong": 14.55,
+        "Rank": 605
+    },
+    {
+        "Name": "Phan Công Tuấn Anh",
+        "ID": 270044,
+        "Van": 3,
+        "Anh": 5,
+        "Toan": 6.5,
+        "Tong": 14.5,
+        "Rank": 606
+    },
+    {
+        "Name": "Nguyễn Đăng Mạnh",
+        "ID": 270424,
+        "Van": 5.25,
+        "Anh": 3,
+        "Toan": 6.25,
+        "Tong": 14.5,
+        "Rank": 607
+    },
+    {
+        "Name": "Trần Thị Huyền Trang",
+        "ID": 270755,
+        "Van": 7.25,
+        "Anh": 4,
+        "Toan": 3.25,
+        "Tong": 14.5,
+        "Rank": 608
+    },
+    {
+        "Name": "Đặng Mạnh Hiển",
+        "ID": 270243,
+        "Van": 7.75,
+        "Anh": 2.2,
+        "Toan": 4.5,
+        "Tong": 14.45,
+        "Rank": 609
+    },
+    {
+        "Name": "Vũ Đình Hải Nam",
+        "ID": 270465,
+        "Van": 7.5,
+        "Anh": 2.2,
+        "Toan": 4.75,
+        "Tong": 14.45,
+        "Rank": 610
+    },
+    {
+        "Name": "Phạm Văn Đức Nhật",
+        "ID": 270509,
+        "Van": 6,
+        "Anh": 3.2,
+        "Toan": 5.25,
+        "Tong": 14.45,
+        "Rank": 611
+    },
+    {
+        "Name": "Trần Công Thái Tú",
+        "ID": 270788,
+        "Van": 7,
+        "Anh": 3.2,
+        "Toan": 4.25,
+        "Tong": 14.45,
+        "Rank": 612
+    },
+    {
+        "Name": "Lưu Thị Điểm",
+        "ID": 270177,
+        "Van": 7,
+        "Anh": 3.4,
+        "Toan": 4,
+        "Tong": 14.4,
+        "Rank": 613
+    },
+    {
+        "Name": "Lê Thị Khánh Hòa",
+        "ID": 270262,
+        "Van": 8.25,
+        "Anh": 2.4,
+        "Toan": 3.75,
+        "Tong": 14.4,
+        "Rank": 614
+    },
+    {
+        "Name": "Nguyễn Thọ Quyền",
+        "ID": 270603,
+        "Van": 8,
+        "Anh": 2.4,
+        "Toan": 4,
+        "Tong": 14.4,
+        "Rank": 615
+    },
+    {
+        "Name": "Nguyễn Hữu Đại",
+        "ID": 270158,
+        "Van": 7.5,
+        "Anh": 2.6,
+        "Toan": 4.25,
+        "Tong": 14.35,
+        "Rank": 616
+    },
+    {
+        "Name": "Hoàng Danh Quân",
+        "ID": 270587,
+        "Van": 7,
+        "Anh": 2.6,
+        "Toan": 4.75,
+        "Tong": 14.35,
+        "Rank": 617
+    },
+    {
+        "Name": "Đường Thị Ngọc Trâm",
+        "ID": 270759,
+        "Van": 7.5,
+        "Anh": 2.6,
+        "Toan": 4.25,
+        "Tong": 14.35,
+        "Rank": 618
+    },
+    {
+        "Name": "Nguyễn Duy Hậu",
+        "ID": 270229,
+        "Van": 6.75,
+        "Anh": 3.8,
+        "Toan": 3.75,
+        "Tong": 14.3,
+        "Rank": 619
+    },
+    {
+        "Name": "Đào Văn Hòa",
+        "ID": 270260,
+        "Van": 7.5,
+        "Anh": 2.8,
+        "Toan": 4,
+        "Tong": 14.3,
+        "Rank": 620
+    },
+    {
+        "Name": "Vũ Văn Nguyên Phong",
+        "ID": 270556,
+        "Van": 7.75,
+        "Anh": 2.8,
+        "Toan": 3.75,
+        "Tong": 14.3,
+        "Rank": 621
+    },
+    {
+        "Name": "Phan Thị Huyền Trang",
+        "ID": 270750,
+        "Van": 7.25,
+        "Anh": 2.8,
+        "Toan": 4.25,
+        "Tong": 14.3,
+        "Rank": 622
+    },
+    {
+        "Name": "Võ Huy Định",
+        "ID": 270180,
+        "Van": 5.5,
+        "Anh": 4,
+        "Toan": 4.75,
+        "Tong": 14.25,
+        "Rank": 623
+    },
+    {
+        "Name": "Nguyễn Thị Hoài Thương",
+        "ID": 270706,
+        "Van": 6.5,
+        "Anh": 3,
+        "Toan": 4.75,
+        "Tong": 14.25,
+        "Rank": 624
+    },
+    {
+        "Name": "Phan Công Việt",
+        "ID": 270824,
+        "Van": 6.75,
+        "Anh": 3.4,
+        "Toan": 4.08,
+        "Tong": 14.23,
+        "Rank": 625
+    },
+    {
+        "Name": "Đường Đại Dương",
+        "ID": 270148,
+        "Van": 8.25,
+        "Anh": 3.2,
+        "Toan": 2.75,
+        "Tong": 14.2,
+        "Rank": 626
+    },
+    {
+        "Name": "Phan Lê Đức",
+        "ID": 270193,
+        "Van": 7,
+        "Anh": 3.2,
+        "Toan": 4,
+        "Tong": 14.2,
+        "Rank": 627
+    },
+    {
+        "Name": "Trương Đình Hiếu",
+        "ID": 270254,
+        "Van": 8,
+        "Anh": 3.2,
+        "Toan": 3,
+        "Tong": 14.2,
+        "Rank": 628
+    },
+    {
+        "Name": "Trần Thế Hậu",
+        "ID": 270231,
+        "Van": 6.25,
+        "Anh": 3.4,
+        "Toan": 4.5,
+        "Tong": 14.15,
+        "Rank": 629
+    },
+    {
+        "Name": "Lê Tuệ Minh",
+        "ID": 270430,
+        "Van": 3.75,
+        "Anh": 3.4,
+        "Toan": 7,
+        "Tong": 14.15,
+        "Rank": 630
+    },
+    {
+        "Name": "Nguyễn Thị Thắm",
+        "ID": 270665,
+        "Van": 6.25,
+        "Anh": 4.4,
+        "Toan": 3.5,
+        "Tong": 14.15,
+        "Rank": 631
+    },
+    {
+        "Name": "Nguyễn Tài Đức",
+        "ID": 270188,
+        "Van": 6,
+        "Anh": 2.8,
+        "Toan": 5.25,
+        "Tong": 14.05,
+        "Rank": 632
+    },
+    {
+        "Name": "Nguyễn Cảnh Lưu",
+        "ID": 270407,
+        "Van": 5.75,
+        "Anh": 3.8,
+        "Toan": 4.5,
+        "Tong": 14.05,
+        "Rank": 633
+    },
+    {
+        "Name": "Phan Đình Nguyên",
+        "ID": 270495,
+        "Van": 7,
+        "Anh": 2.8,
+        "Toan": 4.25,
+        "Tong": 14.05,
+        "Rank": 634
+    },
+    {
+        "Name": "Nguyễn Kiến Quốc",
+        "ID": 270595,
+        "Van": 6.75,
+        "Anh": 2.8,
+        "Toan": 4.5,
+        "Tong": 14.05,
+        "Rank": 635
+    },
+    {
+        "Name": "Nguyễn Kỷ Nguyên",
+        "ID": 270491,
+        "Van": 7,
+        "Anh": 3,
+        "Toan": 4,
+        "Tong": 14,
+        "Rank": 636
+    },
+    {
+        "Name": "Lê Thị Thúy Hà",
+        "ID": 270206,
+        "Van": 5.5,
+        "Anh": 4.2,
+        "Toan": 4.25,
+        "Tong": 13.95,
+        "Rank": 637
+    },
+    {
+        "Name": "Thái Thị Bích Hằng",
+        "ID": 270226,
+        "Van": 8,
+        "Anh": 3.2,
+        "Toan": 2.75,
+        "Tong": 13.95,
+        "Rank": 638
+    },
+    {
+        "Name": "Nguyễn Minh Nhật",
+        "ID": 270508,
+        "Van": 6.25,
+        "Anh": 3.2,
+        "Toan": 4.5,
+        "Tong": 13.95,
+        "Rank": 639
+    },
+    {
+        "Name": "Phan Thị Bảo Trâm",
+        "ID": 270761,
+        "Van": 8.25,
+        "Anh": 2.2,
+        "Toan": 3.5,
+        "Tong": 13.95,
+        "Rank": 640
+    },
+    {
+        "Name": "Nguyễn Thị Thanh Trúc",
+        "ID": 270773,
+        "Van": 6.25,
+        "Anh": 4.2,
+        "Toan": 3.5,
+        "Tong": 13.95,
+        "Rank": 641
+    },
+    {
+        "Name": "Nguyễn Duy Phát",
+        "ID": 270542,
+        "Van": 6.25,
+        "Anh": 2.4,
+        "Toan": 5.25,
+        "Tong": 13.9,
+        "Rank": 642
+    },
+    {
+        "Name": "Hoàng Văn Việt",
+        "ID": 270822,
+        "Van": 6.5,
+        "Anh": 2.4,
+        "Toan": 5,
+        "Tong": 13.9,
+        "Rank": 643
+    },
+    {
+        "Name": "Phan Xuân Vinh",
+        "ID": 270835,
+        "Van": 6.25,
+        "Anh": 3.4,
+        "Toan": 4.25,
+        "Tong": 13.9,
+        "Rank": 644
+    },
+    {
+        "Name": "Dương Anh Vũ",
+        "ID": 270836,
+        "Van": 4.75,
+        "Anh": 4.4,
+        "Toan": 4.75,
+        "Tong": 13.9,
+        "Rank": 645
+    },
+    {
+        "Name": "Phan Thị Khánh Linh",
+        "ID": 270376,
+        "Van": 7,
+        "Anh": 3.6,
+        "Toan": 3.25,
+        "Tong": 13.85,
+        "Rank": 646
+    },
+    {
+        "Name": "Đào Thị Thanh Vân",
+        "ID": 270810,
+        "Van": 6.75,
+        "Anh": 3.6,
+        "Toan": 3.5,
+        "Tong": 13.85,
+        "Rank": 647
+    },
+    {
+        "Name": "Văn Tường Vi",
+        "ID": 270820,
+        "Van": 5.75,
+        "Anh": 4.6,
+        "Toan": 3.5,
+        "Tong": 13.85,
+        "Rank": 648
+    },
+    {
+        "Name": "Nguyễn Thị Thu Hằng",
+        "ID": 270222,
+        "Van": 8.5,
+        "Anh": 2.8,
+        "Toan": 2.5,
+        "Tong": 13.8,
+        "Rank": 649
+    },
+    {
+        "Name": "Phan Công Đức An",
+        "ID": 270008,
+        "Van": 5.5,
+        "Anh": 2,
+        "Toan": 6.25,
+        "Tong": 13.75,
+        "Rank": 650
+    },
+    {
+        "Name": "Phạm Văn Hiệp",
+        "ID": 270249,
+        "Van": 7.75,
+        "Anh": 2.2,
+        "Toan": 3.75,
+        "Tong": 13.7,
+        "Rank": 651
+    },
+    {
+        "Name": "Nguyễn Quỳnh Như",
+        "ID": 270531,
+        "Van": 7.25,
+        "Anh": 3.2,
+        "Toan": 3.25,
+        "Tong": 13.7,
+        "Rank": 652
+    },
+    {
+        "Name": "Nguyễn Duy Toán",
+        "ID": 270730,
+        "Van": 6.75,
+        "Anh": 4.2,
+        "Toan": 2.75,
+        "Tong": 13.7,
+        "Rank": 653
+    },
+    {
+        "Name": "Trần Thị Hà Vy",
+        "ID": 270846,
+        "Van": 4,
+        "Anh": 4.2,
+        "Toan": 5.5,
+        "Tong": 13.7,
+        "Rank": 654
+    },
+    {
+        "Name": "Trần Thanh Bình",
+        "ID": 270093,
+        "Van": 6.8,
+        "Anh": 2.6,
+        "Toan": 4.25,
+        "Tong": 13.65,
+        "Rank": 655
+    },
+    {
+        "Name": "Cao Thị Na",
+        "ID": 270445,
+        "Van": 7.75,
+        "Anh": 2.4,
+        "Toan": 3.5,
+        "Tong": 13.65,
+        "Rank": 656
+    },
+    {
+        "Name": "Trần Bá Vương",
+        "ID": 270838,
+        "Van": 6.5,
+        "Anh": 4.4,
+        "Toan": 2.75,
+        "Tong": 13.65,
+        "Rank": 657
+    },
+    {
+        "Name": "Thái Thị Hải Yến",
+        "ID": 270860,
+        "Van": 7,
+        "Anh": 3.4,
+        "Toan": 3.25,
+        "Tong": 13.65,
+        "Rank": 658
+    },
+    {
+        "Name": "Nguyễn Thị Thanh Hoài",
+        "ID": 270267,
+        "Van": 7.25,
+        "Anh": 2.6,
+        "Toan": 3.75,
+        "Tong": 13.6,
+        "Rank": 659
+    },
+    {
+        "Name": "Bùi Xuân Hoàng",
+        "ID": 270276,
+        "Van": 7,
+        "Anh": 1.6,
+        "Toan": 5,
+        "Tong": 13.6,
+        "Rank": 660
+    },
+    {
+        "Name": "Nguyễn Thị Huyền Linh",
+        "ID": 270370,
+        "Van": 5,
+        "Anh": 3.6,
+        "Toan": 5,
+        "Tong": 13.6,
+        "Rank": 661
+    },
+    {
+        "Name": "Nguyễn Khánh Huyền",
+        "ID": 270302,
+        "Van": 8,
+        "Anh": 2.8,
+        "Toan": 2.75,
+        "Tong": 13.55,
+        "Rank": 662
+    },
+    {
+        "Name": "Phan Thu Thủy",
+        "ID": 270686,
+        "Van": 7.5,
+        "Anh": 2.8,
+        "Toan": 3.25,
+        "Tong": 13.55,
+        "Rank": 663
+    },
+    {
+        "Name": "Lê Khánh Vũ",
+        "ID": 270837,
+        "Van": 7.5,
+        "Anh": 2.8,
+        "Toan": 3.25,
+        "Tong": 13.55,
+        "Rank": 664
+    },
+    {
+        "Name": "Nguyễn Thị Hải Yến",
+        "ID": 270855,
+        "Van": 7.5,
+        "Anh": 1.8,
+        "Toan": 4.25,
+        "Tong": 13.55,
+        "Rank": 665
+    },
+    {
+        "Name": "Nguyễn Thọ Dũng",
+        "ID": 270139,
+        "Van": 8,
+        "Anh": 2,
+        "Toan": 3.5,
+        "Tong": 13.5,
+        "Rank": 666
+    },
+    {
+        "Name": "Nguyễn Thị Hiền",
+        "ID": 270235,
+        "Van": 7.75,
+        "Anh": 2,
+        "Toan": 3.75,
+        "Tong": 13.5,
+        "Rank": 667
+    },
+    {
+        "Name": "Võ Hoàng Nam",
+        "ID": 270463,
+        "Van": 2.5,
+        "Anh": 5,
+        "Toan": 6,
+        "Tong": 13.5,
+        "Rank": 668
+    },
+    {
+        "Name": "Lê Minh Thư",
+        "ID": 270693,
+        "Van": 8,
+        "Anh": 2,
+        "Toan": 3.5,
+        "Tong": 13.5,
+        "Rank": 669
+    },
+    {
+        "Name": "Hoàng Thị Kiều Trinh",
+        "ID": 270766,
+        "Van": 6.75,
+        "Anh": 3,
+        "Toan": 3.75,
+        "Tong": 13.5,
+        "Rank": 670
+    },
+    {
+        "Name": "Trần Phương Nam",
+        "ID": 270462,
+        "Van": 6.75,
+        "Anh": 1.2,
+        "Toan": 5.5,
+        "Tong": 13.45,
+        "Rank": 671
+    },
+    {
+        "Name": "Thái Duy Phát",
+        "ID": 270546,
+        "Van": 5.5,
+        "Anh": 3.2,
+        "Toan": 4.75,
+        "Tong": 13.45,
+        "Rank": 672
+    },
+    {
+        "Name": "Nguyễn Như Quỳnh",
+        "ID": 270609,
+        "Van": 7.5,
+        "Anh": 3.2,
+        "Toan": 2.75,
+        "Tong": 13.45,
+        "Rank": 673
+    },
+    {
+        "Name": "Nguyễn Thị Huyền Vi",
+        "ID": 270815,
+        "Van": 7,
+        "Anh": 2.2,
+        "Toan": 4.25,
+        "Tong": 13.45,
+        "Rank": 674
+    },
+    {
+        "Name": "Nguyễn Khôi Nguyên",
+        "ID": 270490,
+        "Van": 5.75,
+        "Anh": 3.4,
+        "Toan": 4.25,
+        "Tong": 13.4,
+        "Rank": 675
+    },
+    {
+        "Name": "Nguyễn Văn Đức Phát",
+        "ID": 270543,
+        "Van": 4.25,
+        "Anh": 3.4,
+        "Toan": 5.75,
+        "Tong": 13.4,
+        "Rank": 676
+    },
+    {
+        "Name": "Phan Thị Thương",
+        "ID": 270711,
+        "Van": 5,
+        "Anh": 3.4,
+        "Toan": 5,
+        "Tong": 13.4,
+        "Rank": 677
+    },
+    {
+        "Name": "Phan Thị Thuỳ Trang",
+        "ID": 270754,
+        "Van": 7.25,
+        "Anh": 2.4,
+        "Toan": 3.75,
+        "Tong": 13.4,
+        "Rank": 678
+    },
+    {
+        "Name": "Trần Thị Yến Vi",
+        "ID": 270819,
+        "Van": 6.5,
+        "Anh": 3.4,
+        "Toan": 3.5,
+        "Tong": 13.4,
+        "Rank": 679
+    },
+    {
+        "Name": "Phạm Thị Tuyết Trinh",
+        "ID": 270767,
+        "Van": 5.5,
+        "Anh": 3.6,
+        "Toan": 4.25,
+        "Tong": 13.35,
+        "Rank": 680
+    },
+    {
+        "Name": "Hoàng Thái Thúy Hằng",
+        "ID": 270218,
+        "Van": 7,
+        "Anh": 3.8,
+        "Toan": 2.5,
+        "Tong": 13.3,
+        "Rank": 681
+    },
+    {
+        "Name": "Phan Thị Thùy Linh",
+        "ID": 270379,
+        "Van": 6.9,
+        "Anh": 3.4,
+        "Toan": 3,
+        "Tong": 13.3,
+        "Rank": 682
+    },
+    {
+        "Name": "Nguyễn Duy Nhật",
+        "ID": 270507,
+        "Van": 6.25,
+        "Anh": 3.8,
+        "Toan": 3.25,
+        "Tong": 13.3,
+        "Rank": 683
+    },
+    {
+        "Name": "Phan Thế Minh Nhật",
+        "ID": 270510,
+        "Van": 6.5,
+        "Anh": 3,
+        "Toan": 3.75,
+        "Tong": 13.25,
+        "Rank": 684
+    },
+    {
+        "Name": "Đinh Hoàng Tùng Quân",
+        "ID": 270585,
+        "Van": 6.75,
+        "Anh": 4,
+        "Toan": 2.5,
+        "Tong": 13.25,
+        "Rank": 685
+    },
+    {
+        "Name": "Hoàng Thị Linh Nhi",
+        "ID": 270514,
+        "Van": 7.25,
+        "Anh": 3.2,
+        "Toan": 2.75,
+        "Tong": 13.2,
+        "Rank": 686
+    },
+    {
+        "Name": "Nguyễn Hữu Thành Đạt",
+        "ID": 270167,
+        "Van": 5.5,
+        "Anh": 3.4,
+        "Toan": 4.25,
+        "Tong": 13.15,
+        "Rank": 687
+    },
+    {
+        "Name": "Thái Duy Ngân",
+        "ID": 270478,
+        "Van": 7.75,
+        "Anh": 1.6,
+        "Toan": 3.75,
+        "Tong": 13.1,
+        "Rank": 688
+    },
+    {
+        "Name": "Thái Hồng Diệu Châu",
+        "ID": 270100,
+        "Van": 7,
+        "Anh": 2.8,
+        "Toan": 3.25,
+        "Tong": 13.05,
+        "Rank": 689
+    },
+    {
+        "Name": "Nguyễn Văn Lộc",
+        "ID": 270400,
+        "Van": 6.25,
+        "Anh": 3.8,
+        "Toan": 3,
+        "Tong": 13.05,
+        "Rank": 690
+    },
+    {
+        "Name": "Nguyễn Văn Phong",
+        "ID": 270552,
+        "Van": 5.75,
+        "Anh": 3.8,
+        "Toan": 3.5,
+        "Tong": 13.05,
+        "Rank": 691
+    },
+    {
+        "Name": "Ngô Thị Ngọc ánh",
+        "ID": 270062,
+        "Van": 7.5,
+        "Anh": 3,
+        "Toan": 2.5,
+        "Tong": 13,
+        "Rank": 692
+    },
+    {
+        "Name": "Nguyễn Hồng ánh",
+        "ID": 270063,
+        "Van": 7,
+        "Anh": 3,
+        "Toan": 3,
+        "Tong": 13,
+        "Rank": 693
+    },
+    {
+        "Name": "Phan Ngọc ánh",
+        "ID": 270067,
+        "Van": 6.5,
+        "Anh": 3,
+        "Toan": 3.5,
+        "Tong": 13,
+        "Rank": 694
+    },
+    {
+        "Name": "Trần Khánh Tiến",
+        "ID": 270723,
+        "Van": 5.5,
+        "Anh": 4,
+        "Toan": 3.5,
+        "Tong": 13,
+        "Rank": 695
+    },
+    {
+        "Name": "Nguyễn Như ý",
+        "ID": 270850,
+        "Van": 7.75,
+        "Anh": 3,
+        "Toan": 2.25,
+        "Tong": 13,
+        "Rank": 696
+    },
+    {
+        "Name": "Nguyễn Đình Tú",
+        "ID": 270783,
+        "Van": 6.75,
+        "Anh": 3.2,
+        "Toan": 3,
+        "Tong": 12.95,
+        "Rank": 697
+    },
+    {
+        "Name": "Phan Hà Vi",
+        "ID": 270817,
+        "Van": 7,
+        "Anh": 2.2,
+        "Toan": 3.75,
+        "Tong": 12.95,
+        "Rank": 698
+    },
+    {
+        "Name": "Thái Nguyễn Hà Vy",
+        "ID": 270844,
+        "Van": 6.25,
+        "Anh": 3.4,
+        "Toan": 3.25,
+        "Tong": 12.9,
+        "Rank": 699
+    },
+    {
+        "Name": "Bùi Thị Lan Anh",
+        "ID": 270013,
+        "Van": 7,
+        "Anh": 3.6,
+        "Toan": 2.25,
+        "Tong": 12.85,
+        "Rank": 700
+    },
+    {
+        "Name": "Phan Bá Đạt",
+        "ID": 270171,
+        "Van": 3.5,
+        "Anh": 3.6,
+        "Toan": 5.75,
+        "Tong": 12.85,
+        "Rank": 701
+    },
+    {
+        "Name": "Nguyễn Phúc Danh Nghĩa",
+        "ID": 270482,
+        "Van": 7,
+        "Anh": 2.6,
+        "Toan": 3.25,
+        "Tong": 12.85,
+        "Rank": 702
+    },
+    {
+        "Name": "Thái Thị Phương Hoa",
+        "ID": 270258,
+        "Van": 7.25,
+        "Anh": 2.8,
+        "Toan": 2.75,
+        "Tong": 12.8,
+        "Rank": 703
+    },
+    {
+        "Name": "Bùi Yến Nhung",
+        "ID": 270527,
+        "Van": 6.25,
+        "Anh": 2.8,
+        "Toan": 3.75,
+        "Tong": 12.8,
+        "Rank": 704
+    },
+    {
+        "Name": "Phan Đức Hưng",
+        "ID": 270314,
+        "Van": 5.5,
+        "Anh": 3,
+        "Toan": 4.25,
+        "Tong": 12.75,
+        "Rank": 705
+    },
+    {
+        "Name": "Nguyễn Khắc Lâm",
+        "ID": 270358,
+        "Van": 5.5,
+        "Anh": 3,
+        "Toan": 4.25,
+        "Tong": 12.75,
+        "Rank": 706
+    },
+    {
+        "Name": "Thái Hữu Việt",
+        "ID": 270826,
+        "Van": 7.25,
+        "Anh": 3,
+        "Toan": 2.5,
+        "Tong": 12.75,
+        "Rank": 707
+    },
+    {
+        "Name": "Lăng Thị Hằng",
+        "ID": 270220,
+        "Van": 6,
+        "Anh": 4.2,
+        "Toan": 2.5,
+        "Tong": 12.7,
+        "Rank": 708
+    },
+    {
+        "Name": "Nguyễn Văn Khánh",
+        "ID": 270339,
+        "Van": 6.75,
+        "Anh": 3.2,
+        "Toan": 2.75,
+        "Tong": 12.7,
+        "Rank": 709
+    },
+    {
+        "Name": "Phan Văn Quang",
+        "ID": 270582,
+        "Van": 5.25,
+        "Anh": 3.2,
+        "Toan": 4.25,
+        "Tong": 12.7,
+        "Rank": 710
+    },
+    {
+        "Name": "Nguyễn Ngọc Phú",
+        "ID": 270558,
+        "Van": 7.25,
+        "Anh": 2.4,
+        "Toan": 3,
+        "Tong": 12.65,
+        "Rank": 711
+    },
+    {
+        "Name": "Nguyễn Lê Hải Dương",
+        "ID": 270150,
+        "Van": 5.75,
+        "Anh": 3.6,
+        "Toan": 3.25,
+        "Tong": 12.6,
+        "Rank": 712
+    },
+    {
+        "Name": "Nguyễn Thị Yến Nhi",
+        "ID": 270522,
+        "Van": 5.5,
+        "Anh": 2.6,
+        "Toan": 4.5,
+        "Tong": 12.6,
+        "Rank": 713
+    },
+    {
+        "Name": "Đặng Thị Ngọc Vân",
+        "ID": 270811,
+        "Van": 7.25,
+        "Anh": 1.8,
+        "Toan": 3.5,
+        "Tong": 12.55,
+        "Rank": 714
+    },
+    {
+        "Name": "Nguyễn Thị Yến",
+        "ID": 270852,
+        "Van": 3.5,
+        "Anh": 4.8,
+        "Toan": 4.25,
+        "Tong": 12.55,
+        "Rank": 715
+    },
+    {
+        "Name": "Nguyễn Thị Thu Hà",
+        "ID": 270207,
+        "Van": 5.75,
+        "Anh": 4,
+        "Toan": 2.75,
+        "Tong": 12.5,
+        "Rank": 716
+    },
+    {
+        "Name": "Trần Quang Khang",
+        "ID": 270332,
+        "Van": 5.5,
+        "Anh": 2,
+        "Toan": 5,
+        "Tong": 12.5,
+        "Rank": 717
+    },
+    {
+        "Name": "Phan Quốc Quyền Uy",
+        "ID": 270802,
+        "Van": 7.75,
+        "Anh": 2,
+        "Toan": 2.75,
+        "Tong": 12.5,
+        "Rank": 718
+    },
+    {
+        "Name": "Cung Lê Bảo Trâm",
+        "ID": 270758,
+        "Van": 8.25,
+        "Anh": 3.2,
+        "Toan": 1,
+        "Tong": 12.45,
+        "Rank": 719
+    },
+    {
+        "Name": "Vương Mai Hiếu",
+        "ID": 270255,
+        "Van": 6.5,
+        "Anh": 2.6,
+        "Toan": 3.25,
+        "Tong": 12.35,
+        "Rank": 720
+    },
+    {
+        "Name": "Trần Minh Sang",
+        "ID": 270619,
+        "Van": 7.5,
+        "Anh": 1.6,
+        "Toan": 3.25,
+        "Tong": 12.35,
+        "Rank": 721
+    },
+    {
+        "Name": "Hoàng Văn Chính",
+        "ID": 270109,
+        "Van": 3.5,
+        "Anh": 4.8,
+        "Toan": 4,
+        "Tong": 12.3,
+        "Rank": 722
+    },
+    {
+        "Name": "Nguyễn Tài Nguyên",
+        "ID": 270492,
+        "Van": 6.25,
+        "Anh": 2.8,
+        "Toan": 3.25,
+        "Tong": 12.3,
+        "Rank": 723
+    },
+    {
+        "Name": "Phan Thị Ngọc Quỳnh",
+        "ID": 270615,
+        "Van": 8,
+        "Anh": 1.8,
+        "Toan": 2.5,
+        "Tong": 12.3,
+        "Rank": 724
+    },
+    {
+        "Name": "Nguyễn Thu Hoài",
+        "ID": 270268,
+        "Van": 7.25,
+        "Anh": 3,
+        "Toan": 2,
+        "Tong": 12.25,
+        "Rank": 725
+    },
+    {
+        "Name": "Nguyễn Thị Như",
+        "ID": 270532,
+        "Van": 5.75,
+        "Anh": 3,
+        "Toan": 3.5,
+        "Tong": 12.25,
+        "Rank": 726
+    },
+    {
+        "Name": "Thái Thị Thu Hiền",
+        "ID": 270239,
+        "Van": 6,
+        "Anh": 3.2,
+        "Toan": 3,
+        "Tong": 12.2,
+        "Rank": 727
+    },
+    {
+        "Name": "Trần Thị Hiền",
+        "ID": 270241,
+        "Van": 6.5,
+        "Anh": 3.4,
+        "Toan": 2.25,
+        "Tong": 12.15,
+        "Rank": 728
+    },
+    {
+        "Name": "Vũ Tiến Thành",
+        "ID": 270654,
+        "Van": 6.5,
+        "Anh": 2.4,
+        "Toan": 3.25,
+        "Tong": 12.15,
+        "Rank": 729
+    },
+    {
+        "Name": "Hoàng Văn Tình",
+        "ID": 270725,
+        "Van": 6.25,
+        "Anh": 2.4,
+        "Toan": 3.5,
+        "Tong": 12.15,
+        "Rank": 730
+    },
+    {
+        "Name": "Phan Trịnh Duy Báu",
+        "ID": 270084,
+        "Van": 4,
+        "Anh": 5.6,
+        "Toan": 2.5,
+        "Tong": 12.1,
+        "Rank": 731
+    },
+    {
+        "Name": "Phan Văn Hữu",
+        "ID": 270327,
+        "Van": 6,
+        "Anh": 2.6,
+        "Toan": 3.5,
+        "Tong": 12.1,
+        "Rank": 732
+    },
+    {
+        "Name": "Trịnh Thị Khánh Linh",
+        "ID": 270387,
+        "Van": 5.25,
+        "Anh": 3.6,
+        "Toan": 3.25,
+        "Tong": 12.1,
+        "Rank": 733
+    },
+    {
+        "Name": "Nguyễn Công Quân",
+        "ID": 270589,
+        "Van": 5.5,
+        "Anh": 2.6,
+        "Toan": 4,
+        "Tong": 12.1,
+        "Rank": 734
+    },
+    {
+        "Name": "Lê Nguyễn Đình Đô",
+        "ID": 270181,
+        "Van": 6.75,
+        "Anh": 2.8,
+        "Toan": 2.5,
+        "Tong": 12.05,
+        "Rank": 735
+    },
+    {
+        "Name": "Trần Đức Linh",
+        "ID": 270382,
+        "Van": 5,
+        "Anh": 2.8,
+        "Toan": 4.25,
+        "Tong": 12.05,
+        "Rank": 736
+    },
+    {
+        "Name": "Nguyễn Duy Thái",
+        "ID": 270640,
+        "Van": 6.25,
+        "Anh": 2.8,
+        "Toan": 3,
+        "Tong": 12.05,
+        "Rank": 737
+    },
+    {
+        "Name": "Ngô Sỹ Tiến",
+        "ID": 270719,
+        "Van": 6.5,
+        "Anh": 2.8,
+        "Toan": 2.75,
+        "Tong": 12.05,
+        "Rank": 738
+    },
+    {
+        "Name": "Nguyễn Thị Lê Na",
+        "ID": 270447,
+        "Van": 7,
+        "Anh": 2,
+        "Toan": 3,
+        "Tong": 12,
+        "Rank": 739
+    },
+    {
+        "Name": "Vũ Văn Bảo Nam",
+        "ID": 270467,
+        "Van": 6,
+        "Anh": 2,
+        "Toan": 4,
+        "Tong": 12,
+        "Rank": 740
+    },
+    {
+        "Name": "Nguyễn Thị Thương",
+        "ID": 270704,
+        "Van": 4.75,
+        "Anh": 4,
+        "Toan": 3.25,
+        "Tong": 12,
+        "Rank": 741
+    },
+    {
+        "Name": "Vũ Hà Thanh An",
+        "ID": 270012,
+        "Van": 5.5,
+        "Anh": 3.2,
+        "Toan": 3.25,
+        "Tong": 11.95,
+        "Rank": 742
+    },
+    {
+        "Name": "Bùi Thị Loan",
+        "ID": 270394,
+        "Van": 5,
+        "Anh": 4.2,
+        "Toan": 2.75,
+        "Tong": 11.95,
+        "Rank": 743
+    },
+    {
+        "Name": "Nguyễn Cảnh Nam",
+        "ID": 270453,
+        "Van": 5.75,
+        "Anh": 3.2,
+        "Toan": 3,
+        "Tong": 11.95,
+        "Rank": 744
+    },
+    {
+        "Name": "Phan Khôi Nguyên",
+        "ID": 270496,
+        "Van": 4.75,
+        "Anh": 3.2,
+        "Toan": 4,
+        "Tong": 11.95,
+        "Rank": 745
+    },
+    {
+        "Name": "Nguyễn Thị Phương Anh",
+        "ID": 270029,
+        "Van": 7,
+        "Anh": 2.4,
+        "Toan": 2.5,
+        "Tong": 11.9,
+        "Rank": 746
+    },
+    {
+        "Name": "Thái Thị Hường",
+        "ID": 270322,
+        "Van": 7.5,
+        "Anh": 2.4,
+        "Toan": 2,
+        "Tong": 11.9,
+        "Rank": 747
+    },
+    {
+        "Name": "Nguyễn Duy Phát",
+        "ID": 270541,
+        "Van": 6.75,
+        "Anh": 2.6,
+        "Toan": 2.5,
+        "Tong": 11.85,
+        "Rank": 748
+    },
+    {
+        "Name": "Nguyễn Thị Hậu",
+        "ID": 270230,
+        "Van": 4.25,
+        "Anh": 3.8,
+        "Toan": 3.75,
+        "Tong": 11.8,
+        "Rank": 749
+    },
+    {
+        "Name": "Vũ Hồng Thắng",
+        "ID": 270674,
+        "Van": 4,
+        "Anh": 3.8,
+        "Toan": 4,
+        "Tong": 11.8,
+        "Rank": 750
+    },
+    {
+        "Name": "Đồng Trung Dũng",
+        "ID": 270133,
+        "Van": 4.5,
+        "Anh": 2,
+        "Toan": 5.25,
+        "Tong": 11.75,
+        "Rank": 751
+    },
+    {
+        "Name": "Hoàng Minh Quân",
+        "ID": 270588,
+        "Van": 5.5,
+        "Anh": 2,
+        "Toan": 4.25,
+        "Tong": 11.75,
+        "Rank": 752
+    },
+    {
+        "Name": "Nguyễn Thị Hoa Quỳnh",
+        "ID": 270611,
+        "Van": 6.5,
+        "Anh": 3.2,
+        "Toan": 2,
+        "Tong": 11.7,
+        "Rank": 753
+    },
+    {
+        "Name": "Trần Thị Kim Sáng",
+        "ID": 270624,
+        "Van": 7,
+        "Anh": 3.2,
+        "Toan": 1.5,
+        "Tong": 11.7,
+        "Rank": 754
+    },
+    {
+        "Name": "Thái Thị Ngọc ánh",
+        "ID": 270071,
+        "Van": 6.5,
+        "Anh": 2.4,
+        "Toan": 2.75,
+        "Tong": 11.65,
+        "Rank": 755
+    },
+    {
+        "Name": "Lê Văn Nghĩa",
+        "ID": 270481,
+        "Van": 5.25,
+        "Anh": 3.4,
+        "Toan": 3,
+        "Tong": 11.65,
+        "Rank": 756
+    },
+    {
+        "Name": "Nguyễn Thị Lộc",
+        "ID": 270399,
+        "Van": 5.5,
+        "Anh": 2.6,
+        "Toan": 3.5,
+        "Tong": 11.6,
+        "Rank": 757
+    },
+    {
+        "Name": "Nguyễn Lê Đông Vy",
+        "ID": 270839,
+        "Van": 5.75,
+        "Anh": 2.6,
+        "Toan": 3.25,
+        "Tong": 11.6,
+        "Rank": 758
+    },
+    {
+        "Name": "Nguyễn Văn Sang",
+        "ID": 270618,
+        "Van": 5.5,
+        "Anh": 3.8,
+        "Toan": 2.25,
+        "Tong": 11.55,
+        "Rank": 759
+    },
+    {
+        "Name": "Nguyễn Thị Hoa",
+        "ID": 270257,
+        "Van": 6.75,
+        "Anh": 2,
+        "Toan": 2.75,
+        "Tong": 11.5,
+        "Rank": 760
+    },
+    {
+        "Name": "Trần Thị Hường",
+        "ID": 270323,
+        "Van": 6.25,
+        "Anh": 2.2,
+        "Toan": 3,
+        "Tong": 11.45,
+        "Rank": 761
+    },
+    {
+        "Name": "Bùi Văn Mạnh",
+        "ID": 270420,
+        "Van": 2.25,
+        "Anh": 2.2,
+        "Toan": 7,
+        "Tong": 11.45,
+        "Rank": 762
+    },
+    {
+        "Name": "Nguyễn Tâm Sáng",
+        "ID": 270623,
+        "Van": 4.25,
+        "Anh": 2.2,
+        "Toan": 5,
+        "Tong": 11.45,
+        "Rank": 763
+    },
+    {
+        "Name": "Hà Thanh Trúc",
+        "ID": 270771,
+        "Van": 7.75,
+        "Anh": 1.2,
+        "Toan": 2.5,
+        "Tong": 11.45,
+        "Rank": 764
+    },
+    {
+        "Name": "Nguyễn Thị Hà Vi",
+        "ID": 270814,
+        "Van": 6.75,
+        "Anh": 2.2,
+        "Toan": 2.5,
+        "Tong": 11.45,
+        "Rank": 765
+    },
+    {
+        "Name": "Trương Đăng Hoàng Anh",
+        "ID": 270055,
+        "Van": 6,
+        "Anh": 2.6,
+        "Toan": 2.75,
+        "Tong": 11.35,
+        "Rank": 766
+    },
+    {
+        "Name": "Thái Hữu Hiến",
+        "ID": 270244,
+        "Van": 7,
+        "Anh": 2.8,
+        "Toan": 1.5,
+        "Tong": 11.3,
+        "Rank": 767
+    },
+    {
+        "Name": "Phạm Thị ánh Quyên",
+        "ID": 270602,
+        "Van": 4.5,
+        "Anh": 3.8,
+        "Toan": 3,
+        "Tong": 11.3,
+        "Rank": 768
+    },
+    {
+        "Name": "Phan Thị Anh",
+        "ID": 270046,
+        "Van": 5.5,
+        "Anh": 2,
+        "Toan": 3.75,
+        "Tong": 11.25,
+        "Rank": 769
+    },
+    {
+        "Name": "Nguyễn Công Mạnh",
+        "ID": 270422,
+        "Van": 4,
+        "Anh": 2,
+        "Toan": 5.25,
+        "Tong": 11.25,
+        "Rank": 770
+    },
+    {
+        "Name": "Nguyễn Thọ Hoàn",
+        "ID": 270274,
+        "Van": 5,
+        "Anh": 2.2,
+        "Toan": 4,
+        "Tong": 11.2,
+        "Rank": 771
+    },
+    {
+        "Name": "Trần Văn Hòa",
+        "ID": 270266,
+        "Van": 5.5,
+        "Anh": 2.4,
+        "Toan": 3.25,
+        "Tong": 11.15,
+        "Rank": 772
+    },
+    {
+        "Name": "Nguyễn Xuân Mạnh",
+        "ID": 270426,
+        "Van": 5.25,
+        "Anh": 2.4,
+        "Toan": 3.5,
+        "Tong": 11.15,
+        "Rank": 773
+    },
+    {
+        "Name": "Lê Xuân Hòa",
+        "ID": 270263,
+        "Van": 6,
+        "Anh": 2.6,
+        "Toan": 2.5,
+        "Tong": 11.1,
+        "Rank": 774
+    },
+    {
+        "Name": "Nguyễn Viết Ngọc",
+        "ID": 270488,
+        "Van": 4.75,
+        "Anh": 3.6,
+        "Toan": 2.75,
+        "Tong": 11.1,
+        "Rank": 775
+    },
+    {
+        "Name": "Lê Công Đức",
+        "ID": 270185,
+        "Van": 5.25,
+        "Anh": 2.8,
+        "Toan": 3,
+        "Tong": 11.05,
+        "Rank": 776
+    },
+    {
+        "Name": "Lê Thị Yến Nhi",
+        "ID": 270517,
+        "Van": 6.75,
+        "Anh": 1.8,
+        "Toan": 2.5,
+        "Tong": 11.05,
+        "Rank": 777
+    },
+    {
+        "Name": "Phan Văn Tình",
+        "ID": 270727,
+        "Van": 4.25,
+        "Anh": 2.8,
+        "Toan": 4,
+        "Tong": 11.05,
+        "Rank": 778
+    },
+    {
+        "Name": "Đào Bình An",
+        "ID": 270002,
+        "Van": 5,
+        "Anh": 3,
+        "Toan": 3,
+        "Tong": 11,
+        "Rank": 779
+    },
+    {
+        "Name": "Thái Hữu Lê Đức",
+        "ID": 270196,
+        "Van": 4.75,
+        "Anh": 2,
+        "Toan": 4.25,
+        "Tong": 11,
+        "Rank": 780
+    },
+    {
+        "Name": "Phan Thị Thanh Nhàn",
+        "ID": 270501,
+        "Van": 5,
+        "Anh": 2,
+        "Toan": 4,
+        "Tong": 11,
+        "Rank": 781
+    },
+    {
+        "Name": "Vương Văn Phong",
+        "ID": 270557,
+        "Van": 4.5,
+        "Anh": 3,
+        "Toan": 3.5,
+        "Tong": 11,
+        "Rank": 782
+    },
+    {
+        "Name": "Trần Thượng Tú",
+        "ID": 270789,
+        "Van": 5.5,
+        "Anh": 4,
+        "Toan": 1.5,
+        "Tong": 11,
+        "Rank": 783
+    },
+    {
+        "Name": "Tô Quang Thành An",
+        "ID": 270011,
+        "Van": 4,
+        "Anh": 3.2,
+        "Toan": 3.75,
+        "Tong": 10.95,
+        "Rank": 784
+    },
+    {
+        "Name": "Phan Công Đức",
+        "ID": 270192,
+        "Van": 6.25,
+        "Anh": 2.2,
+        "Toan": 2.5,
+        "Tong": 10.95,
+        "Rank": 785
+    },
+    {
+        "Name": "Nguyễn Thùy Dương",
+        "ID": 270153,
+        "Van": 7,
+        "Anh": 1.4,
+        "Toan": 2.5,
+        "Tong": 10.9,
+        "Rank": 786
+    },
+    {
+        "Name": "Hồ Thị Yến Nhi",
+        "ID": 270516,
+        "Van": 5.5,
+        "Anh": 2.4,
+        "Toan": 3,
+        "Tong": 10.9,
+        "Rank": 787
+    },
+    {
+        "Name": "Đặng Trọng Hướng",
+        "ID": 270326,
+        "Van": 5.5,
+        "Anh": 3.6,
+        "Toan": 1.75,
+        "Tong": 10.85,
+        "Rank": 788
+    },
+    {
+        "Name": "Hà Văn Minh",
+        "ID": 270429,
+        "Van": 3.75,
+        "Anh": 2.6,
+        "Toan": 4.5,
+        "Tong": 10.85,
+        "Rank": 789
+    },
+    {
+        "Name": "Huỳnh Thế Anh",
+        "ID": 270017,
+        "Van": 4.5,
+        "Anh": 2.8,
+        "Toan": 3.5,
+        "Tong": 10.8,
+        "Rank": 790
+    },
+    {
+        "Name": "Nguyễn Thị Thi",
+        "ID": 270676,
+        "Van": 6,
+        "Anh": 2.4,
+        "Toan": 2.25,
+        "Tong": 10.65,
+        "Rank": 791
+    },
+    {
+        "Name": "Đặng Trọng Hiệp Hoàng",
+        "ID": 270277,
+        "Van": 3,
+        "Anh": 4.6,
+        "Toan": 3,
+        "Tong": 10.6,
+        "Rank": 792
+    },
+    {
+        "Name": "Lê Văn Nam",
+        "ID": 270451,
+        "Van": 6.5,
+        "Anh": 2.6,
+        "Toan": 1.5,
+        "Tong": 10.6,
+        "Rank": 793
+    },
+    {
+        "Name": "Trần Văn Bảo",
+        "ID": 270083,
+        "Van": 3.25,
+        "Anh": 2.8,
+        "Toan": 4.5,
+        "Tong": 10.55,
+        "Rank": 794
+    },
+    {
+        "Name": "Nguyễn Cảnh Nam",
+        "ID": 270454,
+        "Van": 5,
+        "Anh": 2,
+        "Toan": 3.5,
+        "Tong": 10.5,
+        "Rank": 795
+    },
+    {
+        "Name": "Phan Thị Vân Anh",
+        "ID": 270049,
+        "Van": 5.5,
+        "Anh": 2.4,
+        "Toan": 2.5,
+        "Tong": 10.4,
+        "Rank": 796
+    },
+    {
+        "Name": "Nguyễn Thị Thu Quỳnh",
+        "ID": 270612,
+        "Van": 3.5,
+        "Anh": 3.6,
+        "Toan": 3.25,
+        "Tong": 10.35,
+        "Rank": 797
+    },
+    {
+        "Name": "Thái Thị Anh Thư",
+        "ID": 270700,
+        "Van": 6,
+        "Anh": 1.8,
+        "Toan": 2.5,
+        "Tong": 10.3,
+        "Rank": 798
+    },
+    {
+        "Name": "Trần Thị Hường",
+        "ID": 270324,
+        "Van": 4.25,
+        "Anh": 3,
+        "Toan": 3,
+        "Tong": 10.25,
+        "Rank": 799
+    },
+    {
+        "Name": "Trần Hiệp Đức",
+        "ID": 270199,
+        "Van": 5.25,
+        "Anh": 2.6,
+        "Toan": 2.25,
+        "Tong": 10.1,
+        "Rank": 800
+    },
+    {
+        "Name": "Thái Thị Nguyệt",
+        "ID": 270498,
+        "Van": 5.75,
+        "Anh": 1.6,
+        "Toan": 2.75,
+        "Tong": 10.1,
+        "Rank": 801
+    },
+    {
+        "Name": "Nguyễn Hữu Hà Vinh",
+        "ID": 270830,
+        "Van": 4,
+        "Anh": 2.6,
+        "Toan": 3.5,
+        "Tong": 10.1,
+        "Rank": 802
+    },
+    {
+        "Name": "Nguyễn Trí Kiên",
+        "ID": 270350,
+        "Van": 5.5,
+        "Anh": 1.8,
+        "Toan": 2.75,
+        "Tong": 10.05,
+        "Rank": 803
+    },
+    {
+        "Name": "Hoàng Thị Nga",
+        "ID": 270469,
+        "Van": 5.5,
+        "Anh": 1.8,
+        "Toan": 2.75,
+        "Tong": 10.05,
+        "Rank": 804
+    },
+    {
+        "Name": "Nguyễn Trần Nhân",
+        "ID": 270504,
+        "Van": 5,
+        "Anh": 2.8,
+        "Toan": 2.25,
+        "Tong": 10.05,
+        "Rank": 805
+    },
+    {
+        "Name": "Ngô Văn Sang",
+        "ID": 270617,
+        "Van": 5,
+        "Anh": 3,
+        "Toan": 2,
+        "Tong": 10,
+        "Rank": 806
+    },
+    {
+        "Name": "Đinh Hữu Cường",
+        "ID": 270118,
+        "Van": 4,
+        "Anh": 2.2,
+        "Toan": 3.75,
+        "Tong": 9.95,
+        "Rank": 807
+    },
+    {
+        "Name": "Phan Thị Hoàng Yến",
+        "ID": 270858,
+        "Van": 5.25,
+        "Anh": 3.2,
+        "Toan": 1.5,
+        "Tong": 9.95,
+        "Rank": 808
+    },
+    {
+        "Name": "Thái Văn Đức",
+        "ID": 270197,
+        "Van": 4.25,
+        "Anh": 2.6,
+        "Toan": 3,
+        "Tong": 9.85,
+        "Rank": 809
+    },
+    {
+        "Name": "Phan Viết Long",
+        "ID": 270397,
+        "Van": 5.5,
+        "Anh": 1.6,
+        "Toan": 2.75,
+        "Tong": 9.85,
+        "Rank": 810
+    },
+    {
+        "Name": "Đặng Thị Thuỳ Linh",
+        "ID": 270363,
+        "Van": 3,
+        "Anh": 3.8,
+        "Toan": 3,
+        "Tong": 9.8,
+        "Rank": 811
+    },
+    {
+        "Name": "Trần Hoàng Anh Thư",
+        "ID": 270701,
+        "Van": 4.5,
+        "Anh": 3.8,
+        "Toan": 1.5,
+        "Tong": 9.8,
+        "Rank": 812
+    },
+    {
+        "Name": "Thái Hữu Hiệu",
+        "ID": 270256,
+        "Van": 5.75,
+        "Anh": 2,
+        "Toan": 2,
+        "Tong": 9.75,
+        "Rank": 813
+    },
+    {
+        "Name": "Phan Đăng Tráng",
+        "ID": 270756,
+        "Van": 5,
+        "Anh": 3.2,
+        "Toan": 1.5,
+        "Tong": 9.7,
+        "Rank": 814
+    },
+    {
+        "Name": "Phan Thị Hồng Hạnh",
+        "ID": 270216,
+        "Van": 3.5,
+        "Anh": 3.6,
+        "Toan": 2.5,
+        "Tong": 9.6,
+        "Rank": 815
+    },
+    {
+        "Name": "Phan Doãn Nam",
+        "ID": 270459,
+        "Van": 4,
+        "Anh": 2.6,
+        "Toan": 3,
+        "Tong": 9.6,
+        "Rank": 816
+    },
+    {
+        "Name": "Vũ Văn Đức",
+        "ID": 270200,
+        "Van": 5,
+        "Anh": 2.2,
+        "Toan": 2.25,
+        "Tong": 9.45,
+        "Rank": 817
+    },
+    {
+        "Name": "Hoàng Ngọc Long",
+        "ID": 270395,
+        "Van": 5,
+        "Anh": 3.2,
+        "Toan": 1.25,
+        "Tong": 9.45,
+        "Rank": 818
+    },
+    {
+        "Name": "Nguyễn Thị Minh Thư",
+        "ID": 270699,
+        "Van": 5,
+        "Anh": 1.6,
+        "Toan": 2.83,
+        "Tong": 9.43,
+        "Rank": 819
+    },
+    {
+        "Name": "Nguyễn Minh Đức",
+        "ID": 270187,
+        "Van": 4.75,
+        "Anh": 3.6,
+        "Toan": 1,
+        "Tong": 9.35,
+        "Rank": 820
+    },
+    {
+        "Name": "Lê Thị Hà Giang",
+        "ID": 270202,
+        "Van": 3.25,
+        "Anh": 3.6,
+        "Toan": 2.5,
+        "Tong": 9.35,
+        "Rank": 821
+    },
+    {
+        "Name": "Thái Hữu Tráng",
+        "ID": 270757,
+        "Van": 4.5,
+        "Anh": 2.6,
+        "Toan": 2.25,
+        "Tong": 9.35,
+        "Rank": 822
+    },
+    {
+        "Name": "Trần Anh Đức",
+        "ID": 270198,
+        "Van": 3.75,
+        "Anh": 3.2,
+        "Toan": 2.25,
+        "Tong": 9.2,
+        "Rank": 823
+    },
+    {
+        "Name": "Hoàng Anh Tuấn",
+        "ID": 270794,
+        "Van": 4.75,
+        "Anh": 3.2,
+        "Toan": 1.25,
+        "Tong": 9.2,
+        "Rank": 824
+    },
+    {
+        "Name": "Nguyễn Thọ Văn",
+        "ID": 270809,
+        "Van": 5,
+        "Anh": 1.2,
+        "Toan": 3,
+        "Tong": 9.2,
+        "Rank": 825
+    },
+    {
+        "Name": "Phạm Xuân Bằng",
+        "ID": 270089,
+        "Van": 4.75,
+        "Anh": 2.4,
+        "Toan": 2,
+        "Tong": 9.15,
+        "Rank": 826
+    },
+    {
+        "Name": "Đào Gia Huy",
+        "ID": 270294,
+        "Van": 4.75,
+        "Anh": 2.4,
+        "Toan": 2,
+        "Tong": 9.15,
+        "Rank": 827
+    },
+    {
+        "Name": "Nguyễn Thành Vinh",
+        "ID": 270831,
+        "Van": 5.25,
+        "Anh": 1.4,
+        "Toan": 2.5,
+        "Tong": 9.15,
+        "Rank": 828
+    },
+    {
+        "Name": "Phan Trung Lực",
+        "ID": 270404,
+        "Van": 4.25,
+        "Anh": 2.6,
+        "Toan": 2.25,
+        "Tong": 9.1,
+        "Rank": 829
+    },
+    {
+        "Name": "Chu Văn Trọng",
+        "ID": 270768,
+        "Van": 5.25,
+        "Anh": 2.6,
+        "Toan": 1.25,
+        "Tong": 9.1,
+        "Rank": 830
+    },
+    {
+        "Name": "Nguyễn Công Thuận An",
+        "ID": 270003,
+        "Van": 4.25,
+        "Anh": 3.2,
+        "Toan": 1.5,
+        "Tong": 8.95,
+        "Rank": 831
+    },
+    {
+        "Name": "Trần Thượng Quốc",
+        "ID": 270596,
+        "Van": 2.5,
+        "Anh": 3.4,
+        "Toan": 3,
+        "Tong": 8.9,
+        "Rank": 832
+    },
+    {
+        "Name": "Đặng Xuân Độ",
+        "ID": 270182,
+        "Van": 3.75,
+        "Anh": 1.6,
+        "Toan": 3.5,
+        "Tong": 8.85,
+        "Rank": 833
+    },
+    {
+        "Name": "Trương Đăng Hữu",
+        "ID": 270328,
+        "Van": 5.75,
+        "Anh": 2.6,
+        "Toan": 0.5,
+        "Tong": 8.85,
+        "Rank": 834
+    },
+    {
+        "Name": "Thái Thị Thanh Hoa",
+        "ID": 270259,
+        "Van": 3.5,
+        "Anh": 2.8,
+        "Toan": 2.5,
+        "Tong": 8.8,
+        "Rank": 835
+    },
+    {
+        "Name": "Trần Nhật Huy",
+        "ID": 270297,
+        "Van": 4,
+        "Anh": 3,
+        "Toan": 1.75,
+        "Tong": 8.75,
+        "Rank": 836
+    },
+    {
+        "Name": "Nguyễn Văn Quý",
+        "ID": 270600,
+        "Van": 4.75,
+        "Anh": 2,
+        "Toan": 2,
+        "Tong": 8.75,
+        "Rank": 837
+    },
+    {
+        "Name": "Nguyễn Viết Tâm",
+        "ID": 270634,
+        "Van": 3.75,
+        "Anh": 2,
+        "Toan": 3,
+        "Tong": 8.75,
+        "Rank": 838
+    },
+    {
+        "Name": "Nguyễn Đức Nhật Anh",
+        "ID": 270020,
+        "Van": 3,
+        "Anh": 2.4,
+        "Toan": 3.25,
+        "Tong": 8.65,
+        "Rank": 839
+    },
+    {
+        "Name": "Phan Bảo Nam",
+        "ID": 270458,
+        "Van": 4.5,
+        "Anh": 1.4,
+        "Toan": 2.7,
+        "Tong": 8.6,
+        "Rank": 840
+    },
+    {
+        "Name": "Nguyễn Hữu Phong",
+        "ID": 270550,
+        "Van": 3.75,
+        "Anh": 2.8,
+        "Toan": 2,
+        "Tong": 8.55,
+        "Rank": 841
+    },
+    {
+        "Name": "Phan Thị Hải Yến",
+        "ID": 270857,
+        "Van": 4.25,
+        "Anh": 3.8,
+        "Toan": 0.5,
+        "Tong": 8.55,
+        "Rank": 842
+    },
+    {
+        "Name": "Thân Minh Quý",
+        "ID": 270601,
+        "Van": 4,
+        "Anh": 2.4,
+        "Toan": 2,
+        "Tong": 8.4,
+        "Rank": 843
+    },
+    {
+        "Name": "Phan Bá Hoàn",
+        "ID": 270275,
+        "Van": 3,
+        "Anh": 3.4,
+        "Toan": 1.75,
+        "Tong": 8.15,
+        "Rank": 844
+    },
+    {
+        "Name": "Lê Công Chính",
+        "ID": 270110,
+        "Van": 2.75,
+        "Anh": 2.2,
+        "Toan": 3,
+        "Tong": 7.95,
+        "Rank": 845
+    },
+    {
+        "Name": "Vũ Minh Vy",
+        "ID": 270847,
+        "Van": 3.5,
+        "Anh": 2.2,
+        "Toan": 2.25,
+        "Tong": 7.95,
+        "Rank": 846
+    },
+    {
+        "Name": "Phan Văn Bình",
+        "ID": 270092,
+        "Van": 3,
+        "Anh": 2.4,
+        "Toan": 2.5,
+        "Tong": 7.9,
+        "Rank": 847
+    },
+    {
+        "Name": "Hoàng Ngọc Anh",
+        "ID": 270016,
+        "Van": 4,
+        "Anh": 1.6,
+        "Toan": 2.25,
+        "Tong": 7.85,
+        "Rank": 848
+    },
+    {
+        "Name": "Nguyễn Trung Hiếu",
+        "ID": 270252,
+        "Van": 5,
+        "Anh": 2,
+        "Toan": 0.5,
+        "Tong": 7.5,
+        "Rank": 849
+    },
+    {
+        "Name": "Võ Nguyên Hùng",
+        "ID": 270293,
+        "Van": 2.5,
+        "Anh": 2,
+        "Toan": 3,
+        "Tong": 7.5,
+        "Rank": 850
+    },
+    {
+        "Name": "Đào Quang Trường",
+        "ID": 270778,
+        "Van": 4.5,
+        "Anh": 1.4,
+        "Toan": 1.5,
+        "Tong": 7.4,
+        "Rank": 851
+    },
+    {
+        "Name": "Nguyễn Hữu Khôi Nguyên",
+        "ID": 270489,
+        "Van": 3,
+        "Anh": 1.8,
+        "Toan": 2.25,
+        "Tong": 7.05,
+        "Rank": 852
+    },
+    {
+        "Name": "Nguyễn Xuân Thông",
+        "ID": 270681,
+        "Van": 5,
+        "Anh": 1.4,
+        "Toan": 0.5,
+        "Tong": 6.9,
+        "Rank": 853
+    },
+    {
+        "Name": "Trần Văn Oai",
+        "ID": 270537,
+        "Van": 2,
+        "Anh": 2.8,
+        "Toan": 2,
+        "Tong": 6.8,
+        "Rank": 854
+    },
+    {
+        "Name": "Phan Việt Đức",
+        "ID": 270194,
+        "Van": 2.5,
+        "Anh": 1.6,
+        "Toan": 2.5,
+        "Tong": 6.6,
+        "Rank": 855
+    },
+    {
+        "Name": "Phan Văn Khoa",
+        "ID": 270346,
+        "Van": 3,
+        "Anh": 2,
+        "Toan": 1.5,
+        "Tong": 6.5,
+        "Rank": 856
+    },
+    {
+        "Name": "Chu Yến Nhi",
+        "ID": 270512,
+        "Van": 2,
+        "Anh": 3.2,
+        "Toan": 0.75,
+        "Tong": 5.95,
+        "Rank": 857
+    },
+    {
+        "Name": "Nguyễn Cảnh Đồng",
+        "ID": 270183,
+        "Van": 1.75,
+        "Anh": 1.8,
+        "Toan": 2,
+        "Tong": 5.55,
+        "Rank": 858
+    },
+    {
+        "Name": "Trần Văn Hiệp",
+        "ID": 270250,
+        "Van": 2,
+        "Anh": 1.8,
+        "Toan": 1.5,
+        "Tong": 5.3,
+        "Rank": 859
+    }
+]

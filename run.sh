@@ -1,0 +1,1 @@
+gunicorn app:"app" --log-level=debug -w 1 --threads 60 -b 0.0.0.0:5000
