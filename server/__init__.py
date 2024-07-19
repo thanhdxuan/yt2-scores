@@ -7,11 +7,11 @@ CORS(app)
 
 def get_db_connection():
    conn = sqlite3.connect('data.db')
-   # conn.row_factory = sqlite3.Row
    return conn
 
 @app.route('/rank/<param>', methods=['POST', 'GET'])
 def hello(param):
+   app.logger.debug(f"GET: {param}")
    conn = get_db_connection()
    cur = conn.cursor()
    cond = re.compile(r"\d{6}")
@@ -19,6 +19,7 @@ def hello(param):
       html = '<p class="text-danger">Vui lòng nhập số báo danh hợp lệ!</p>'
       return html
    scores = cur.execute(f'SELECT * FROM scores WHERE scores.ID = {param};').fetchall()
+   app.logger.debug(f"GOT IN DB: {scores}")
    conn.close()
 
    if scores:
